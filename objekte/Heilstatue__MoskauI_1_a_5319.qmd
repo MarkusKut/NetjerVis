@@ -1,0 +1,194 @@
+---
+title: "Objektblatt: Moskau, I.1.a.5319"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Würfelhocker mit Horusstele
+
+**Standort:** Staatliches Museum für Bildende Künste A. S. Puschkin, Moskau
+
+**Inventarnummer:** I.1.a.5319
+
+**Material:** grauer Granit
+
+**Herkunft:** unbekannt
+
+**Provenienz:** 1909: Ankauf aus der Sammlung von Wladimir Golenischeff; wohl seit 1877 in Golenischeffs Sammlung
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** nur noch Körper ist erhalten, Kopf und Hals, sowie Teile der linken Schulter und des Armes sind abgebrochen, Oberseite des Schurzes noch erhalten; oberes Ende der Horusstele mit der Bes-Maske und Basis der Horusstele sind abgebrochen; vorderer Teil der Füße ebenfalls abgebrochen; Sockel an allen Seiten grob abgebrochen
+
+## Figuren
+
+113 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:MoskauI_1_a_5319:261 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:262 | Vorderseite | 1 | 2 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:263 | Vorderseite | 1 | 3 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:264 | Vorderseite | 1 | 4 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:265 | Vorderseite | 1 | 5 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:266 | Vorderseite | 1 | 6 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:267 | Vorderseite | 2 | 1 | Ḥr.w | Horus mit Atef-Krone |
+| — | heilstatue:MoskauI_1_a_5319:268 | Vorderseite | 2 | 2 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:269 | Vorderseite | 2 | 3 | Ꜣs.t | Isis |
+| — | heilstatue:MoskauI_1_a_5319:270 | Vorderseite | 1–2 | 1 | Ḥr.w | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:271 | Vorderseite | 4 | 1 | Sꜣḥ | Sach |
+| — | heilstatue:MoskauI_1_a_5319:272 | Vorderseite | 5 | 1 | Mnw | Min |
+| — | heilstatue:MoskauI_1_a_5319:273 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:274 | Vorderseite | 1 | 2 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:275 | Vorderseite | 1 | 3 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:276 | Vorderseite | 1 | 4 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:277 | Vorderseite | 1 | 5 | Bꜣ | Ba von Mendes |
+| — | heilstatue:MoskauI_1_a_5319:278 | Vorderseite | 2 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:279 | Vorderseite | 2 | 2 | Rꜥw | — |
+| — | heilstatue:MoskauI_1_a_5319:280 | Vorderseite | 2 | 3 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:281 | Vorderseite | 1–2 | 1 | Ḥr.w | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:281.10000000000002 | Vorderseite | 3 | 1 | — | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:282 | Rechte Seite | 1–2 | 1 | Bꜣ | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:283 | Rechte Seite | 1–2 | 2 | Ḥꜣ.t-mḥ.yt | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:284 | Rechte Seite | 1 | 1 | Ḥr.w | Falke auf Antilope |
+| — | heilstatue:MoskauI_1_a_5319:285 | Rechte Seite | 1 | 2 | Ḏḥw.tj | Thoth, der Herr von Hermopolis, der Herr der Gottesworte |
+| — | heilstatue:MoskauI_1_a_5319:286 | Rechte Seite | 1 | 3 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:287 | Rechte Seite | 1 | 4 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:288 | Rechte Seite | 1 | 5 | Ḥꜣ | Cha |
+| — | heilstatue:MoskauI_1_a_5319:289 | Rechte Seite | 1 | 6 | kꜣ wr | Ka-wer |
+| — | heilstatue:MoskauI_1_a_5319:290 | Rechte Seite | 2 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:291 | Rechte Seite | 2 | 2 | zerstört | zerstört |
+| — | heilstatue:MoskauI_1_a_5319:292 | Rechte Seite | 2 | 3 | Ḫns.w | Chons |
+| — | heilstatue:MoskauI_1_a_5319:293 | Rechte Seite | 2 | 4 | Ptḥ | Ptah, der Große, groß an Stärke |
+| — | heilstatue:MoskauI_1_a_5319:294 | Rechte Seite | 2 | 5 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:MoskauI_1_a_5319:295 | Rechte Seite | 2 | 6 | Ḥr.w | Horus, Sohn des Osiris, gebohren von Isis, der Göttin |
+| — | heilstatue:MoskauI_1_a_5319:296 | Rechte Seite | 3 | 1 | Nw.t | Chnum und Nut |
+| — | heilstatue:MoskauI_1_a_5319:297 | Rechte Seite | 3 | 2 | H̱nm.w | Chnum und Nut |
+| — | heilstatue:MoskauI_1_a_5319:298 | Rechte Seite | 3 | 3 | Ptḥ-Tꜣ-tnn | Ptah-Tatennen |
+| — | heilstatue:MoskauI_1_a_5319:299 | Rechte Seite | 3 | 4 | Wr.t-ḥkꜣ.w | Weret-hekau auf Schlange |
+| — | heilstatue:MoskauI_1_a_5319:300 | Rechte Seite | 3.1 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:301 | Rechte Seite | 3.1 | 2 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:302 | Rechte Seite | 3.1 | 3 | Gbb | Geb |
+| — | heilstatue:MoskauI_1_a_5319:303 | Rechte Seite | 3.1 | 4 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:304 | Rechte Seite | 3.1 | 5 | Sbk | hockender Sobek |
+| — | heilstatue:MoskauI_1_a_5319:305 | Rechte Seite | 3.2 | 1 | Ṯnn.t (?) | Tjenenet (?) |
+| — | heilstatue:MoskauI_1_a_5319:306 | Rechte Seite | 3.2 | 2 | Rꜥw | — |
+| — | heilstatue:MoskauI_1_a_5319:307 | Rechte Seite | 3.2 | 3 | Ḏḥw.tj | Thoth |
+| — | heilstatue:MoskauI_1_a_5319:308 | Rechte Seite | 3.2 | 4 | Sḫm.t | Sachmet als Kobra |
+| — | heilstatue:MoskauI_1_a_5319:309 | Rechte Seite | 3.2 | 5 | Sḫm.t | Sachmet als Kobra |
+| — | heilstatue:MoskauI_1_a_5319:310 | Rechte Seite | 4 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:311 | Rechte Seite | 4 | 2 | Ꜣs.t | Isis |
+| — | heilstatue:MoskauI_1_a_5319:312 | Rechte Seite | 4 | 3 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:MoskauI_1_a_5319:313 | Rechte Seite | 4 | 4 | Gbb | Geb |
+| — | heilstatue:MoskauI_1_a_5319:314 | Rechte Seite | 4 | 5 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:315 | Rechte Seite | 4 | 6 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:316 | Rechte Seite | 4 | 7 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:317 | Rechte Seite | 4 | 8 | Ḥr.w | Horus, sonstig |
+| — | heilstatue:MoskauI_1_a_5319:318 | Rechte Seite | 4 | 9 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:319 | Rechte Seite | 4 | 10 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:MoskauI_1_a_5319:320 | Rechte Seite | 4 | 11 | Rꜥw-Ḥr.w-ꜣḫ.tj | Re-Harachte |
+| — | heilstatue:MoskauI_1_a_5319:321 | Rechte Seite | 4 | 12 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:322 | Rechte Seite | 4 | 13 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:323 | Rechte Seite | 5 | 1 | Sḫm.t | Sachmet |
+| — | heilstatue:MoskauI_1_a_5319:324 | Rechte Seite | 5 | 2 | H̱nm.w | Chnum, der Tier aufspießt |
+| — | heilstatue:MoskauI_1_a_5319:325 | Rechte Seite | 5 | 3 | Ḫns.t | Chensit |
+| — | heilstatue:MoskauI_1_a_5319:326 | Rechte Seite | 5 | 4 | Ḏḥw.tj | Ibis auf Standarte |
+| — | heilstatue:MoskauI_1_a_5319:327 | Rechte Seite | 5 | 5 | — | 2 Katzen neben Sistrum |
+| — | heilstatue:MoskauI_1_a_5319:328 | Rechte Seite | 5 | 6 | Ḫpr.j | Chepri |
+| — | heilstatue:MoskauI_1_a_5319:329 | Rechte Seite | 5 | 7 | Mꜣꜥ.t | Maat |
+| — | heilstatue:MoskauI_1_a_5319:330 | Rechte Seite | 5 | 8 | Ḥr.w | Falke auf Papyrusstängel |
+| — | heilstatue:MoskauI_1_a_5319:331 | Rechte Seite | 5 | 9 | Ptḥ | Ptah, der Vater der Götter |
+| — | heilstatue:MoskauI_1_a_5319:332 | Rechte Seite | 5 | 10 | Ḥkꜣ | Heka |
+| — | heilstatue:MoskauI_1_a_5319:333 | Linke Seite | 1–2 | 1 | Bꜣ | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:334 | Linke Seite | 1–2 | 2 | Ḥꜣ.t-mḥ.yt | Adoration vor Gottheiten aus Mendes |
+| — | heilstatue:MoskauI_1_a_5319:335 | Linke Seite | 1 | 1 | Ḥr.w | Horus, der Große |
+| — | heilstatue:MoskauI_1_a_5319:336 | Linke Seite | 1 | 2 | Ḥr.w | Harendotes mit Udjat-Auge |
+| — | heilstatue:MoskauI_1_a_5319:337 | Linke Seite | 1 | 3 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:MoskauI_1_a_5319:338 | Linke Seite | 1 | 4 | — | Nilpferd auf Ouroborus |
+| — | heilstatue:MoskauI_1_a_5319:339 | Linke Seite | 1 | 5 | Sbk | Sobek mit Was-Szepter |
+| — | heilstatue:MoskauI_1_a_5319:340 | Linke Seite | 1 | 6 | Sḫm.t | Sachmet in Schlange |
+| — | heilstatue:MoskauI_1_a_5319:341 | Linke Seite | 1–1,5 | 1 | Ꜣs.t-Srq.t | Isis-Selket |
+| — | heilstatue:MoskauI_1_a_5319:342 | Linke Seite | 1–1,5 | 2 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:MoskauI_1_a_5319:343 | Linke Seite | 1–1,5 | 3 | Ḥr.w | Horus-Behedeti |
+| — | heilstatue:MoskauI_1_a_5319:344 | Linke Seite | 2 | 1 | Mnṯ.w | Month |
+| — | heilstatue:MoskauI_1_a_5319:345 | Linke Seite | 2 | 2 | Ḥr.w | Harsiesis |
+| — | heilstatue:MoskauI_1_a_5319:346 | Linke Seite | 2 | 3 | Ḥr.j-š⸗f | mumienförmiger Herischef |
+| — | heilstatue:MoskauI_1_a_5319:347 | Linke Seite | 2 | 4 | Mꜣꜥ.t | Maat und Ptah |
+| — | heilstatue:MoskauI_1_a_5319:348 | Linke Seite | 2 | 5 | Ptḥ | Maat und Ptah |
+| — | heilstatue:MoskauI_1_a_5319:349 | Linke Seite | 2 | 6 | Jmn-rn⸗f | Zwei Krokodile übereinander, eines in Kapelle |
+| — | heilstatue:MoskauI_1_a_5319:350 | Linke Seite | 3 | 1 | Jn-ḥr.t | Onuris mit Katze auf Podest |
+| — | heilstatue:MoskauI_1_a_5319:351 | Linke Seite | 3 | 2 | Bꜣs.tt | Onuris mit Katze auf Podest |
+| — | heilstatue:MoskauI_1_a_5319:352 | Linke Seite | 3 | 3 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:MoskauI_1_a_5319:353 | Linke Seite | 3.1 | 1 | — | Zwei Skorpione |
+| — | heilstatue:MoskauI_1_a_5319:354 | Linke Seite | 3.1 | 2 | Ꜣs.t | bittende Isis |
+| — | heilstatue:MoskauI_1_a_5319:355 | Linke Seite | 3.1 | 3 | Ḥr.w | Falke auf Papyrusstängel |
+| — | heilstatue:MoskauI_1_a_5319:356 | Linke Seite | 3.1 | 4 | Ḫns.w | Pavian und Kobra |
+| — | heilstatue:MoskauI_1_a_5319:357 | Linke Seite | 3.1 | 5 | Sḫm.t | Pavian und Kobra |
+| — | heilstatue:MoskauI_1_a_5319:358 | Linke Seite | 3.2 | 1 | H̱nm.w | Chnum als Widder |
+| — | heilstatue:MoskauI_1_a_5319:359 | Linke Seite | 3.2 | 2.1 | Ḥr.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| — | heilstatue:MoskauI_1_a_5319:360 | Linke Seite | 3.2 | 2.2000000000000002 | Mnṯ.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| — | heilstatue:MoskauI_1_a_5319:361 | Linke Seite | 3.2 | 3 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:362 | Linke Seite | 4 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:363 | Linke Seite | 4 | 2 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:364 | Linke Seite | 4 | 3 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:365 | Linke Seite | 4 | 4 | Ꜣs.t-Srq.t | Isis-Selket |
+| — | heilstatue:MoskauI_1_a_5319:366 | Linke Seite | 4 | 5 | Wr.t-ḥkꜣ.w | Weret-hekau auf Krokodil |
+| — | heilstatue:MoskauI_1_a_5319:367 | Linke Seite | 4 | 6 | Ḥr.w | Falke auf Papyrusstängel |
+| — | heilstatue:MoskauI_1_a_5319:368 | Linke Seite | 5 | 1 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:369 | Linke Seite | 5 | 2 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:370 | Linke Seite | 5 | 3 | Jp.t | Ipet |
+| — | heilstatue:MoskauI_1_a_5319:371 | Linke Seite | 5 | 4 | — | — |
+| — | heilstatue:MoskauI_1_a_5319:372 | Linke Seite | 5 | 5 | H̱nm.w | Chnum |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Titel, etc. | Ober-/Vorderseite | Panov 2014: 16, Sp. a1–a2 |
+| Titel, etc. | Ober-/Vorderseite | Panov 2014: 16, Sp. a5–a6 |
+| „Augen des Erretters“ | Ober-/Vorderseite | Panov 2014: 19–21, Sp. 1–10 |
+| „Augen des Erretters“ | Ober-/Vorderseite | Panov 2014: 19, 21, Sp. 11–19 |
+| „Anrufung des Re“ (Anfang) | Ober-/Vorderseite | Panov 2014: 24–27, Sp. 20–32 |
+| „Die Hand des Atum“ (Anfang) | Ober-/Vorderseite | Panov 2014: 43–44, Sp. 85–88 |
+| „Die Hand des Re“ | Ober-/Vorderseite | Panov 2014: 62– 63, Sp. 144–159 |
+| verschiedene Sprüche (fragmentarisch erhalten) | Ober-/Vorderseite | Panov 2014: 72 |
+| verschiedene Sprüche (fragmentarisch erhalten) | Ober-/Vorderseite | Panov 2014: 72 |
+| „Anrufung des Re“ (fortgesetzt I) | Rechte Seite | Panov 2014: 26–28, Sp. 33–49 |
+| „Isis und die sieben Skorpione“ (Anfang) | Rechte Seite | Panov 2014: 31–32, Sp. 57–59 |
+| „Isis und die sieben Skorpione“ (fortgesetzt II) | Rechte Seite | Panov 2014: 33–35, Sp. 75–78 |
+| „Isis und die sieben Skorpione“ (fortgesetzt II) | Rechte Seite | Panov 2014: 34–37, Sp. 79–84 |
+| „Die Hand des Atum“ (fortgesetzt) | Linke Seite | Panov 2014: 43– 45, Sp. 89–102 |
+| „Beschwörung von Gift durch Isis“ | Linke Seite | Panov 2014: 50– 51, Sp. 112–116 |
+| „Der Spruch des Aker“ | Linke Seite | Panov 2014: 50, 52, Sp. 117–120 |
+| Spruch gegen Skorpiongift, Isis wird zu ihrem Sohn gerufen (Anfang) (fortgesetzt) | Linke Seite | Panov 2014: 54– 55, Sp. 134–135 |
+| Text B, P-L-Version (fortgesetzt) | Linke Seite | Panov 2014: 54, 56– 58, Sp. 136–137 |
+| Text B, P-L-Version (fortgesetzt) | Linke Seite | Panov 2014: 54, 56– 58, Sp. 138–141 |
+| Text C | Linke Seite | Panov 2014: 54, 59– 61, Sp. 141–143 |
+| „Anrufung des Re“ (fortgesetzt II) | Rückseite | Panov 2014: 26–29, Sp. 50–56 |
+| „Isis und die sieben Skorpione“ (fortgesetzt I) | Rückseite | Panov 2014: 31–32, Sp. 60–74 |
+| Spruch über die Sonne | Rückseite | Panov 2014: 46– 47, Sp. 103–111 |
+| Spruch gegen Skorpiongift, Isis wird zu ihrem Sohn gerufen (Anfang) | Rückseite | Panov 2014: 50, 53, Sp. 121–133 |
+| Text B, P-L-Version (Anfang) | Rückseite | Panov 2014: 68– 69, Sp. 164–165 |
+| Text A | Rückseite | Panov 2014: 64–66, Sp. 160–163 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+| 55 | 34 | 37 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__MoskauI_1_a_5319.md >}}
+

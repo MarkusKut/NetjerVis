@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  pre-render: scripts/build_site.R
+  resources:
+    - www/**
+    - .nojekyll
+
+website:
+  title: "NetjerVis"
+  search: true
+  navbar:
+    left:
+      - text: Startseite
+        href: index.qmd
+      - text: Datenbank
+        href: datenbank.qmd
+      - text: Figurenkatalog
+        href: katalog.qmd
+      - text: Objektkatalog
+        href: objekte/index.qmd
+      - text: Vergleiche
+        href: vergleiche.qmd
+      - text: Methodik
+        href: methodik.qmd
+  page-footer:
+    left: "NetjerVis · Wissenschaftliche Bilddatenbank"
+    right:
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - www/css/quarto-embed.css
+    toc: false
+    link-external-newwindow: true

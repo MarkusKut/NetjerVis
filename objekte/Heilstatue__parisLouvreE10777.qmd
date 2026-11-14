@@ -1,0 +1,182 @@
+---
+title: "Objektblatt: Paris, Louvre, E 10777"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Louvre, Paris
+
+**Inventarnummer:** E 10777
+
+**Material:** Grauwacke / schwarzer Basalt
+
+**Herkunft:** unbekannt
+
+**Provenienz:** 1898: Versteigerung im Hôtel Drouot, Paris und Ankauf Louvre; 1897: in Ägypten gefunden und nach Rom gebracht durch den Grafen Michel Tyszkiewicz; vor 1897: unbekannt
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** unterster Teil des Rückenpfeilers und Teil der Füße bis zu den Knöcheln modern; ansonsten vollständig erhalten;\footnote{Archiv CLES.} auf linker Seite: drei Viertel der Inschrift unter dem Mantel restauriert (nur Teil direkt unterhalb des Mantels ist antik; leichte Absplitterung an der Nase)
+
+## Figuren
+
+106 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:parisLouvreE10777:484 | Vorderseite | 1 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:485 | Vorderseite | 1 | 2 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:486 | Vorderseite | 1 | 3 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:487 | Vorderseite | 1 | 4 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:488 | Vorderseite | 1 | 5 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:489 | Vorderseite | 1 | 6 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:490 | Vorderseite | 1 | 7 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:491 | Vorderseite | 1 | 8 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:492 | Vorderseite | 1 | 9 | — | Anbetung des Amun-Re |
+| — | heilstatue:parisLouvreE10777:493 | Vorderseite | 2 | 1 | Mꜣḥs | Adoration vor Gottheiten aus Leontopolis |
+| — | heilstatue:parisLouvreE10777:494 | Vorderseite | 2 | 2 | Bꜣs.tt | Adoration vor Gottheiten aus Leontopolis |
+| — | heilstatue:parisLouvreE10777:495 | Vorderseite | 1 | 1 | Mꜣꜥ.t | Banebdjedet mit Maat |
+| — | heilstatue:parisLouvreE10777:496 | Vorderseite | 1 | 2 | Bꜣ | Banebdjedet mit Maat |
+| — | heilstatue:parisLouvreE10777:497 | Vorderseite | 2 | 1 | Nw.t | Achtheit |
+| — | heilstatue:parisLouvreE10777:498 | Vorderseite | 2 | 2 | Nwn | Achtheit |
+| — | heilstatue:parisLouvreE10777:499 | Vorderseite | 2 | 3 | — | Achtheit |
+| — | heilstatue:parisLouvreE10777:500 | Vorderseite | 2 | 4 | — | Achtheit |
+| — | heilstatue:parisLouvreE10777:501 | Vorderseite | 3 | 1 | — | Achtheit |
+| — | heilstatue:parisLouvreE10777:502 | Vorderseite | 3 | 2 | — | Achtheit |
+| — | heilstatue:parisLouvreE10777:503 | Vorderseite | 3 | 3 | — | Achtheit |
+| — | heilstatue:parisLouvreE10777:504 | Vorderseite | 3 | 4 | — | Achtheit |
+| — | heilstatue:parisLouvreE10777:505 | Vorderseite | 4 | 1 | Nfr-tm | Nefertem |
+| — | heilstatue:parisLouvreE10777:506 | Vorderseite | 5 | 1 | Ḥw | Chu |
+| — | heilstatue:parisLouvreE10777:507 | Vorderseite | 5 | 2 | Sjꜣ | Sia |
+| — | heilstatue:parisLouvreE10777:508 | Vorderseite | 5 | 3 | Ptḥ | Ptah |
+| — | heilstatue:parisLouvreE10777:509 | Vorderseite | 5 | 4 | Gbb | Geb |
+| ![SVG](../www/drawings/generated/000512_parisLouvreE10777_rueckenpfeiler_r01_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:510 | Rückenpfeiler | 1 | 1 | Ꜣs.t | Isis von Achbit |
+| ![SVG](../www/drawings/generated/000513_parisLouvreE10777_rueckenpfeiler_r02_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:511 | Rückenpfeiler | 2 | 1 | Nḫb.t | Nechbet |
+| ![SVG](../www/drawings/generated/000514_parisLouvreE10777_rueckenpfeiler_r02_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:512 | Rückenpfeiler | 2 | 2 | Sbk.t | Sobeket |
+| ![SVG](../www/drawings/generated/000515_parisLouvreE10777_rueckenpfeiler_r02_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:513 | Rückenpfeiler | 2 | 3 | Srq.t | Selket |
+| ![SVG](../www/drawings/generated/000516_parisLouvreE10777_rueckenpfeiler_r03_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:514 | Rückenpfeiler | 3 | 1 | Srq.t | skorpionköpfige Selket |
+| ![SVG](../www/drawings/generated/000517_parisLouvreE10777_rueckenpfeiler_r03_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:515 | Rückenpfeiler | 3 | 2 | Mnw | Min |
+| ![SVG](../www/drawings/generated/000518_parisLouvreE10777_rueckenpfeiler_r03_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:516 | Rückenpfeiler | 3 | 3 | Ḥr.t | Heret |
+| ![SVG](../www/drawings/generated/000519_parisLouvreE10777_rueckenpfeiler_r04_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:517 | Rückenpfeiler | 4 | 1 | Ꜣs.t | Isis, die Krokodil säugt |
+| ![SVG](../www/drawings/generated/000520_parisLouvreE10777_rueckenpfeiler_r04_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:518 | Rückenpfeiler | 4 | 2 | Sḫm.t | Sachmet als Nilpferd |
+| ![SVG](../www/drawings/generated/000521_parisLouvreE10777_rueckenpfeiler_r04_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:519 | Rückenpfeiler | 4 | 3 | kꜣ wr | Ka-wer |
+| ![SVG](../www/drawings/generated/000522_parisLouvreE10777_rueckenpfeiler_r05_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:520 | Rückenpfeiler | 5 | 1 | Mnṯ.w | Month, der Herr von Theben |
+| ![SVG](../www/drawings/generated/000523_parisLouvreE10777_rueckenpfeiler_r05_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:521 | Rückenpfeiler | 5 | 2 | Šw | Schu, der Schlange aufspießt |
+| ![SVG](../www/drawings/generated/000524_parisLouvreE10777_rueckenpfeiler_r05_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:522 | Rückenpfeiler | 5 | 3 | Srq.t | Selket auf gewundener Schlange |
+| ![SVG](../www/drawings/generated/000525_parisLouvreE10777_rueckenpfeiler_r06_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:523 | Rückenpfeiler | 6 | 1 | Ḥr.w | Horus, der Große, der Herr der beiden Messer |
+| ![SVG](../www/drawings/generated/000526_parisLouvreE10777_rueckenpfeiler_r06_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:524 | Rückenpfeiler | 6 | 2 | Srp.t-mꜣj-sr; Jtm | Box |
+| ![SVG](../www/drawings/generated/000527_parisLouvreE10777_rueckenpfeiler_r07_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:525 | Rückenpfeiler | 7 | 1 | Wr.t-ḥkꜣ.w | Weret-hekau auf Krokodil |
+| ![SVG](../www/drawings/generated/000528_parisLouvreE10777_rueckenpfeiler_r07_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:526 | Rückenpfeiler | 7 | 2 | Jh.t | Ihet-weret |
+| ![SVG](../www/drawings/generated/000529_parisLouvreE10777_rueckenpfeiler_r08_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:527 | Rückenpfeiler | 8 | 1 | Sḫm.t | Sachmet, die Große, die von Ptah geliebt wird |
+| ![SVG](../www/drawings/generated/000530_parisLouvreE10777_rueckenpfeiler_r08_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:528 | Rückenpfeiler | 8 | 2 | Ḥr.j-š⸗f | 4-tierköpfiger Mensch |
+| ![SVG](../www/drawings/generated/000531_parisLouvreE10777_rueckenpfeiler_r08_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:529 | Rückenpfeiler | 8 | 3 | — | Nilpferd mit zwei Köpfen |
+| ![SVG](../www/drawings/generated/000532_parisLouvreE10777_rueckenpfeiler_r09_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:530 | Rückenpfeiler | 9 | 1 | Sbk | Sobek mit Maat-Feder |
+| ![SVG](../www/drawings/generated/000533_parisLouvreE10777_rueckenpfeiler_r09_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:531 | Rückenpfeiler | 9 | 2 | Srq.t | Selket |
+| ![SVG](../www/drawings/generated/000534_parisLouvreE10777_rueckenpfeiler_r09_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:532 | Rückenpfeiler | 9 | 3 | Nfr-tm | Nefertem, der herauskommt aus Memphis |
+| ![SVG](../www/drawings/generated/000535_parisLouvreE10777_rueckenpfeiler_r10_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:533 | Rückenpfeiler | 10 | 1 | Ḥr.w | Falke auf Podest |
+| ![SVG](../www/drawings/generated/000536_parisLouvreE10777_rueckenpfeiler_r10_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:534 | Rückenpfeiler | 10 | 2 | Ḫns.w | pantheistischer Chons |
+| ![SVG](../www/drawings/generated/000537_parisLouvreE10777_rueckenpfeiler_r10_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:535 | Rückenpfeiler | 10 | 3 | H̱nm.w | mumienförmiger Chnum mit Feder |
+| ![SVG](../www/drawings/generated/000538_parisLouvreE10777_rueckenpfeiler_r11_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:536 | Rückenpfeiler | 11 | 1 | Ḥr.j-š⸗f | mumienförmiger Herischef |
+| ![SVG](../www/drawings/generated/000539_parisLouvreE10777_rueckenpfeiler_r11_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:537 | Rückenpfeiler | 11 | 2 | Ḥr.w | Falke auf Pylonen |
+| ![SVG](../www/drawings/generated/000540_parisLouvreE10777_rueckenpfeiler_r11_s03_f01.svg){width=70px} | heilstatue:parisLouvreE10777:538 | Rückenpfeiler | 11 | 3 | — | Nilpferd mit Falke |
+| ![SVG](../www/drawings/generated/000541_parisLouvreE10777_rueckenpfeiler_r12_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:539 | Rückenpfeiler | 12 | 1 | Mw.t | Mut |
+| ![SVG](../www/drawings/generated/000542_parisLouvreE10777_rueckenpfeiler_r12_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:540 | Rückenpfeiler | 12 | 2 | Ḥr.w | Zwei Krokodile in Kapelle |
+| ![SVG](../www/drawings/generated/000543_parisLouvreE10777_rueckenpfeiler_r13_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:541 | Rückenpfeiler | 13 | 1 | Jmn-rn⸗f | Zwei Krokodile in Kapelle |
+| ![SVG](../www/drawings/generated/000544_parisLouvreE10777_rueckenpfeiler_r13_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:542 | Rückenpfeiler | 13 | 2 | Ḫns.w | Chons auf Tor |
+| ![SVG](../www/drawings/generated/000545_parisLouvreE10777_rueckenpfeiler_r14_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:543 | Rückenpfeiler | 14 | 1.1000000000000001 | Ḥr.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| ![SVG](../www/drawings/generated/000546_parisLouvreE10777_rueckenpfeiler_r14_s01_f01.svg){width=70px} | heilstatue:parisLouvreE10777:544 | Rückenpfeiler | 14 | 1.2 | Mnṯ.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| ![SVG](../www/drawings/generated/000547_parisLouvreE10777_rueckenpfeiler_r14_s02_f01.svg){width=70px} | heilstatue:parisLouvreE10777:545 | Rückenpfeiler | 14 | 3 | — | Patäke in Sonnenscheibe auf gekreuzten Krokodilen |
+| — | heilstatue:parisLouvreE10777:546 | Rechte Seite | 1 | 1 | kꜣ wr | Ka-wer |
+| — | heilstatue:parisLouvreE10777:547 | Rechte Seite | 2 | 1 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:parisLouvreE10777:548 | Rechte Seite | 2 | 2 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| — | heilstatue:parisLouvreE10777:549 | Rechte Seite | 3 | 1 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:parisLouvreE10777:550 | Rechte Seite | 3 | 2 | Ḫns.w | Chons |
+| — | heilstatue:parisLouvreE10777:551 | Rechte Seite | 4 | 1 | Ḥr.w | Horus, Sohn des Osiris, gebohren von Isis, der Göttin |
+| — | heilstatue:parisLouvreE10777:552 | Rechte Seite | 4 | 2 | Nfr-tm | Nefertem als Lotos |
+| — | heilstatue:parisLouvreE10777:553 | Rechte Seite | 5 | 1 | Ptḥ-Skr-Wsjr | Ptah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen |
+| — | heilstatue:parisLouvreE10777:554 | Rechte Seite | 5 | 2 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:parisLouvreE10777:555 | Rechte Seite | 6 | 1 | Ḫns.w | Chons in Theben |
+| — | heilstatue:parisLouvreE10777:556 | Rechte Seite | 6 | 2 | Ḥr.w | Horus, groß an Kraft |
+| — | heilstatue:parisLouvreE10777:557 | Rechte Seite | 7 | 1 | Ptḥ-Tꜣ-tnn | Ptah-Tatennen |
+| — | heilstatue:parisLouvreE10777:558 | Rechte Seite | 7 | 2 | Wr.t-ḥkꜣ.w | Weret-hekau auf Schlange |
+| — | heilstatue:parisLouvreE10777:559 | Rechte Seite | 7 | 3 | Srq.t | Selket |
+| — | heilstatue:parisLouvreE10777:560 | Rechte Seite | 8 | 1 | Nw.t | Chnum und Nut |
+| — | heilstatue:parisLouvreE10777:561 | Rechte Seite | 8 | 2 | H̱nm.w | Chnum und Nut |
+| — | heilstatue:parisLouvreE10777:562 | Rechte Seite | 8 | 3 | — | — |
+| — | heilstatue:parisLouvreE10777:563 | Rechte Seite | 8 | 4 | — | — |
+| — | heilstatue:parisLouvreE10777:564 | Rechte Seite | 8 | 5 | Ꜣs.t | Isis und Horus |
+| — | heilstatue:parisLouvreE10777:565 | Rechte Seite | 1 | 1 | — | — |
+| — | heilstatue:parisLouvreE10777:566 | Rechte Seite | 2 | 1 | H̱nm.w | hockender Chnum mit Feder |
+| — | heilstatue:parisLouvreE10777:567 | Rechte Seite | 3 | 1 | — | — |
+| — | heilstatue:parisLouvreE10777:568 | Rechte Seite | 4 | 1 | — | — |
+| — | heilstatue:parisLouvreE10777:569 | Rechte Seite | 5 | 1 | — | hockender Sobek mit Messer |
+| — | heilstatue:parisLouvreE10777:570 | Rechte Seite | 6 | 1 | — | — |
+| — | heilstatue:parisLouvreE10777:571 | Rechte Seite | 7 | 1 | — | — |
+| — | heilstatue:parisLouvreE10777:572 | Rechte Seite | 8 | 1 | H̱nm.w | hockender Chnum mit Feder |
+| — | heilstatue:parisLouvreE10777:573 | Rechte Seite | 1 | 1 | Ḥkꜣ | Falke auf Papyrusstängel |
+| — | heilstatue:parisLouvreE10777:574 | Rechte Seite | 2 | 1 | Ḥr.w | Falke auf Nilpferd |
+| — | heilstatue:parisLouvreE10777:575 | Rechte Seite | 2 | 2 | Sbk | hockender Sobek mit Schlange |
+| — | heilstatue:parisLouvreE10777:576 | Rechte Seite | 3 | 1 | Ḏḥw.tj | Thoth auf Stier |
+| — | heilstatue:parisLouvreE10777:577 | Rechte Seite | 3 | 2 | — | skarabäusköpfige Kobra |
+| — | heilstatue:parisLouvreE10777:578 | Rechte Seite | 4 | 1 | Sḫm.t | liegender Löwe auf Podest |
+| — | heilstatue:parisLouvreE10777:579 | Rechte Seite | 4 | 2 | — | — |
+| — | heilstatue:parisLouvreE10777:580 | Rechte Seite | 5 | 1 | — | — |
+| — | heilstatue:parisLouvreE10777:581 | Rechte Seite | 5 | 2 | — | — |
+| — | heilstatue:parisLouvreE10777:582 | Rechte Seite | 6 | 1 | Ḥr.w | Horus und Thot spießen Schlange auf Krokodil |
+| — | heilstatue:parisLouvreE10777:583 | Rechte Seite | 6 | 2 | Ḏḥw.tj | Horus und Thot spießen Schlange auf Krokodil |
+| — | heilstatue:parisLouvreE10777:584 | Rechte Seite | 6 | 3 | Nj.t | Neith zwei Krokodile säugend |
+| — | heilstatue:parisLouvreE10777:585 | Rechte Seite | 7 | 1 | Ḥr.w | Horus auf Krokodil |
+| — | heilstatue:parisLouvreE10777:586 | Rechte Seite | 7 | 2 | Rw.tj | Ruti |
+| — | heilstatue:parisLouvreE10777:587 | Rechte Seite | 7 | 3 | Ḥr.w | Triumphierender Re-Osiris |
+| — | heilstatue:parisLouvreE10777:588 | Rechte Seite | 7 | 4 | Ḥr.w | Harendotes mit Udjat-Auge |
+| — | heilstatue:parisLouvreE10777:589 | Rechte Seite | 7 | 5 | Srq.t | Göttin mit Skorpionkörper |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| „Anbetung des Sonnengottes“ | Rechte Seite | Panov 2019: 37, 49–50 |
+| „Bring den Kopf des Horus“ | Linke Seite | Panov 2019: 38–39, 55 |
+| „Das Auge des Horus“ | Perücke | Panov 2019: 41, 64 |
+| „Dein Stock tötet Anubis“ | Perücke | Panov 2019: 41, 63– 64 |
+| „Stärkung des Herzens eines von Gift Befallenen“ | Vorderseite | Panov 2019: 32, 43 |
+| „Der Fayence-Zwerg“ | Rechte Seite | Panov 2019: 37, 51 |
+| „Der Herrscher wurde gebissen“ | Linke Seite | Panov 2019: 38–39, 54 |
+| „Der Nagel des Atum“ | Linke Seite | Panov 2019: 38–39, 53 |
+| „Die Elle des Heh“ | Linke Seite | Panov 2019: 38–39, 52 |
+| „Die Flamme zum Himmel“ | Perücke | Panov 2019: 41, 61 |
+| Titel, etc. | Vorderseite | Panov 2019: 32, 42 |
+| „Die Hand des Atum“ (I) | Rechte Seite | Panov 2019: 34–35, 44–46 |
+| „Die Hand des Atum“ (II) | Rechte Seite | Panov 2019: 34–35, 46 |
+| „Euer Gift“ | Perücke | Panov 2019: 41, 62 |
+| Text B, P-R-Version | Vorderseite | Panov 2019: 36–37, 47–49 |
+| „Osiris und Anat“ | Rechte Seite | Panov 2019: 37, 50 |
+| Auszüge | Linke Seite | Panov 2019: 40, 60 |
+| Chnum’s Ansprache | Linke Seite | Panov 2019: 40, 59 |
+| Spruch gegen Schlangen | Linke Seite | Panov 2019: 38–39, 54 |
+| Spruch zum Schutz einer gebissenen Katze | Linke Seite | Panov 2019: 40, 59 |
+| Text B, P-L-Version | Linke Seite | Panov 2019: 36, 40, 56–58 |
+| Text B, P-L-Version | Linke Seite | Panov 2019: 36, 40, 56–58 |
+| Text B, P-L-Version | Linke Seite | Panov 2019: 36, 40, 56–58 |
+| Text B, P-R-Version | Rechte Seite | Panov 2019: 36–37, 47–49 |
+| Text B, P-R-Version | Rechte Seite | Panov 2019: 36–37, 47–49 |
+| Text B, P-R-Version (Ausschnitt) | Rechte Seite | Panov 2019: 37, 50– 51 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 67.7 | 19.5 | 24 | — |
+| 67.7 | 19.5 | 24 | — |
+| 67.7 | 19.5 | 24 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__parisLouvreE10777.md >}}
+

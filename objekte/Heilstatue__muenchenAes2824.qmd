@@ -1,0 +1,65 @@
+---
+title: "Objektblatt: München, ÄS 2824"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Staatliches Musem Ägyptischer Kunst, München
+
+**Inventarnummer:** ÄS 2824
+
+**Material:** Kalkstein mit schwarzer Kalzitader
+
+**Herkunft:** unbekannt
+
+**Provenienz:** 1950: Erweb durch Staatliche Sammlung Ägyptischer Kunst von Wilhelm Spiegelberg; 18. Januar 1927: von Spiegelverg im Antikenhandel Kairo erworben (durch den Antikenhändler Maurice Nahmann)
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** nur noch Teil des Torsos (mit Teil des oberen linken Arms) und Kopf erhalten, Gesicht besonders auf der linken Seite stark beschädigt, Perücke an der rechten Seite zerstört
+
+## Figuren
+
+15 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:muenchenAes2824:373 | Rückenpfeiler | 1 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:muenchenAes2824:374 | Rückenpfeiler | 2 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:muenchenAes2824:375 | Rückenpfeiler | 1–2 | 3 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:muenchenAes2824:376 | Rückenpfeiler | 1 | 4 | — | Anbetung des Amun-Re |
+| — | heilstatue:muenchenAes2824:377 | Rückenpfeiler | 2 | 5 | — | Anbetung des Amun-Re |
+| — | heilstatue:muenchenAes2824:378 | Vorderseite | 1 | 1 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| — | heilstatue:muenchenAes2824:379 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:muenchenAes2824:380 | Vorderseite | 1 | 2 | Ꜣs.t | Isis |
+| — | heilstatue:muenchenAes2824:381 | Vorderseite | 1 | 3 | Mnw | Min |
+| — | heilstatue:muenchenAes2824:382 | Vorderseite | 1 | 4 | Rꜥw | — |
+| — | heilstatue:muenchenAes2824:383 | Vorderseite | 1 | 5 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:muenchenAes2824:384 | Vorderseite | 1 | 6 | Ḥꜣ.t-mḥ.yt | Hatmehit |
+| — | heilstatue:muenchenAes2824:385 | Vorderseite | 2 | 1 | — | — |
+| — | heilstatue:muenchenAes2824:386 | Vorderseite | 2 | 2 | kꜣ wr | Ka-wer |
+| — | heilstatue:muenchenAes2824:387 | Vorderseite | 2 | 3 | Ḥr.w | Horus mit Atef-Krone |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Text A | Rückseite | Grimm 1995: 110 |
+| Text B, P-L-Version (Ende) | Rückseite | Grimm 1995: 110 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 19 | 12.8 | 10.1 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__muenchenAes2824.md >}}
+

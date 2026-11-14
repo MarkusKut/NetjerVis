@@ -1,0 +1,93 @@
+---
+title: "Objektblatt: Stockholm, NME 92"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Medelhavsmuseet, Stockholm
+
+**Inventarnummer:** NME 92
+
+**Material:** Kalkstein
+
+**Herkunft:** unbekannt
+
+**Provenienz:** ab 1954 im heutigen Medelhavsmuseet; ab 1928 in eigenem Ägyptischen Museum; vor 1868 im Nationalmuseum, Stockholm; evtl. in 1750er-Jahren in Sammlung Gustavs III.
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** fast komplett erhalten; Sockel ist vorne rechts und links abgebrochen und hinten links mit einem Teil des Rückenpfeilers; leichte Abplatzungen im Gesicht
+
+## Figuren
+
+46 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:stockholmNME92:625 | Vorderseite | 1 | 1 | — | Adoration |
+| — | heilstatue:stockholmNME92:626 | Vorderseite | 1 | 1 | — | Adoration |
+| — | heilstatue:stockholmNME92:627 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:stockholmNME92:628 | Vorderseite | 1 | 2 | — | — |
+| — | heilstatue:stockholmNME92:629 | Vorderseite | 1 | 3 | Mnṯ.w | Month |
+| — | heilstatue:stockholmNME92:630 | Vorderseite | 1 | 4 | — | — |
+| — | heilstatue:stockholmNME92:631 | Vorderseite | 1 | 5 | — | — |
+| — | heilstatue:stockholmNME92:632 | Vorderseite | 1 | 6 | — | — |
+| — | heilstatue:stockholmNME92:633 | Vorderseite | 1 | 7 | — | — |
+| — | heilstatue:stockholmNME92:634 | Vorderseite | 1 | 8 | Ḏḥw.tj | Thoth mit Udjat-Auge |
+| — | heilstatue:stockholmNME92:635 | Vorderseite | 1 | 9 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:stockholmNME92:636 | Vorderseite | 2.1 | 1 | — | — |
+| — | heilstatue:stockholmNME92:637 | Vorderseite | 2.1 | 2 | — | — |
+| — | heilstatue:stockholmNME92:638 | Vorderseite | 2.1 | 3 | Ḥꜣ.t-mḥ.yt | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:stockholmNME92:639 | Vorderseite | 2.1 | 4 | Bꜣ | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:stockholmNME92:640 | Vorderseite | 2.1 | 5 | — | — |
+| — | heilstatue:stockholmNME92:641 | Vorderseite | 2.1 | 6 | — | — |
+| — | heilstatue:stockholmNME92:642 | Vorderseite | 2.1 | 7 | — | — |
+| — | heilstatue:stockholmNME92:643 | Vorderseite | 2.1 | 8 | — | — |
+| — | heilstatue:stockholmNME92:644 | Vorderseite | 2.2000000000000002 | 1 | Jmn-rn⸗f | Zwei Krokodile übereinander, eines in Kapelle |
+| — | heilstatue:stockholmNME92:645 | Vorderseite | 2.2000000000000002 | 2 | — | — |
+| — | heilstatue:stockholmNME92:646 | Vorderseite | 2.2000000000000002 | 3 | — | — |
+| — | heilstatue:stockholmNME92:647 | Vorderseite | 2.2000000000000002 | 4 | Bꜣ | Banebdjedet mit Maat |
+| — | heilstatue:stockholmNME92:648 | Vorderseite | 2.2000000000000002 | 5 | Sḫm.t | Sachmet in Schlange |
+| — | heilstatue:stockholmNME92:649 | Vorderseite | 2.2000000000000002 | 6 | — | — |
+| — | heilstatue:stockholmNME92:650 | Vorderseite | 2.2000000000000002 | 7 | Mꜣꜥ.t | Maat und Ptah |
+| — | heilstatue:stockholmNME92:651 | Vorderseite | 2.2000000000000002 | 8 | Ptḥ | Maat und Ptah |
+| — | heilstatue:stockholmNME92:652 | Vorderseite | 3 | 1 | — | — |
+| — | heilstatue:stockholmNME92:653 | Vorderseite | 3 | 2 | — | — |
+| — | heilstatue:stockholmNME92:654 | Vorderseite | 3 | 3 | Bꜣs.tt | Onuris mit Katze auf Podest |
+| — | heilstatue:stockholmNME92:655 | Vorderseite | 3 | 4 | Jn-ḥr.t | Onuris mit Katze auf Podest |
+| — | heilstatue:stockholmNME92:656 | Vorderseite | 3 | 5 | Tfn.t | Tefnut |
+| — | heilstatue:stockholmNME92:657 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:stockholmNME92:658 | Vorderseite | 2 | 1 | kꜣ wr | Ka-wer |
+| — | heilstatue:stockholmNME92:659 | Vorderseite | 3 | 1 | Rꜥw | — |
+| — | heilstatue:stockholmNME92:660 | Vorderseite | 4 | 1 | — | — |
+| — | heilstatue:stockholmNME92:661 | Vorderseite | 5 | 1 | Sḫm.t | Sachmet als Kobra |
+| — | heilstatue:stockholmNME92:662 | Vorderseite | 6 | 1 | Sbk | mumienförmiger Sobek |
+| — | heilstatue:stockholmNME92:663 | Vorderseite | 1 | 1 | Ḥr.w | Horus als Falke |
+| — | heilstatue:stockholmNME92:664 | Vorderseite | 2 | 1 | Sḫm.t | Sachmet |
+| — | heilstatue:stockholmNME92:665 | Vorderseite | 3 | 1 | — | — |
+| — | heilstatue:stockholmNME92:666 | Rückenpfeiler | 1 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:stockholmNME92:667 | Rückenpfeiler | 2 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:stockholmNME92:668 | Rückenpfeiler | 1–2 | 3 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:stockholmNME92:669 | Rückenpfeiler | 1 | 4 | — | Anbetung des Amun-Re |
+| — | heilstatue:stockholmNME92:671 | Rückenpfeiler | 2 | 5 | — | Anbetung des Amun-Re |
+
+## Texte
+
+Keine Einträge erfasst.
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 39 | 10 | 10 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__stockholmNME92.md >}}
+

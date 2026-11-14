@@ -1,0 +1,154 @@
+---
+title: "Objektblatt: Neapel, 1065"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Museo Archeologico Nazionale, Neapel
+
+**Inventarnummer:** 1065
+
+**Material:** Basalt / dunkler Granit / Grauwacke
+
+**Herkunft:** unbekannt
+
+**Provenienz:** 1817: Überführung von Velletri ins Regio/Real Museo Borbonico in Neapel; 1815: Ankauf Ferdinand I.; Sammlung Stefano Borgia (1784 in einem unpublizierten Katalog mit Nr. 401 verzeichnet)
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** nur noch Torso erhalten (mit Teilen der Schultern mit einem Teil der Oberarme); mittlerer Teil des Rückenpfeilers stark abgerieben; nach Montierung auf moderner Basis mit Gips, sind die untereren Szenen des Rückenpfeilers abgebrochen nach Entfernung der Halterung (in 1982)
+
+## Figuren
+
+96 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:neapel1065:388 | Vorderseite | 1 | 1 | — | Pantheistischer Gott |
+| — | heilstatue:neapel1065:389 | Vorderseite | 1 | 2 | Nḥm.t-ꜥwꜣj | Nechmetawai |
+| — | heilstatue:neapel1065:390 | Vorderseite | 1 | 3 | Sḫm.t | Sachmet, die den Rebellen bändigt |
+| — | heilstatue:neapel1065:391 | Vorderseite | 2 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:392 | Vorderseite | 2 | 2 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:393 | Vorderseite | 2 | 3 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:394 | Vorderseite | 2 | 4 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:395 | Vorderseite | 2 | 5 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:396 | Vorderseite | 2 | 6 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:397 | Vorderseite | 2 | 7 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:398 | Vorderseite | 2 | 8 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:399 | Vorderseite | 2 | 9 | — | Anbetung des Amun-Re |
+| — | heilstatue:neapel1065:400 | Rückenpfeiler | 1 | 1 | Ꜣs.t | Isis von Achbit |
+| — | heilstatue:neapel1065:401 | Rückenpfeiler | 2 | 1 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:neapel1065:402 | Rückenpfeiler | 2 | 2 | Sbk | Krokodil mit Falkenkopf |
+| — | heilstatue:neapel1065:403 | Rückenpfeiler | 3 | 1 | Ꜣs.t | Isis und Horus |
+| — | heilstatue:neapel1065:404 | Rückenpfeiler | 3 | 2 | Ḥr.w | Triumphierender Re-Osiris |
+| — | heilstatue:neapel1065:405 | Rückenpfeiler | 4 | 1 | — | — |
+| — | heilstatue:neapel1065:406 | Rückenpfeiler | 4 | 2 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:neapel1065:407 | Rückenpfeiler | 5 | 1 | Jmn-rn⸗f | Imen-renef |
+| — | heilstatue:neapel1065:408 | Rückenpfeiler | 5 | 2 | Ḥr.w | Falke auf Nilpferd |
+| — | heilstatue:neapel1065:409 | Rückenpfeiler | 6 | 1 | Mꜣꜥ.t | Maat und Ptah |
+| — | heilstatue:neapel1065:410 | Rückenpfeiler | 6 | 2 | Ptḥ | Maat und Ptah |
+| — | heilstatue:neapel1065:411 | Rückenpfeiler | 6 | 3 | — | Chnum als Widder |
+| — | heilstatue:neapel1065:412 | Rückenpfeiler | 7 | 1 | Mꜣꜥ.t | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:neapel1065:413 | Rückenpfeiler | 7 | 2 | Bꜣ | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:neapel1065:414 | Rückenpfeiler | 7 | 3 | Ḥꜣ.t-mḥ.yt | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:neapel1065:415 | Rückenpfeiler | 8 | 1 | Nj.t | Neith zwei Krokodile säugend |
+| — | heilstatue:neapel1065:416 | Rückenpfeiler | 8 | 2 | Rꜥw-Ḥr.w-ꜣḫ.tj | Re-Harachte |
+| — | heilstatue:neapel1065:417 | Rückenpfeiler | 8 | 3 | Ḫr.t | Göttin mit Skorpionkörper |
+| — | heilstatue:neapel1065:418 | Rückenpfeiler | 9 | 1 | Ꜣs.t-Srq.t | Isis-Selket |
+| — | heilstatue:neapel1065:419 | Rückenpfeiler | 9 | 2 | Nj.t | Neith als Rind |
+| — | heilstatue:neapel1065:420 | Rückenpfeiler | 10 | 1 | Sḫm.t | Sachmet in Schlange |
+| — | heilstatue:neapel1065:421 | Rückenpfeiler | 10 | 2 | Ꜣs.t | Isis, die Krokodil säugt |
+| — | heilstatue:neapel1065:422 | Rückenpfeiler | 10 | 3 | Ꜣs.t | Isis und Horus |
+| — | heilstatue:neapel1065:423 | Rechte Seite | 1 | 1 | Nḫb.t | Nechbet |
+| — | heilstatue:neapel1065:424 | Rechte Seite | 1 | 2 | — | — |
+| — | heilstatue:neapel1065:425 | Rechte Seite | 1 | 3 | Ꜣs.t | Isis, die Kind auf Schlange säugt |
+| — | heilstatue:neapel1065:426 | Rechte Seite | 2 | 1 | — | — |
+| — | heilstatue:neapel1065:427 | Rechte Seite | 2 | 1 | Ḥr.w | Horus als Falke |
+| — | heilstatue:neapel1065:428 | Rechte Seite | 3 | 1 | Sḫm.t | Sachmet in Schlange |
+| — | heilstatue:neapel1065:429 | Rechte Seite | 4 | 1 | — | Gott mit 3 Schlangen als Kopf |
+| — | heilstatue:neapel1065:430 | Rechte Seite | 4 | 2 | — | krokodilsköpfiger Gott mit Vierfederkrone |
+| — | heilstatue:neapel1065:431 | Rechte Seite | 5 | 1 | Sḫm.t | ithyphallische Sachmet |
+| — | heilstatue:neapel1065:432 | Rechte Seite | 5 | 2 | — | — |
+| — | heilstatue:neapel1065:433 | Rechte Seite | 6 | 1 | — | krokodilsköpfiger Gott mit Schlange |
+| — | heilstatue:neapel1065:434 | Rechte Seite | 6 | 2 | — | — |
+| — | heilstatue:neapel1065:435 | Rechte Seite | 7 | 1 | Šw | Schu |
+| — | heilstatue:neapel1065:436 | Rechte Seite | 7 | 2 | Bn.w | Benu |
+| — | heilstatue:neapel1065:437 | Rechte Seite | 8 | 1 | Wd | — |
+| — | heilstatue:neapel1065:438 | Rechte Seite | 8 | 2 | — | — |
+| — | heilstatue:neapel1065:439 | Rechte Seite | 8 | 3 | — | — |
+| — | heilstatue:neapel1065:440 | Rechte Seite | 9 | 1 | — | — |
+| — | heilstatue:neapel1065:441 | Rechte Seite | 9 | 2 | — | — |
+| — | heilstatue:neapel1065:442 | Rechte Seite | 10 | 1 | Srq.t | — |
+| — | heilstatue:neapel1065:443 | Rechte Seite | 10 | 2 | Jmn-rn⸗f | Imen-renef |
+| — | heilstatue:neapel1065:444 | Rechte Seite | 11 | 1 | Sḫm.t | Sachmet |
+| — | heilstatue:neapel1065:445 | Rechte Seite | 11 | 2 | Tfn.t | Tefnut |
+| — | heilstatue:neapel1065:446 | Rechte Seite | 1 | 1 | — | Pantheistischer Gott |
+| — | heilstatue:neapel1065:447 | Rechte Seite | 1 | 1 | Ptḥ | Ptah, der Vater der Götter |
+| — | heilstatue:neapel1065:448 | Rechte Seite | 2 | 1 | Ptḥ | Ptah, der Vater der Götter |
+| — | heilstatue:neapel1065:449 | Rechte Seite | 3 | 1 | Jmn-Rꜥw | Amun-Re als Krokodil |
+| — | heilstatue:neapel1065:450 | Rechte Seite | 3 | 2 | Tfn.t | Tefnut |
+| — | heilstatue:neapel1065:451 | Rechte Seite | 4 | 1 | — | — |
+| — | heilstatue:neapel1065:452 | Rechte Seite | 4 | 2 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:neapel1065:453 | Rechte Seite | 5 | 1 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:neapel1065:454 | Rechte Seite | 5 | 2 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:neapel1065:455 | Rechte Seite | 6 | 1 | Ḫns.w | Pavian und Kobra |
+| — | heilstatue:neapel1065:456 | Rechte Seite | 6 | 2 | Sḫm.t-Bꜣs.tt-Tfn.t | Pavian und Kobra |
+| — | heilstatue:neapel1065:457 | Linke Seite | 1 | 1 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:neapel1065:458 | Linke Seite | 1 | 2 | Ḥr.w | Horus, Sohn der Wadjet |
+| — | heilstatue:neapel1065:459 | Linke Seite | 1 | 3 | — | — |
+| — | heilstatue:neapel1065:460 | Linke Seite | 1 | 4 | — | — |
+| — | heilstatue:neapel1065:461 | Linke Seite | 2 | 1 | Sḫm.t | liegender Löwe auf Podest |
+| — | heilstatue:neapel1065:462 | Linke Seite | 3 | 1 | — | — |
+| — | heilstatue:neapel1065:463 | Linke Seite | 3 | 1 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:neapel1065:464 | Linke Seite | 4 | 1 | Sbk | mumienförmiger Sobek |
+| — | heilstatue:neapel1065:465 | Linke Seite | 4 | 2 | Ptḥ-Skr-Wsjr | Ptah-Sokar-Osiris |
+| — | heilstatue:neapel1065:466 | Linke Seite | 5 | 1 | Srq.t | Selket |
+| — | heilstatue:neapel1065:467 | Linke Seite | 5 | 2 | Ḥr.w | Horus, Sohn des Osiris, gebohren von Isis, der Göttin |
+| — | heilstatue:neapel1065:468 | Linke Seite | 6 | 1 | Mw.t | Mut |
+| — | heilstatue:neapel1065:469 | Linke Seite | 6 | 2 | Ḥr.w | Horus, groß an Kraft |
+| — | heilstatue:neapel1065:470 | Linke Seite | 7 | 1 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:neapel1065:471 | Linke Seite | 7 | 2 | Nfr-tm | Nefertem, der herauskommt aus Memphis |
+| — | heilstatue:neapel1065:472 | Linke Seite | 8 | 1 | Ḥr.j-š⸗f | 4-tierköpfiger Mensch |
+| — | heilstatue:neapel1065:473 | Linke Seite | 8 | 2 | — | Ptah-Sokar-Osiris |
+| — | heilstatue:neapel1065:474 | Linke Seite | 9 | 1 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:neapel1065:475 | Linke Seite | 9 | 2 | Nḫb.t | Nechbet |
+| — | heilstatue:neapel1065:476 | Linke Seite | 10 | 1 | Sbk.t | Sobeket |
+| — | heilstatue:neapel1065:477 | Linke Seite | 11 | 1 | — | — |
+| — | heilstatue:neapel1065:478 | Linke Seite | 1 | 1 | Spd.w | Pantheistischer Gott |
+| — | heilstatue:neapel1065:479 | Linke Seite | 1 | 1 | Wr.t-ḥkꜣ.w | Weret-hekau auf Krokodil |
+| — | heilstatue:neapel1065:480 | Linke Seite | 2 | 1 | — | — |
+| — | heilstatue:neapel1065:481 | Linke Seite | 3 | 1 | H̱nm.w | mumienförmiger Chnum mit Feder |
+| — | heilstatue:neapel1065:482 | Linke Seite | 3 | 2 | Ḥr.w | Falke auf Pylonen |
+| — | heilstatue:neapel1065:483 | Linke Seite | 4 | 1 | Rw.tj | Ruti |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Spruch 1 für das Herz eines Gebissenen | Vorderseite | Kákosy 1999: 120–121 |
+| Spruch 2 für das Herz eines Gebissenen | Vorderseite | Kákosy 1999: 120–121 |
+| Beschwörung von Gift | Vorderseite | Kákosy 1999: 123 |
+| Beschwörung von Gift in einer Katze | Vorderseite | Kákosy 1999: 124–125 |
+| „Die Hand des Atum“ | Rechte Seite | Kákosy 1999: 126–128 |
+| Sprüche gegen Gift, I | Rechte Seite | Kákosy 1999: 126–128 |
+| Text B, P-L-Version (Zweite Hälfte) | Rechte Seite | Kákosy 1999: 131 |
+| Sprüche gegen Gift, II | Linke Seite | Kákosy 1999: 129–130 |
+| Text A | Linke Seite | Kákosy 1999: 132–133 |
+| „Er ist Horus, der Beschwörer“ | Linke Seite | Kákosy 1999: 132–133 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 28.4 | 18.8 | 13.4 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__neapel1065.md >}}
+

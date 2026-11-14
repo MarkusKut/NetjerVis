@@ -1,0 +1,16 @@
+object_id,object_group,id,ref,Statue,Statuentyp,Stele,Naos,Vorderseite_erhalten,Vorderseite_Text,Vorderseite_Szenen_Anzahl,Vorderseite_Inhalt,Rückenpfeiler_dekor,Schurz_links_dekor,Schurz_rechts_dekor,Adorationsregister,Objektgruppe
+heilstatue:helioFrag,Heilstatue,1,helioFrag,Heliopolis-Fragmente,Standschreitstatue,1,0,0,,,nicht_erhalten,Gottheiten,1,1,1,Heilstatue
+heilstatue:kairoJE41677,Heilstatue,2,kairoJE41677,"Kairo, JE 41677",Standschreitstatue,,,1,1,1,Text_mit_Gottheiten,Gottheiten,1,1,1,Heilstatue
+heilstatue:kairoJE46341,Heilstatue,3,kairoJE46341,"Kairo, JE 46341",Würfelhocker,1,0,1,1,0,Text,Text,1,1,0,Heilstatue
+heilstatue:kairoJE87083,Heilstatue,4,kairoJE87083,"Kairo, JE 87083",Würfelhocker,,,0,,,nicht_erhalten,Text,1,1,,Heilstatue
+heilstatue:leidenF1953_5_1,Heilstatue,5,leidenF1953_5_1,"Leiden, F 1953/5.1",Standschreitstatue,1,0,1,0,10,Gottheiten,Text,1,1,0,Heilstatue
+heilstatue:londonCass1278,Heilstatue,6,londonCass1278,"London, Sammlung Cassirer",Standschreitstatue,1,0,0,,,nicht_erhalten,Gottheiten,1,1,1,Heilstatue
+heilstatue:MoskauI_1_a_5319,Heilstatue,7,MoskauI_1_a_5319,"Moskau, I.1.a.5319",Würfelhocker,1,0,1,0,21,Gottheiten,Text,1,1,1,Heilstatue
+heilstatue:muenchenAes2824,Heilstatue,8,muenchenAes2824,"München, ÄS 2824",Standschreitstatue,,,1,0,9,Gottheiten,Text,,,1,Heilstatue
+heilstatue:neapel1065,Heilstatue,9,neapel1065,"Neapel, 1065",Standschreitstatue,,,1,1,4,Text_mit_Gottheiten,Gottheiten,,,,Heilstatue
+heilstatue:parisLouvreE10777,Heilstatue,10,parisLouvreE10777,"Paris, Louvre, E 10777",Standschreitstatue,1,0,1,1,2,Text_mit_Gottheiten,Gottheiten,1,1,1,Heilstatue
+heilstatue:stockholmNME76,Heilstatue,11,stockholmNME76,"Stockholm, NME 76",Standschreitstatue,0,1,1,1,4,Text_mit_Gottheiten,Text,,,,Heilstatue
+heilstatue:stockholmNME92,Heilstatue,12,stockholmNME92,"Stockholm, NME 92",Standschreitstatue,1,0,1,0,30,Gottheiten,Text_mit_Gottheiten,0,0,1,Heilstatue
+heilstatue:turinCat3030,Heilstatue,13,turinCat3030,"Turin, Cat. 3030",Standschreitstatue,1,0,1,1,1,Text_mit_Gottheiten,Gottheiten,1,1,1,Heilstatue
+heilstatue:turinCat3031,Heilstatue,14,turinCat3031,"Turin, Cat. 3031",Standschreitstatue,1,0,0,,,nicht_erhalten,Gottheiten,1,1,1,Heilstatue
+heilstatue:turinSuppl9Florenz8708,Heilstatue,15,turinSuppl9Florenz8708,"Turin, Suppl. 9 + Florenz, 8708",Standschreitstatue,1,0,1,1,1,Text_mit_Gottheiten,Gottheiten,1,1,1,Heilstatue

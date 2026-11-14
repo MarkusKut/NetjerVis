@@ -1,0 +1,11 @@
+---
+title: "Interaktive Datenbank"
+page-layout: full
+toc: false
+---
+
+<div class="nv-frame-wrap">
+  <iframe class="nv-frame" src="www/shinylive/index.html" title="NetjerVis – Shiny Forschungsdatenbank" loading="eager" allow="clipboard-write"></iframe>
+</div>
+
+<p class="nv-note">Die Anwendung wird mit Shinylive (R im Browser) ausgeführt. Beim ersten Aufruf können zusätzliche Browser-Ressourcen geladen werden. <a href="www/shinylive/index.html" target="_blank" rel="noopener noreferrer">Datenbank als Vollbild öffnen</a>.</p>

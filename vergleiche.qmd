@@ -1,0 +1,15 @@
+---
+title: "Ikonographische Vergleiche"
+page-layout: full
+toc: false
+---
+
+In der Datenbank stehen der Reiter **Figurenvergleich** für die direkte
+Gegenüberstellung ausgewählter Darstellungen und die Reiter **Vorkommensmatrix**
+und **Datenqualität** für statistische Übersichten zur Verfügung.
+
+<div class="nv-frame-wrap">
+  <iframe class="nv-frame" src="www/shinylive/index.html" title="NetjerVis – Figurenvergleiche und Vorkommensmatrix" loading="lazy"></iframe>
+</div>
+
+<p class="nv-note"><a href="www/shinylive/index.html" target="_blank" rel="noopener noreferrer">Vergleichsoberfläche als Vollbild öffnen</a>.</p>

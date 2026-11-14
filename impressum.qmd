@@ -1,0 +1,58 @@
+---
+title: "Impressum"
+subtitle: "Angaben zur verantwortlichen Person und zu den Nutzungsrechten"
+toc: false
+---
+
+## Anbieterkennzeichnung
+
+Angaben gemäß [§ 18 Abs. 1 Medienstaatsvertrag (MStV)](https://www.gesetze-bayern.de/Content/Document/MStV-18) sowie, **soweit dessen Voraussetzungen erfüllt sind**, gemäß [§ 5 Digitale-Dienste-Gesetz (DDG)](https://www.gesetze-im-internet.de/ddg/__5.html).
+
+**Verantwortlich für das Internetangebot**
+
+[Vollständiger Vor- und Nachname]  
+[Straße und Hausnummer – ladungsfähige Anschrift; kein Postfach]  
+[Postleitzahl und Ort]  
+Deutschland
+
+**Kontakt**
+
+E-Mail: [Kontakt-E-Mail-Adresse]  
+[Weitere Möglichkeit zur schnellen, unmittelbaren Kommunikation ergänzen, sofern nach § 5 DDG erforderlich]
+
+**Betreiber des Angebots**
+
+[Eigenverantwortlich betriebenes wissenschaftliches Forschungsprojekt / Name der betreibenden Einrichtung, falls diese den Betrieb tatsächlich verantwortet]
+
+<!-- NUR BEI ENTSPRECHENDER RECHTLICHER EINORDNUNG ERGÄNZEN:
+## Verantwortlich für journalistisch-redaktionelle Inhalte gemäß § 18 Abs. 2 MStV
+
+[Vollständiger Vor- und Nachname]  
+[Ladungsfähige Anschrift]
+-->
+
+## Über das Forschungsprojekt
+
+Diese Website dokumentiert und erschließt figürliche Darstellungen von Gottheiten auf altägyptischen magischen Statuen. Sie enthält einen wissenschaftlichen Objekt- und Figurenkatalog, ikonographische Beschreibungen, selbst erstellte digitale Vektorzeichnungen (SVG) sowie Funktionen zur Suche und zum Vergleich einzelner Darstellungen. Die Datenstruktur ist für eine spätere Erweiterung um weitere Objektgruppen vorgesehen.
+
+Die Datenbank ist ein wissenschaftliches Informationsangebot. Soweit nicht anders angegeben, handelt es sich nicht um eine offizielle Veröffentlichung einer Universität oder eines Museums.
+
+## Urheberrecht, Vektorzeichnungen und Quellen
+
+Die auf der Website gezeigten SVG-Zeichnungen wurden für das Forschungsprojekt anhand archäologischer Originale sowie fotografischer oder publizierter Vorlagen digital nachgezeichnet. Sie dienen der wissenschaftlichen Dokumentation und dem ikonographischen Vergleich.
+
+Die antiken Bildmotive selbst sind grundsätzlich gemeinfrei; an ihnen werden keine ausschließlichen Rechte beansprucht. Ob einzelne eigene Texte, Zeichnungen oder die Auswahl und Anordnung von Daten urheberrechtlich oder durch Datenbankrechte geschützt sind, richtet sich nach den gesetzlichen Voraussetzungen, insbesondere nach dem [Urheberrechtsgesetz (UrhG)](https://www.gesetze-im-internet.de/urhg/). Eine bloße Digitalisierung oder werkgetreue Nachzeichnung begründet nicht allein einen eigenständigen urheberrechtlichen Schutz.
+
+Als Vorlagen dienen eigene Fotografien, Archivmaterial, Abbildungen aus wissenschaftlicher Literatur sowie von Museen bereitgestellte Bilder. **Diese Ausgangsfotografien und Buchscans werden nach dem derzeitigen Veröffentlichungskonzept nicht auf der Website gezeigt.** Rechte und Nutzungsbedingungen an den Vorlagen bleiben unberührt. Soweit möglich, werden Objekt-, Museums- und Literaturangaben direkt bei den Datensätzen nachgewiesen und externe Sammlungseinträge verlinkt.
+
+Für Material unter Creative-Commons-Lizenzen gelten die Bedingungen **der jeweils konkret angegebenen Lizenz**. Insbesondere ist [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) nicht gleichbedeutend mit Gemeinfreiheit oder [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Bei einer Weiterverwendung geschützter Ausgangsvorlagen sind etwaige Urheber- und Lizenzbedingungen gesondert zu beachten.
+
+**Lizenz dieser Website:** Für eigene SVG-Zeichnungen, Beschreibungen und Forschungsdaten wird derzeit **keine pauschale Creative-Commons-Lizenz** erklärt. Eine ausdrückliche Lizenzangabe bei einem einzelnen Datensatz geht dieser allgemeinen Information vor. Gesetzlich erlaubte Nutzungen und die Gemeinfreiheit der zugrunde liegenden antiken Werke bleiben unberührt.
+
+## Zitierhinweis
+
+[Vor- und Nachname]: *[Titel der Forschungsdatenbank]*, [Version/Jahr], [URL bzw. DOI, soweit vorhanden]. Für einzelne Zeichnungen und Datensätze sollten die jeweilige Objekt- und Figurenkennung sowie der Abrufstand angegeben werden.
+
+## Externe Verweise
+
+Verweise auf Museumsdatenbanken, digitale Sammlungen und Literatur dienen der Quellenerschließung. Für Inhalte und Nutzungsbedingungen externer Seiten sind deren jeweilige Anbieter verantwortlich.

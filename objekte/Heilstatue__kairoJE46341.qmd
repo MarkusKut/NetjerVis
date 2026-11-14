@@ -1,0 +1,139 @@
+---
+title: "Objektblatt: Kairo, JE 46341"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Würfelhocker mit Horusstele
+
+**Standort:** Ägyptisches Museum, Kairo
+
+**Inventarnummer:** JE 46341
+
+**Material:** dunkler Granodiorit / Granit
+
+**Herkunft:** Athribis, Tempelbezirk
+
+**Provenienz:** gefunden 1918 (Basisfragment 1919)
+
+**Datierung:** ca. 323 v. u. Z. (Kartusche Philippos Arrhidaios)
+
+**Erhaltungszustand:** vollständig erhalten; Absplitterungen an den Außenseiten des Sockels der Statue; oberflächliche, kleinere Beschädigungen an der Basis an allen Seiten, bes. den Ecken; weiterhin ist Basis an der rechten und hinteren Seite gebrochen. Der Sockel ist zerbrochen und wurde wieder zusammengesetzt; er ist an der Unterseite nur fragmentarisch erhalten.
+
+## Figuren
+
+62 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:kairoJE46341:68 | Vorderseite | 1 | 1 | Ḥr.w | Falke auf Papyrusstängel |
+| — | heilstatue:kairoJE46341:69 | Vorderseite | 2 | 1 | Ḥkꜣ | Heka |
+| — | heilstatue:kairoJE46341:70 | Vorderseite | 2 | 2 | Nw.t | Nut |
+| — | heilstatue:kairoJE46341:71 | Vorderseite | 3 | 1 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:kairoJE46341:72 | Vorderseite | 1 | 1 | Sḫm.t | Sachmet, die Große, die von Ptah geliebt wird |
+| — | heilstatue:kairoJE46341:73 | Vorderseite | 1 | 2 | H̱nm.w | Chnum, der Tier aufspießt |
+| — | heilstatue:kairoJE46341:74 | Vorderseite | 2 | 1 | Sšꜣ.t | Seschat |
+| — | heilstatue:kairoJE46341:75 | Vorderseite | 2 | 2 | Srq.t | skorpionköpfige Selket |
+| — | heilstatue:kairoJE46341:76 | Vorderseite | 3 | 1 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:kairoJE46341:77 | Rückenpfeiler | 1 | 1 | — | Pantheistischer Gott |
+| — | heilstatue:kairoJE46341:78 | Rückenpfeiler | 1 | 1 | — | Pantheistischer Gott |
+| — | heilstatue:kairoJE46341:79 | Rechte Seite | 1 | 1 | Ḫnt.j-ẖ.tj | Chenticheti |
+| — | heilstatue:kairoJE46341:80 | Rechte Seite | 1 | 2 | Ꜣs.t | Isis |
+| — | heilstatue:kairoJE46341:81 | Rechte Seite | 1 | 3 | Ḏḥw.tj | Isis und Thot |
+| — | heilstatue:kairoJE46341:82 | Rechte Seite | 1 | 4 | — | 7 Skorpione |
+| — | heilstatue:kairoJE46341:83 | Rechte Seite | 1 | 5 | — | — |
+| — | heilstatue:kairoJE46341:84 | Rechte Seite | 1 | 6 | — | — |
+| — | heilstatue:kairoJE46341:85 | Rechte Seite | 2 | 1 | Ḏḥw.tj | Thoth, der Herr von Hermopolis, der Herr der Gottesworte |
+| — | heilstatue:kairoJE46341:86 | Rechte Seite | 2 | 2 | Ḥw | Chu |
+| — | heilstatue:kairoJE46341:87 | Rechte Seite | 2 | 3 | Sjꜣ | Sia |
+| — | heilstatue:kairoJE46341:88 | Rechte Seite | 2 | 4 | Sbk | hockender Sobek |
+| — | heilstatue:kairoJE46341:89 | Rechte Seite | 2 | 5 | Nw.t | Nut |
+| — | heilstatue:kairoJE46341:90 | Rechte Seite | 2 | 6 | Ḥꜥpj | Hapi |
+| — | heilstatue:kairoJE46341:91 | Rechte Seite | 2 | 7 | Ḏḥw.tj | Thoth |
+| — | heilstatue:kairoJE46341:92 | Rechte Seite | 2 | 8 | Mnw | Min |
+| — | heilstatue:kairoJE46341:93 | Rechte Seite | 2 | 9 | — | — |
+| — | heilstatue:kairoJE46341:94 | Rechte Seite | 2 | 10 | Ḥr.w | Falke auf Antilope |
+| — | heilstatue:kairoJE46341:95 | Rechte Seite | 2 | 11 | Ḥkꜣ | Heka |
+| — | heilstatue:kairoJE46341:96 | Rechte Seite | 2 | 12 | Ḥr.w | Horus, Herr von Letopolis |
+| — | heilstatue:kairoJE46341:97 | Rechte Seite | 2 | 13 | Rꜥw-Ḥr.w-ꜣḫ.tj | Re-Harachte |
+| — | heilstatue:kairoJE46341:98 | Rechte Seite | 2 | 14 | — | — |
+| — | heilstatue:kairoJE46341:99 | Rechte Seite | 3 | 1 | Sḫm.t | Sachmet, die Große, die von Ptah geliebt wird |
+| — | heilstatue:kairoJE46341:100 | Rechte Seite | 3 | 2 | Ḥr.w | Horus, sonstig |
+| — | heilstatue:kairoJE46341:101 | Rechte Seite | 3 | 3 | Jmn-Rꜥw | Amun-Re |
+| — | heilstatue:kairoJE46341:102 | Rechte Seite | 3 | 4 | Srq.t | skorpionköpfige Selket |
+| — | heilstatue:kairoJE46341:103 | Rechte Seite | 3 | 5 | H̱nm.w | Chnum, der Tier aufspießt |
+| — | heilstatue:kairoJE46341:104 | Rechte Seite | 3 | 6 | H̱nm.w | Chnum und Nut |
+| — | heilstatue:kairoJE46341:105 | Rechte Seite | 3 | 7 | Nw.t | Chnum und Nut |
+| — | heilstatue:kairoJE46341:106 | Rechte Seite | 3 | 8 | Ḥr.w | Horus, Herr von Letopolis |
+| — | heilstatue:kairoJE46341:107 | Rechte Seite | 3 | 9 | Wsjr | Osiris |
+| — | heilstatue:kairoJE46341:108 | Linke Seite | 1 | 1 | Ḥr.w | Harmerti |
+| — | heilstatue:kairoJE46341:109 | Linke Seite | 1 | 2 | — | — |
+| — | heilstatue:kairoJE46341:110 | Linke Seite | 1 | 3 | — | — |
+| — | heilstatue:kairoJE46341:111 | Linke Seite | 1 | 4 | Nj.t | Neith, Herrin von Sais |
+| — | heilstatue:kairoJE46341:112 | Linke Seite | 1 | 5 | — | — |
+| — | heilstatue:kairoJE46341:113 | Linke Seite | 1 | 6 | — | Patäke |
+| — | heilstatue:kairoJE46341:114 | Linke Seite | 2 | 1 | Rꜥw-Ḥr.w-ꜣḫ.tj | Re-Harachte |
+| — | heilstatue:kairoJE46341:115 | Linke Seite | 2 | 2 | Ḥr.w-Šw | — |
+| — | heilstatue:kairoJE46341:116 | Linke Seite | 2 | 3 | Šw | Schu |
+| — | heilstatue:kairoJE46341:117 | Linke Seite | 2 | 4 | Jtm | — |
+| — | heilstatue:kairoJE46341:118 | Linke Seite | 2 | 5 | Ḥr.w | Harendotes, Sohn des Osiris |
+| — | heilstatue:kairoJE46341:119 | Linke Seite | 2 | 6 | Wsjr | Osiris |
+| — | heilstatue:kairoJE46341:120 | Linke Seite | 3 | 1 | Ꜣs.t | Isis |
+| — | heilstatue:kairoJE46341:121 | Linke Seite | 3 | 2 | Ḏḥw.tj | Isis und Thot |
+| — | heilstatue:kairoJE46341:122 | Linke Seite | 3 | 3 | Srq.t | skorpionköpfige Selket |
+| — | heilstatue:kairoJE46341:123 | Linke Seite | 3 | 4 | — | — |
+| — | heilstatue:kairoJE46341:124 | Linke Seite | 3 | 5 | Mw.t | — |
+| — | heilstatue:kairoJE46341:125 | Linke Seite | 3 | 6 | — | — |
+| — | heilstatue:kairoJE46341:126 | Linke Seite | 3 | 7 | Ḫpr.j | Chepri |
+| — | heilstatue:kairoJE46341:127 | Linke Seite | 3 | 8 | Ḥr.w | Harendotes, Sohn des Osiris |
+| — | heilstatue:kairoJE46341:128 | Linke Seite | 3 | 9 | Jn-ḥr.t | Onuris, der Schlange aufspießt |
+| — | heilstatue:kairoJE46341:129 | Linke Seite | 3 | 10 | ꜥḫm-n-Rꜥw | Achem-en-Re |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Titel, etc. | Ober-/Vorderseite | Jelínková-Reymond 1956: 4–6, § 1: Z. 1–11 |
+| „Die Hand des Atum“ (Anfang) | Ober-/Vorderseite | Jelínková-Reymond 1956: 7–11, § 2: Z. 12–20 |
+| „Die Hand des Atum“ (Anfang) | Ober-/Vorderseite | Jelínková-Reymond 1956: 7–11, § 2: Z. 21–25 |
+| „Die Elle des Heh“ | Ober-/Vorderseite | Jelínková-Reymond 1956: 28–36, § 6: Z. 49–53 |
+| „Die Elle des Heh“ | Ober-/Vorderseite | Jelínková-Reymond 1956: 28–36, § 6: Z. 44–57 |
+| „Anrufung des Re“ | Ober-/Vorderseite | Jelínková-Reymond 1956: 25–27, § 5: Z. 35–48 |
+| „Die Hand des Atum“ (fortgesetzt) | Rechte Seite | Jelínková-Reymond 1956: 7–21, § 2: Z. 26–30 |
+| „Die Hand des Atum“ (fortgesetzt) | Rechte Seite | Jelínková-Reymond 1956: 7–21, § 2: Z. 31–34 |
+| Text B, P-L-Version (fortgesetzt) | Rechte Seite | Jelínková-Reymond 1956: 47–56, § 2: Z. 102 |
+| Text B, P-L-Version (fortgesetzt) | Rechte Seite | Jelínková-Reymond 1956: 47–56, § 2: Z. 103–113 |
+| „Der Nagel des Atum“ | Linke Seite | Jelínková-Reymond 1956: 28–36, § 6: Z. 58–62 |
+| Spruch gegen Schlangen | Linke Seite | Jelínková-Reymond 1956: 28–36, § 6: Z. 62–64 |
+| „Der Herrscher wurde gebissen“ | Linke Seite | Jelínková-Reymond 1956: 28–36, § 6: Z. 64–65 |
+| „Bring den Kopf des Horus“ | Linke Seite | Jelínková-Reymond 1956: 28–36, § 6: Z. 65–66 |
+| Zweite Erzählung zum Thema der Legende von Re | Linke Seite | Jelínková-Reymond 1956: 28–36, § 6: Z. 67–72 |
+| Text A (fortgesetzt I) | Linke Seite | Jelínková-Reymond 1956: 56–62, § 3: Z. 116 |
+| Text A (fortgesetzt II) | Linke Seite | Jelínková-Reymond 1956: 56–62, § 3: Z. 117–122 |
+| Titel, etc. | Rückseite | Jelínková-Reymond 1956: 46–47, § 1: Z. 99 |
+| Text B, P-L-Version (Anfang) | Rückseite | Jelínková-Reymond 1956: 47–56, § 2: Z. 100–101 |
+| Text A (Anfang) | Rückseite | Jelínková-Reymond 1956: 56–62, § 3: Z. 114–115 |
+| „Die Flamme zum Himmel“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 73–80 |
+| „Oh der, der in seinem Sarg“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 80–84 |
+| „Wenn das Gift zum Herzen des Gebissenen hinauffährt“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 84–86 |
+| „Re ist in Wut“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 86–87 |
+| „Wenn der See in Herakleopolis sich auftrennt“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 88–90 |
+| „Der Zwerg, der sein Wasser schützt“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 90–91 |
+| „Das böse Gift soll zurückweichen“ | Perücke | Jelínková-Reymond 1956: 38–45, § 8: Z. 91–98 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 78 | 43 | 25 | Statue mit Basis |
+| 65 | — | — | Höhe der Statue |
+| 38 | 53 | 93 | Sockel |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__kairoJE46341.md >}}
+

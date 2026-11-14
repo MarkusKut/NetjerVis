@@ -1,0 +1,110 @@
+---
+title: "Objektblatt: Leiden, F 1953/5.1"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Rijksmuseum van Oudheden, Leiden
+
+**Inventarnummer:** F 1953/5.1
+
+**Material:** Basalt
+
+**Herkunft:** unbekannt
+
+**Provenienz:** Ankauf des Museums, 1953 bei Versteigerung der ehemaligen Sammlung von Maurice Nahman im Hôtel Drouot, Paris
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** Statue ist über dem ersten Drittel der Horusstele schräg zur Rückseite gebrochen und damit in zwei Teilen erhalten; beim unteren Teil Beine nicht mehr erhalten, aber beide Füße; direkt unter dem Schurz gebrochen; beim oberen Teil ist der Torso nur noch diagonal in der Hälfe erhalten; Hände noch erhalten und mind. zwei Drittel vom rechten Arm, nur noch etwas vom linken Arm
+
+## Figuren
+
+46 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![SVG](../www/drawings/generated/000163_leidenF1953_5_1_vorderseite-koerper_r01_s0x-4_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:163 | Vorderseite | 1 | x+4 | zerstört | zerstört |
+| — | heilstatue:leidenF1953_5_1:164 | Vorderseite | 1 | x+5 | — | Ptah-Sokar-Osiris |
+| — | heilstatue:leidenF1953_5_1:165 | Vorderseite | 2 | 1 | zerstört | zerstört |
+| ![SVG](../www/drawings/generated/000166_leidenF1953_5_1_vorderseite-koerper_r02_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:166 | Vorderseite | 2 | 2 | zerstört | zerstört |
+| ![SVG](../www/drawings/generated/000167_leidenF1953_5_1_vorderseite-koerper_r02_s03_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:167 | Vorderseite | 2 | 3 | Ptḥ | Ptah |
+| ![SVG](../www/drawings/generated/000168_leidenF1953_5_1_vorderseite-koerper_r02_s04_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:168 | Vorderseite | 2 | 4 | Nb.t-ḥw.t | Nephthys |
+| ![SVG](../www/drawings/generated/000169_leidenF1953_5_1_vorderseite-koerper_r02_s05_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:169 | Vorderseite | 2 | 5 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| ![SVG](../www/drawings/generated/000170_leidenF1953_5_1_horusstele_r01_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:170 | Vorderseite | 1 | 1 | Ḥḥ.(w)t | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000171_leidenF1953_5_1_horusstele_r01_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:171 | Vorderseite | 1 | 2 | Ḥḥ | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000172_leidenF1953_5_1_horusstele_r01_s03_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:172 | Vorderseite | 1 | 3 | Jmn.t | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000173_leidenF1953_5_1_horusstele_r01_s04_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:173 | Vorderseite | 1 | 4 | Jmn | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000174_leidenF1953_5_1_horusstele_r01_s05_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:174 | Vorderseite | 1 | 5 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000175_leidenF1953_5_1_horusstele_r01_s06_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:175 | Vorderseite | 1 | 6 | Kk | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000176_leidenF1953_5_1_horusstele_r01_s07_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:176 | Vorderseite | 1 | 7 | Kk.t | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000177_leidenF1953_5_1_horusstele_r01_s08_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:177 | Vorderseite | 1 | 8 | Nwn | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000178_leidenF1953_5_1_horusstele_r01_s09_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:178 | Vorderseite | 1 | 9 | Nw.t | Anbetung des Amun-Re |
+| ![SVG](../www/drawings/generated/000179_leidenF1953_5_1_horusstele-links_r01_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:179 | Vorderseite | 1 | 1 | Jmn | Zwei Krokodile in Kapelle |
+| ![SVG](../www/drawings/generated/000180_leidenF1953_5_1_horusstele-links_r02_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:180 | Vorderseite | 2 | 1 | Jmn | Amun |
+| ![SVG](../www/drawings/generated/000181_leidenF1953_5_1_horusstele-links_r02_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:181 | Vorderseite | 2 | 2 | Nj.t | Neith zwei Krokodile säugend |
+| ![SVG](../www/drawings/generated/000182_leidenF1953_5_1_horusstele-links_r03_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:182 | Vorderseite | 3 | 1 | Ḫns.w | Chons |
+| ![SVG](../www/drawings/generated/000183_leidenF1953_5_1_horusstele-rechts_r01_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:183 | Vorderseite | 1 | 1 | Ḥr.w | Zwei Krokodile in Kapelle |
+| ![SVG](../www/drawings/generated/000184_leidenF1953_5_1_horusstele-rechts_r02_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:184 | Vorderseite | 2 | 1 | Mnw | Min |
+| ![SVG](../www/drawings/generated/000185_leidenF1953_5_1_horusstele-rechts_r02_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:185 | Vorderseite | 2 | 2 | Srq.t | Selket |
+| ![SVG](../www/drawings/generated/000186_leidenF1953_5_1_horusstele-rechts_r03_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:186 | Vorderseite | 3 | 1 | — | Nilpferd |
+| ![SVG](../www/drawings/generated/000187_leidenF1953_5_1_rechte-seite_r0x-1_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:187 | Rechte Seite | x+1 | 1 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| ![SVG](../www/drawings/generated/000188_leidenF1953_5_1_rechte-seite_r0x-2_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:188 | Rechte Seite | x+2 | 1 | Jn-ḥr.t | Onuris, der Schlange aufspießt |
+| ![SVG](../www/drawings/generated/000189_leidenF1953_5_1_rechte-seite_r0x-2_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:189 | Rechte Seite | x+2 | 2 | Ḥr.w | Horus mit Doppelkrone |
+| ![SVG](../www/drawings/generated/000190_leidenF1953_5_1_rechte-seite_r0x-3_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:190 | Rechte Seite | x+3 | 1 | Srq.t | Göttin mit Skorpionkörper |
+| ![SVG](../www/drawings/generated/000191_leidenF1953_5_1_rechte-seite_r0x-3_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:191 | Rechte Seite | x+3 | 2 | — | — |
+| ![SVG](../www/drawings/generated/000192_leidenF1953_5_1_rechte-seite_r0x-3_s03_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:192 | Rechte Seite | x+3 | 3 | Ḥr.w | Horus im Papyrusdickicht |
+| ![SVG](../www/drawings/generated/000193_leidenF1953_5_1_rechte-seite_r0x-3_s04_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:193 | Rechte Seite | x+3 | 4 | — | — |
+| ![SVG](../www/drawings/generated/000194_leidenF1953_5_1_rechte-seite_r0x-4_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:194 | Rechte Seite | x+4 | 1 | — | — |
+| ![SVG](../www/drawings/generated/000195_leidenF1953_5_1_rechte-seite_r0x-4_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:195 | Rechte Seite | x+4 | 2 | H̱nm.w | Chnum |
+| ![SVG](../www/drawings/generated/000196_leidenF1953_5_1_rechte-seite_r0x-4_s03_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:196 | Rechte Seite | x+4 | 3 | — | — |
+| ![SVG](../www/drawings/generated/000197_leidenF1953_5_1_rechte-seite_r0x-4_s04_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:197 | Rechte Seite | x+4 | 4 | — | Sobek |
+| ![SVG](../www/drawings/generated/000198_leidenF1953_5_1_rechte-seite_r0x-4_s05_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:198 | Rechte Seite | x+4 | 5 | Nj.t | Neith |
+| ![SVG](../www/drawings/generated/000199_leidenF1953_5_1_linke-seite_r0x-2_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:199 | Linke Seite | x+2 | 1 | Ḥr.w | Falke auf Antilope |
+| ![SVG](../www/drawings/generated/000200_leidenF1953_5_1_linke-seite_r0x-2_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:200 | Linke Seite | x+2 | 2 | Ḏḥw.tj | Thoth, der Herr von Hermopolis, der Herr der Gottesworte |
+| ![SVG](../www/drawings/generated/000201_leidenF1953_5_1_linke-seite_r0x-3_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:201 | Linke Seite | x+3 | 1 | — | — |
+| ![SVG](../www/drawings/generated/000202_leidenF1953_5_1_linke-seite_r0x-3_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:202 | Linke Seite | x+3 | 2 | — | — |
+| ![SVG](../www/drawings/generated/000203_leidenF1953_5_1_linke-seite_r0x-3_s03_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:203 | Linke Seite | x+3 | 3 | — | — |
+| ![SVG](../www/drawings/generated/000204_leidenF1953_5_1_linke-seite_r0x-3_s04_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:204 | Linke Seite | x+3 | 4 | Ꜣs.t | Isis und Horus |
+| ![SVG](../www/drawings/generated/000205_leidenF1953_5_1_linke-seite_r0x-4_s01_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:205 | Linke Seite | x+4 | 1 | H̱nm.w | Chnum |
+| ![SVG](../www/drawings/generated/000206_leidenF1953_5_1_linke-seite_r0x-4_s02_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:206 | Linke Seite | x+4 | 2 | Ḏḥw.tj | Isis von Achbit |
+| ![SVG](../www/drawings/generated/000207_leidenF1953_5_1_linke-seite_r0x-4_s03_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:207 | Linke Seite | x+4 | 3 | Ꜣs.t | Isis von Achbit |
+| ![SVG](../www/drawings/generated/000208_leidenF1953_5_1_linke-seite_r0x-4_s04_f01.svg){width=70px} | heilstatue:leidenF1953_5_1:208 | Linke Seite | x+4 | 4 | Nb.t-ḥw.t | Isis von Achbit |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Text A | Rechte Seite | unpubliziert |
+| Text A | Linke Seite | unpubliziert |
+| Text A | Linke Seite | unpubliziert |
+| „Alle Länder usw. sind unter den Füßen des Horus“ | Horusstele | Dils 2024g |
+| Text B, P-L-Version (Anfang) | Rechte Seite | unpubliziert |
+| Text B, P-L-Version (fortgesetzt) | Linke Seite | unpubliziert |
+| Text C | Linke Seite | unpubliziert |
+| Titel, etc. | Rückseite | unpubliziert |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+| 41 | 10.2 | 22.5 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__leidenF1953_5_1.md >}}
+

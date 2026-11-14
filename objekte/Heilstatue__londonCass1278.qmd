@@ -1,0 +1,112 @@
+---
+title: "Objektblatt: London, Sammlung Cassirer"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** unbekannt
+
+**Inventarnummer:** unbekannte Inv.-Nr. (CLES-Archiv-Nr.: 1278)
+
+**Material:** Granit (?)
+
+**Herkunft:** unbekannt
+
+**Provenienz:** London, vllt. aus der Sammung von Manfred Cassirer; versteigert bei Sotheby's Auktion am 3. Dezember 1956, Lot-Nr. 205; Ausgeliehen an Adolf Klasens am 12. November 1958
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** fragmentarisch erhalten (Oberkörper schräg nach hinten gebrochen); nur Mittelteil des Oberkörpers erhalten mit größtem Teil der Horusstele: nach hinten hin quer abgebrochen (nur noch 3 Register des Rückenpfeilers erhalten); Horusstele zu drei viertel erhalten, schräg abgebrochen und am oberen Ende abgebrochen
+
+## Figuren
+
+53 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:londonCass1278:209 | Vorderseite | 1 | 1 | Ḥr.w | Horus mit Doppelkrone |
+| — | heilstatue:londonCass1278:210 | Vorderseite | 1 | 1 | — | — |
+| ![SVG](../www/drawings/generated/000211_londonCass1278_rueckenpfeiler_r0x-1_s01_f01.svg){width=70px} | heilstatue:londonCass1278:211 | Rückenpfeiler | x+1 | 1 | Ꜣs.t | Isis, die Krokodil säugt |
+| ![SVG](../www/drawings/generated/000212_londonCass1278_rueckenpfeiler_r0x-1_s02_f01.svg){width=70px} | heilstatue:londonCass1278:212 | Rückenpfeiler | x+1 | 2 | Mnṯ.w | Month, der Herr von Theben |
+| ![SVG](../www/drawings/generated/000213_londonCass1278_rueckenpfeiler_r0x-2_s01_f01.svg){width=70px} | heilstatue:londonCass1278:213 | Rückenpfeiler | x+2 | 1 | Srp.t-mꜣj-sr; Jtm | Box |
+| ![SVG](../www/drawings/generated/000214_londonCass1278_rueckenpfeiler_r0x-2_s02_f01.svg){width=70px} | heilstatue:londonCass1278:213,1 | Rückenpfeiler | x+2 | 2 | — | — |
+| ![SVG](../www/drawings/generated/000215_londonCass1278_rueckenpfeiler_r0x-3_s01_f01.svg){width=70px} | heilstatue:londonCass1278:214 | Rückenpfeiler | x+3 | 1 | Jh.t | Ihet-weret |
+| ![SVG](../www/drawings/generated/000216_londonCass1278_rueckenpfeiler_r0x-3_s02_f01.svg){width=70px} | heilstatue:londonCass1278:215 | Rückenpfeiler | x+3 | 2 | Ḥr.j-š⸗f | 4-tierköpfiger Mensch |
+| — | heilstatue:londonCass1278:216 | Rechte Seite | x+1 | 1 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| — | heilstatue:londonCass1278:217 | Rechte Seite | x+2 | 2 | — | — |
+| — | heilstatue:londonCass1278:218 | Rechte Seite | x+1 | 3 | — | — |
+| — | heilstatue:londonCass1278:219 | Rechte Seite | x+1 | 4 | — | — |
+| — | heilstatue:londonCass1278:220 | Rechte Seite | x+2 | 1 | Ḥr.w | Falke auf Antilope |
+| — | heilstatue:londonCass1278:221 | Rechte Seite | x+2 | 2 | Ḏḥw.tj | Thoth, der Herr von Hermopolis, der Herr der Gottesworte |
+| — | heilstatue:londonCass1278:222 | Rechte Seite | x+2 | 3 | — | — |
+| — | heilstatue:londonCass1278:223 | Rechte Seite | x+2 | 4 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:londonCass1278:224 | Rechte Seite | x+2 | 5 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:londonCass1278:225 | Rechte Seite | x+3 | 1 | kꜣ wr | Ka-wer |
+| — | heilstatue:londonCass1278:226 | Rechte Seite | x+3 | 2 | Nj.t | Neith zwei Krokodile säugend |
+| — | heilstatue:londonCass1278:227 | Rechte Seite | x+3 | 3 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:londonCass1278:228 | Rechte Seite | x+3 | 4 | Nfr-tm | Nefertem als Lotos |
+| — | heilstatue:londonCass1278:229 | Rechte Seite | x+3 | 5 | Ḫns.w | Chons |
+| — | heilstatue:londonCass1278:230 | Rechte Seite | x+3 | 6 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:londonCass1278:231 | Rechte Seite | x+4 | 1 | Ptḥ-Skr-Wsjr | Ptah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen |
+| — | heilstatue:londonCass1278:232 | Rechte Seite | x+4 | 2 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:233 | Rechte Seite | x+4 | 3 | Ḥr.w | Horus mit Doppelkrone |
+| — | heilstatue:londonCass1278:234 | Rechte Seite | x+4 | 4 | Nw.t | Chnum und Nut |
+| — | heilstatue:londonCass1278:235 | Rechte Seite | x+4 | 5 | H̱nm.w | Chnum und Nut |
+| — | heilstatue:londonCass1278:236 | Rechte Seite | x+5 | 1 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:237 | Rechte Seite | x+5 | 2 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:238 | Rechte Seite | x+5 | 3 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:239 | Rechte Seite | x+5 | 4 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:240 | Rechte Seite | x+5 | 5 | H̱nm.w | mumienförmiger Chnum mit Feder |
+| — | heilstatue:londonCass1278:241 | Linke Seite | 1 | 1 | zerstört | Adoration; ???-Götter |
+| — | heilstatue:londonCass1278:242 | Linke Seite | 2 | 1 | Ḥr.w | Harpokrates, der Verborgene |
+| — | heilstatue:londonCass1278:243 | Linke Seite | 2 | 2 | Bꜣ | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:londonCass1278:244 | Linke Seite | 2 | 3 | Ḥꜣ.t-mḥ.yt | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:londonCass1278:245 | Linke Seite | 2 | 4 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:246 | Linke Seite | 3 | 1 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:londonCass1278:247 | Linke Seite | 3 | 2 | Ḏḥw.tj | Thoth auf Stier |
+| — | heilstatue:londonCass1278:248 | Linke Seite | 3 | 3 | Jn-ḥr.t | Onuris mit Katze auf Podest |
+| — | heilstatue:londonCass1278:249 | Linke Seite | 3 | 4 | Bꜣs.tt | Onuris mit Katze auf Podest |
+| — | heilstatue:londonCass1278:250 | Linke Seite | 3 | 5 | — | — |
+| — | heilstatue:londonCass1278:251 | Linke Seite | 4 | 1 | Ḫns.w | Pavian und Kobra |
+| — | heilstatue:londonCass1278:252 | Linke Seite | 4 | 2 | Sḫm.t | Pavian und Kobra |
+| — | heilstatue:londonCass1278:253 | Linke Seite | 4 | 3 | Sbk | hockender Sobek mit Schlange |
+| — | heilstatue:londonCass1278:254 | Linke Seite | 4 | 4 | Ḥw.t-Ḥr.w | Hathor, Herrin der Sykomore |
+| — | heilstatue:londonCass1278:255 | Linke Seite | 4 | 5 | Ptḥ | Ptah, der Große, groß an Stärke |
+| — | heilstatue:londonCass1278:256 | Linke Seite | 5 | 1 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:257 | Linke Seite | 5 | 2 | zerstört | zerstört |
+| — | heilstatue:londonCass1278:258 | Linke Seite | 5 | 3 | — | 2 Katzen neben Sistrum |
+| — | heilstatue:londonCass1278:259 | Linke Seite | 5 | 4 | — | — |
+| — | heilstatue:londonCass1278:260 | Linke Seite | 5 | 5 | Sḫm.t | liegender Löwe auf Podest |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Titel, etc. (?) | Oberseite | unpubliziert |
+| Spruch? | Oberseite | unpubliziert |
+| Text A | Linke Seite | unpubliziert |
+| Text A | Linke Seite | unpubliziert |
+| „Die Elle des Heh“ | Linke Seite | unpubliziert |
+| Titel, etc. (?) | Linke Seite | unpubliziert |
+| Spruch | Linke Seite | unpubliziert |
+| Text B, P-L-Version | Rechte Seite | unpubliziert |
+| Text B, P-L-Version | Rechte Seite | unpubliziert |
+| Titel, etc. (?) | Rechte Seite | unpubliziert |
+| Spruch (?) | Rechte Seite | unpubliziert |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 20 | 12.5 | 20.5 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__londonCass1278.md >}}
+

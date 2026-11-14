@@ -1,0 +1,160 @@
+---
+title: "Objektblatt: Turin, Suppl. 9 + Florenz, 8708"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Museo Egizio, Turin
+
+**Inventarnummer:** Suppl. 9 (obere Hälfte)
+
+**Material:** dunkler Granit / Granodiorit / schwarzer Basalt
+
+**Herkunft:** unbekannt
+
+**Provenienz:** Ankauf zw. 1874--1913 aus Museo Kircheriano, Rom; in Rom gefunden (vor 1654)
+
+**Datierung:** 4. Jh. v. u. Z. (vmtl. 30. Dyn.)
+
+**Erhaltungszustand:** zum größten Teil vollständig, aber Kopf, linke Schulterpartie bis zum Ellenbogen quer gebrochen, unterer Teil der Stele bzw. des Schurzes mit den Füßen fehlen; Statue ist ein zwei Teile zerbrochen, weshalb an der Bruchkante entlang auch Abbrüche sind; Vorderseite der Stele abgebrochen
+
+## Figuren
+
+91 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:turinSuppl9Florenz8708:914 | Vorderseite | 1 | 1 | Ḥḥ.(w)t | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:915 | Vorderseite | 1 | 2 | Ḥḥ | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:916 | Vorderseite | 1 | 3 | Jmn.t | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:917 | Vorderseite | 1 | 4 | Jmn | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:918 | Vorderseite | 1 | 5 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:919 | Vorderseite | 1 | 6 | Kk | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:920 | Vorderseite | 1 | 7 | Kk.t | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:921 | Vorderseite | 1 | 8 | Nwn | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:922 | Vorderseite | 1 | 9 | Nw.t | Anbetung des Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:923 | Rückenpfeiler | 1 | 1 | Jh.t | Ihet-weret |
+| — | heilstatue:turinSuppl9Florenz8708:924 | Rückenpfeiler | 1 | 2 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:925 | Rückenpfeiler | 2 | 1 | Srq.t | Selket auf gewundener Schlange |
+| — | heilstatue:turinSuppl9Florenz8708:926 | Rückenpfeiler | 2 | 2 | Jmn-rn⸗f | Zwei Krokodile übereinander, eines in Kapelle |
+| — | heilstatue:turinSuppl9Florenz8708:927 | Rückenpfeiler | 3 | 1 | Mꜣꜥ.t | Maat und Ptah |
+| — | heilstatue:turinSuppl9Florenz8708:928 | Rückenpfeiler | 3 | 2 | Ptḥ | Maat und Ptah |
+| — | heilstatue:turinSuppl9Florenz8708:929 | Rückenpfeiler | 3 | 3 | Ḏḥw.tj | Ibis auf Standarte |
+| — | heilstatue:turinSuppl9Florenz8708:930 | Rückenpfeiler | 4 | 1 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:931 | Rückenpfeiler | 4 | 2 | Ꜣs.t | Isis und Horus |
+| — | heilstatue:turinSuppl9Florenz8708:932 | Rückenpfeiler | 5 | 1 | Ḥr.w | Falke auf Nilpferd |
+| — | heilstatue:turinSuppl9Florenz8708:933 | Rückenpfeiler | 5 | 2 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:934 | Rückenpfeiler | 5 | 3 | Wꜣs.t | — |
+| — | heilstatue:turinSuppl9Florenz8708:935 | Rückenpfeiler | 6 | 1 | — | Die mit zahlreichen Gestalten |
+| — | heilstatue:turinSuppl9Florenz8708:936 | Rückenpfeiler | 6 | 2 | Ḥr.j-š⸗f | 4-tierköpfiger Mensch |
+| — | heilstatue:turinSuppl9Florenz8708:937 | Rückenpfeiler | 7 | 1 | Jn-ḥr.t-Šw | Onuris-Schu, der Schlange aufspießt |
+| — | heilstatue:turinSuppl9Florenz8708:938 | Rückenpfeiler | 7 | 2 | H̱nm.w | mumienförmiger Chnum mit Feder |
+| — | heilstatue:turinSuppl9Florenz8708:939 | Rückenpfeiler | 8 | 1 | — | Patäke in Sonnenscheibe auf gekreuzten Krokodilen |
+| — | heilstatue:turinSuppl9Florenz8708:940 | Rückenpfeiler | 8 | 2 | Sbk | Sobek |
+| — | heilstatue:turinSuppl9Florenz8708:941 | Rückenpfeiler | 9 | 1 | Wr.t-ḥkꜣ.w | Weret-hekau auf Krokodil |
+| — | heilstatue:turinSuppl9Florenz8708:942 | Rückenpfeiler | 9 | 2 | Ḥr.j-š⸗f | mumienförmiger Herischef |
+| — | heilstatue:turinSuppl9Florenz8708:943 | Rückenpfeiler | 10 | 1 | Ḥr.w | Horus, sonstig |
+| — | heilstatue:turinSuppl9Florenz8708:944 | Rückenpfeiler | 10 | 2 | Ḏḥw.tj | Thoth |
+| — | heilstatue:turinSuppl9Florenz8708:945 | Rechte Seite | 1 | 1 | Rꜥw-Jtm | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:946 | Rechte Seite | 1 | 2 | Jw⸗s-ꜥꜣ⸗s | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:947 | Rechte Seite | 1 | 3 | — | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:948 | Rechte Seite | 1 | 4 | Ḥw.t-Ḥr.w | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:949 | Rechte Seite | 2 | 1 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| — | heilstatue:turinSuppl9Florenz8708:950 | Rechte Seite | 2 | 2 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:951 | Rechte Seite | 2 | 3 | Ḥr.w | Falke auf Antilope |
+| — | heilstatue:turinSuppl9Florenz8708:952 | Rechte Seite | 2 | 4 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:953 | Rechte Seite | 2 | 5 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:954 | Rechte Seite | 3 | 1 | Ḥr.j-š⸗f | Herischef |
+| — | heilstatue:turinSuppl9Florenz8708:955 | Rechte Seite | 3 | 2 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:turinSuppl9Florenz8708:956 | Rechte Seite | 3 | 3 | kꜣ wr | Ka-wer |
+| — | heilstatue:turinSuppl9Florenz8708:957 | Rechte Seite | 3 | 4 | Nj.t | Neith zwei Krokodile säugend |
+| — | heilstatue:turinSuppl9Florenz8708:958 | Rechte Seite | 3 | 5 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:turinSuppl9Florenz8708:959 | Rechte Seite | 4 | 1 | Nfr-tm | Nefertem als Lotos |
+| — | heilstatue:turinSuppl9Florenz8708:960 | Rechte Seite | 4 | 2 | Ḫns.w | Chons |
+| — | heilstatue:turinSuppl9Florenz8708:961 | Rechte Seite | 4 | 3 | Ptḥ-Skr-Wsjr | Ptah-Sokar-Osiris |
+| — | heilstatue:turinSuppl9Florenz8708:962 | Rechte Seite | 4 | 4 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:turinSuppl9Florenz8708:963 | Rechte Seite | 4 | 5 | Srq.t | Selket |
+| — | heilstatue:turinSuppl9Florenz8708:964 | Rechte Seite | 5 | 1 | Ḥr.w | Horus, das Auge des Re |
+| — | heilstatue:turinSuppl9Florenz8708:965 | Rechte Seite | 5 | 2 | Nw.t | Chnum und Nut |
+| — | heilstatue:turinSuppl9Florenz8708:966 | Rechte Seite | 5 | 3 | H̱nm.w | Chnum und Nut |
+| — | heilstatue:turinSuppl9Florenz8708:967 | Rechte Seite | 5 | 4 | Ptḥ-Tꜣ-tnn | Ptah-Tatennen |
+| — | heilstatue:turinSuppl9Florenz8708:968 | Rechte Seite | 6 | 1 | Wr.t-ḥkꜣ.w | Weret-hekau auf Schlange |
+| — | heilstatue:turinSuppl9Florenz8708:969 | Rechte Seite | 6 | 2 | Ḥr.w | Horus |
+| — | heilstatue:turinSuppl9Florenz8708:970 | Rechte Seite | 6 | 3 | Ḫns.w | Chons in Theben |
+| — | heilstatue:turinSuppl9Florenz8708:971 | Rechte Seite | 6 | 4 | Nj.t | Neith |
+| — | heilstatue:turinSuppl9Florenz8708:972 | Rechte Seite | 6 | 5 | Nḫb.t | Nechbet |
+| — | heilstatue:turinSuppl9Florenz8708:973 | Rechte Seite | 7 | 1 | Ḥr.w | Harendotes mit Udjat-Auge |
+| — | heilstatue:turinSuppl9Florenz8708:974 | Rechte Seite | 7 | 2 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:turinSuppl9Florenz8708:975 | Rechte Seite | 7 | 3 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:turinSuppl9Florenz8708:976 | Rechte Seite | 7 | 4 | Ḥr.w | Horus, der Große |
+| — | heilstatue:turinSuppl9Florenz8708:977 | Linke Seite | 1 | 1 | Rꜥw | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:978 | Linke Seite | 1 | 2 | Ḥw.t-Ḥr.w | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:979 | Linke Seite | 1 | 3 | Šw | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:980 | Linke Seite | 1 | 4 | Tfn.t | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:turinSuppl9Florenz8708:981 | Linke Seite | 2 | 1 | Jmn-Rꜥw | Amun-Re |
+| — | heilstatue:turinSuppl9Florenz8708:982 | Linke Seite | 2 | 2 | Bꜣ | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:turinSuppl9Florenz8708:983 | Linke Seite | 2 | 3 | Ḥꜣ.t-mḥ.yt | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:turinSuppl9Florenz8708:984 | Linke Seite | 2 | 4 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:985 | Linke Seite | 3 | 1 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:turinSuppl9Florenz8708:986 | Linke Seite | 3 | 2 | Ḏḥw.tj | Thoth auf Stier |
+| — | heilstatue:turinSuppl9Florenz8708:987 | Linke Seite | 3 | 3 | Jn-ḥr.t | Onuris mit Katze auf Podest |
+| — | heilstatue:turinSuppl9Florenz8708:988 | Linke Seite | 3 | 4 | Bꜣs.tt | Onuris mit Katze auf Podest |
+| — | heilstatue:turinSuppl9Florenz8708:989 | Linke Seite | 4 | 1 | Ḫns.w | Pavian und Kobra |
+| — | heilstatue:turinSuppl9Florenz8708:990 | Linke Seite | 4 | 2 | Sḫm.t | Pavian und Kobra |
+| — | heilstatue:turinSuppl9Florenz8708:991 | Linke Seite | 4 | 3 | Sbk | Sobek mit Schlange |
+| — | heilstatue:turinSuppl9Florenz8708:992 | Linke Seite | 4 | 4 | Ḥw.t-Ḥr.w | Hathor, Herrin der Sykomore |
+| — | heilstatue:turinSuppl9Florenz8708:993 | Linke Seite | 5 | 1 | Ḥr.w | Falke auf Nilpferd |
+| — | heilstatue:turinSuppl9Florenz8708:994 | Linke Seite | 5 | 2 | — | 2 Katzen neben Sistrum |
+| — | heilstatue:turinSuppl9Florenz8708:995 | Linke Seite | 5 | 3 | Nwn | — |
+| — | heilstatue:turinSuppl9Florenz8708:996 | Linke Seite | 5 | 4 | Ḥꜥpj | Hapi auf Papyrusstängel |
+| — | heilstatue:turinSuppl9Florenz8708:997 | Linke Seite | 6 | 1 | Ḥr.w | Harmerti |
+| — | heilstatue:turinSuppl9Florenz8708:998 | Linke Seite | 6 | 2 | Ptḥ | Ptah, der Große, groß an Stärke |
+| — | heilstatue:turinSuppl9Florenz8708:999 | Linke Seite | 6 | 3 | Rꜥw-Ḥr.w-ꜣḫ.tj | Re-Harachte |
+| — | heilstatue:turinSuppl9Florenz8708:1000 | Linke Seite | 6 | 4 | — | — |
+| — | heilstatue:turinSuppl9Florenz8708:1001 | Linke Seite | 7 | 1 | Sḫm.t | liegender Löwe auf Podest |
+| — | heilstatue:turinSuppl9Florenz8708:1002 | Linke Seite | 7 | 2 | Nj.t | Neith, Herrin von Sais |
+| — | heilstatue:turinSuppl9Florenz8708:1003 | Linke Seite | 7 | 3 | Ḫns.w | Krokodil mit Falkenkopf |
+| — | heilstatue:turinSuppl9Florenz8708:1004 | Linke Seite | 7 | 4 | Ḥr.w | Falke auf Papyrusstängel |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Spruch zur Ertüchtigung des Herzens | Vorderseite | Kákosy 1999: 38– 39, 41 |
+| Beischrift, Falke | Vorderseite | Kákosy 1999: 40–41 |
+| Beischrift, Nefertem | Vorderseite | Kákosy 1999: 40–41 |
+| Text B, P-L-Version | Rechte Seite | Kákosy 1999: 41–43 |
+| Text B, P-L-Version | Rechte Seite | Kákosy 1999: 41–43 |
+| „Die Hand des Atum“ | Rechte Seite | Kákosy 1999: 45–47 |
+| Text A | Linke Seite | Kákosy 1999: 43–45 |
+| Text A | Linke Seite | Kákosy 1999: 43–45 |
+| „Die Elle des Heh“ | Linke Seite | Kákosy 1999: 48–50 |
+| „Der Nagel des Atum“ | Linke Seite | Kákosy 1999: 48–50 |
+| „Der Nagel des Ptah“ | Linke Seite | Kákosy 1999: 48–50 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+| 36 | 12 | 16 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__turinSuppl9Florenz8708.md >}}
+

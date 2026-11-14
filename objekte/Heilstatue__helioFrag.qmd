@@ -1,0 +1,86 @@
+---
+title: "Objektblatt: Heliopolis-Fragmente"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Heliopolis / Matareya
+
+**Inventarnummer:** —
+
+**Material:** Granodiorit (?)
+
+**Herkunft:** Helioplis / Matareya, Bereich 200
+
+**Provenienz:** gefunden bei Grabungskampage Herbst 2017 / Frühjahr 2018 der Ägyptisch-Deutschen Grabungsmission
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** Sieben Fragmente, die einen Teil des Rückenpfeilers zusammen mit der linken und rechten Seite, den rechten Arm und einen Teil des Fußes der Statue bilden.
+
+## Figuren
+
+30 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:helioFrag:1 | Rückenpfeiler | x+1 | 1 | Mnṯ.w | Month, der Herr von Theben |
+| — | heilstatue:helioFrag:2 | Rückenpfeiler | x+2 | 1 | Ḥr.w | Horus, der Große, der Herr der beiden Messer |
+| — | heilstatue:helioFrag:3 | Rückenpfeiler | x+2 | 2 | Ḫns.w | Chons auf Tor |
+| — | heilstatue:helioFrag:4 | Rückenpfeiler | x+3 | 1 | Srq.t | Selket |
+| — | heilstatue:helioFrag:5 | Rückenpfeiler | x+3 | 2 | Nfr-tm | Nefertem, der herauskommt aus Memphis |
+| — | heilstatue:helioFrag:6 | Rückenpfeiler | x+3 | 3 | Sḫm.t | ithyphallische Sachmet |
+| — | heilstatue:helioFrag:7 | Rückenpfeiler | x+4 | 1 | Ḫns.w | pantheistischer Chons |
+| — | heilstatue:helioFrag:8 | Rückenpfeiler | x+4 | 2 | Ḥr.j-š⸗f | 4-tierköpfiger Mensch |
+| — | heilstatue:helioFrag:9 | Rückenpfeiler | x+4 | 3 | H̱nm.w | mumienförmiger Chnum mit Feder |
+| — | heilstatue:helioFrag:10 | Rechte Seite | 1 | 1 | Rꜥw-Ḥr.w-ꜣḫ.tj | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:helioFrag:11 | Rechte Seite | 1 | 2 | Ḥw.t-Ḥr.w | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:helioFrag:12 | Rechte Seite | 2 | 1 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| — | heilstatue:helioFrag:13 | Rechte Seite | 2 | 2 | Sbk | Sobek mit Was-Szepter |
+| — | heilstatue:helioFrag:14 | Rechte Seite | 2 | 3 | — | — |
+| — | heilstatue:helioFrag:15 | Rechte Seite | 3 | 1 | Ḥr.w | Horus als Falke |
+| — | heilstatue:helioFrag:16 | Rechte Seite | 3 | 2 | Sbk | mumienförmiger Sobek |
+| — | heilstatue:helioFrag:17 | Linke Seite | 1 | 1 | Rꜥw-Ḥr.w-ꜣḫ.tj | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:helioFrag:18 | Linke Seite | 1 | 2 | Ḥw.t-Ḥr.w | Adoration vor Gottheiten aus Heliopolis |
+| — | heilstatue:helioFrag:19 | Linke Seite | 2 | 1 | zerstört | zerstört |
+| — | heilstatue:helioFrag:20 | Linke Seite | 2 | 2 | Bꜣ | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:helioFrag:21 | Linke Seite | 2 | 3 | Ḥꜣ.t-mḥ.yt | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:helioFrag:22 | Linke Seite | 2 | 4 | — | — |
+| — | heilstatue:helioFrag:23 | Linke Seite | 3 | 1 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:helioFrag:24 | Linke Seite | 3 | 2 | Ḏḥw.tj | Thoth auf Stier |
+| — | heilstatue:helioFrag:25 | Linke Seite | 3 | 3 | Jn-ḥr.t | Onuris mit Katze auf Podest |
+| — | heilstatue:helioFrag:26 | Linke Seite | 3 | 4 | Bꜣs.tt | Onuris mit Katze auf Podest |
+| — | heilstatue:helioFrag:27 | Linke Seite | 4 | 1 | zerstört | zerstört |
+| — | heilstatue:helioFrag:28 | Linke Seite | 4 | 2 | Ḥr.w | Horus als Falke |
+| — | heilstatue:helioFrag:29 | Linke Seite | 4 | 3 | kꜣ wr | Ka-wer |
+| — | heilstatue:helioFrag:30 | Linke Seite | 4 | 4 | Ḥr.w | Falke auf Gold-Zeichen |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| „Die Hand des Atum“ (Anfang) | Rechte Seite | Langermann 2023: 169–174 |
+| „Die Hand des Atum“ (fortgesetzt) | Rechte Seite | Langermann 2023: 169–174 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+|  5.0 | 4.2 | 2.3 | U2099-4; Rückenpfeiler |
+| 11.0 | 6.1 | 6.4 | U2105-3B; Schurz, Rückenpfeiler |
+|  4.1 | 7.0 | 6.9 | U2114-3; Schurz, Rückenpfeiler |
+|  6.4 | 6.1 | 7.0 | U2105-3A; Schurz |
+|  5.2 | 4.2 | 4.0 | U2107-3A; Arm |
+|  6.7 | 4.2 | 3.8 | U2107-3B; Arm |
+| 12.2 | 8.5 | 5.5 | U2109-5; Zeh |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__helioFrag.md >}}
+

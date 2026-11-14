@@ -1,0 +1,21 @@
+---
+title: "Objektkatalog"
+---
+
+Ein Datenblatt pro Objekt. Die Figuren werden als Datensätze innerhalb der Objekte geführt.
+
+- [Heliopolis-Fragmente](./Heilstatue__helioFrag.qmd)
+- [Kairo, JE 41677](./Heilstatue__kairoJE41677.qmd)
+- [Kairo, JE 46341](./Heilstatue__kairoJE46341.qmd)
+- [Kairo, JE 87083](./Heilstatue__kairoJE87083.qmd)
+- [Leiden, F 1953/5.1](./Heilstatue__leidenF1953_5_1.qmd)
+- [London, Sammlung Cassirer](./Heilstatue__londonCass1278.qmd)
+- [Moskau, I.1.a.5319](./Heilstatue__MoskauI_1_a_5319.qmd)
+- [München, ÄS 2824](./Heilstatue__muenchenAes2824.qmd)
+- [Neapel, 1065](./Heilstatue__neapel1065.qmd)
+- [Paris, Louvre, E 10777](./Heilstatue__parisLouvreE10777.qmd)
+- [Stockholm, NME 76](./Heilstatue__stockholmNME76.qmd)
+- [Stockholm, NME 92](./Heilstatue__stockholmNME92.qmd)
+- [Turin, Cat. 3030](./Heilstatue__turinCat3030.qmd)
+- [Turin, Cat. 3031](./Heilstatue__turinCat3031.qmd)
+- [Turin, Suppl. 9 + Florenz, 8708](./Heilstatue__turinSuppl9Florenz8708.qmd)

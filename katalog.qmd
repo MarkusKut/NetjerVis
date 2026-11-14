@@ -1,0 +1,14 @@
+---
+title: "Figurenkatalog"
+page-layout: full
+toc: false
+---
+
+Die interaktive Datenbank öffnet standardmäßig den Figurenkatalog. Die
+Recherchefilter befinden sich links und können eingeklappt werden.
+
+<div class="nv-frame-wrap">
+  <iframe class="nv-frame" src="www/shinylive/index.html" title="NetjerVis – Figurenkatalog" loading="eager"></iframe>
+</div>
+
+<p class="nv-note"><a href="www/shinylive/index.html" target="_blank" rel="noopener noreferrer">Figurenkatalog als Vollbild öffnen</a>.</p>

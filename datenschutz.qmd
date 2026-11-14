@@ -1,0 +1,75 @@
+---
+title: "Datenschutzerklärung"
+subtitle: "Datenschutzinformationen nach der Datenschutz-Grundverordnung"
+toc: true
+---
+
+*Stand: 7. November 2026 — vor Veröffentlichung anhand der tatsächlich eingesetzten Dienste zu überprüfen.*
+
+## 1. Verantwortliche Stelle
+
+Verantwortlich für dieses Websiteangebot im Sinne der Datenschutz-Grundverordnung (DSGVO):
+
+[Vollständiger Vor- und Nachname bzw. rechtlich verantwortliche Einrichtung]  
+[Straße und Hausnummer]  
+[Postleitzahl und Ort]  
+Deutschland  
+E-Mail: [Kontakt-E-Mail-Adresse]
+
+[Kontaktdaten einer oder eines Datenschutzbeauftragten ergänzen, **sofern bestellt bzw. gesetzlich erforderlich**.]
+
+## 2. Hosting über GitHub Pages
+
+Die Website wird über **GitHub Pages**, einen Dienst von GitHub, bereitgestellt. Beim Abruf der Website werden technisch erforderliche Verbindungen zu Servern des Hostingdienstes hergestellt. Dabei werden insbesondere die IP-Adresse des zugreifenden Geräts und technische Anfragedaten verarbeitet. Nach den [Informationen von GitHub zu GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection) werden IP-Adressen von Besucherinnen und Besuchern zu Sicherheitszwecken protokolliert, unabhängig davon, ob eine Anmeldung bei GitHub besteht.
+
+Die Verarbeitung dient der Bereitstellung, Funktionsfähigkeit und Sicherheit der Website. Soweit wir für diese Verarbeitung verantwortlich sind, beruht sie auf unserem berechtigten Interesse an einem sicheren und erreichbaren wissenschaftlichen Informationsangebot (Art. 6 Abs. 1 lit. f DSGVO). Für eigene Verarbeitungen von GitHub gelten zusätzlich die [Datenschutzhinweise von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+GitHub kann personenbezogene Daten auch außerhalb des Europäischen Wirtschaftsraums verarbeiten, insbesondere in den USA. Informationen zu Empfängern, Übermittlungen, einschlägigen Garantien und Speicherfristen sind den aktuellen Datenschutzinformationen des Anbieters zu entnehmen. **Vor Veröffentlichung ist zu prüfen**, ob der konkret gewählte GitHub-Dienst und die Vertragsgestaltung zusätzliche Angaben, Vereinbarungen oder Maßnahmen erforderlich machen. Eine eigene feste Löschfrist für GitHubs Sicherheitsprotokolle wird hier nicht behauptet.
+
+## 3. Wissenschaftlicher Katalog und interaktive Anwendung
+
+Das Angebot stellt Forschungsdaten zu archäologischen Objekten, ikonographische Beschreibungen und selbst erstellte SVG-Zeichnungen bereit. Eine Registrierung oder ein persönliches Nutzerkonto für den Katalog ist nach dem derzeitigen Konzept nicht vorgesehen.
+
+Die geplante interaktive Anwendung verwendet **Shinylive/webR**, damit Such-, Filter- und Vergleichsfunktionen überwiegend direkt im Browser ausgeführt werden können. Bei einer entsprechend konfigurierten rein statischen Anwendung werden Eingaben in die Such- und Vergleichsoberfläche nicht an einen eigens betriebenen Shiny-Server übertragen.
+
+Für das Laden der Anwendung, ihrer Daten, SVG-Dateien, JavaScript-Dateien oder R-/WebAssembly-Komponenten sind jedoch Netzwerkanfragen erforderlich. Werden hierfür externe Quellen oder Content-Delivery-Netzwerke genutzt, erhalten diese die für die Anfrage technisch notwendigen Verbindungsdaten. **Die tatsächlich geladenen Domains und die Verarbeitung bei externen Diensten werden vor Veröffentlichung geprüft und an dieser Stelle, soweit erforderlich, konkret beschrieben.**
+
+Ein dauerhafter eigener Speicher für individuelle Suchanfragen ist derzeit nicht geplant. Eine abweichende technische Umsetzung (etwa Nutzerkonten, geteilte Suchstände oder eine serverseitige Shiny-Version) erfordert eine Aktualisierung dieser Erklärung.
+
+## 4. Cookies und Speicherung im Endgerät
+
+Nach dem vorgesehenen Konzept werden **keine eigenen Werbe- oder Reichweiten-Tracker** eingesetzt. Ob und welche Cookies, lokalen Speichermechanismen oder vergleichbaren Technologien tatsächlich eingesetzt werden, ist anhand der veröffentlichten Quarto-/Shinylive-Seite und ihrer eingebundenen Ressourcen zu überprüfen.
+
+Für das Speichern von Informationen auf einem Endgerät oder den Zugriff darauf gilt [§ 25 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)](https://www.gesetze-im-internet.de/ttdsg/__25.html). Soweit eine technisch nicht unbedingt erforderliche Speicherung oder ein entsprechender Zugriff stattfindet, ist grundsätzlich eine Einwilligung erforderlich. Für unbedingt erforderliche Vorgänge können die gesetzlichen Ausnahmen gelten; eine etwaige Verarbeitung personenbezogener Daten richtet sich zusätzlich nach der DSGVO.
+
+[**Vor Freischaltung:** Verwendete Cookies, `localStorage`, externe Schriftarten, Analysedienste und sonstige Drittanbieter prüfen; diesen Abschnitt bei Bedarf konkretisieren und etwaige Einwilligungsmechanismen implementieren.]
+
+## 5. Externe Links und Quellen
+
+Die Datenbank enthält Verweise auf Museumsdatenbanken, Sammlungen und wissenschaftliche Literatur. Bei einem bloßen externen Link wird die Zielseite nicht bereits dadurch aufgerufen, dass Sie unsere Seite besuchen. Erst wenn Sie dem Link folgen, verarbeitet der jeweilige Zielanbieter Daten nach seinen eigenen Datenschutzbestimmungen.
+
+Nach dem derzeitigen Konzept werden keine fotografischen Museumsvorlagen oder Buchscans unmittelbar von externen Seiten eingebettet. Falls später externe Bild-, Karten-, Video- oder Schriftendienste eingebunden werden, muss diese Datenschutzerklärung entsprechend ergänzt werden.
+
+## 6. Kontaktaufnahme per E-Mail
+
+Wenn Sie per E-Mail Kontakt aufnehmen, verarbeiten wir die mit Ihrer Nachricht übermittelten personenbezogenen Daten, insbesondere Ihre E-Mail-Adresse und den Nachrichteninhalt, um Ihre Anfrage zu bearbeiten und zu beantworten.
+
+Rechtsgrundlage ist regelmäßig Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Kommunikation und Bearbeitung von Anfragen); bei vorvertraglichen oder vertraglichen Anliegen kann Art. 6 Abs. 1 lit. b DSGVO einschlägig sein. Die Angaben werden gelöscht, wenn sie für diese Zwecke nicht mehr erforderlich sind, sofern keine gesetzlichen Aufbewahrungspflichten oder andere rechtlich zulässige Gründe entgegenstehen.
+
+## 7. Empfänger und Speicherdauer
+
+Empfänger personenbezogener Verbindungsdaten können die zur Bereitstellung der Website eingesetzten Hosting- und Infrastrukturunternehmen sein; Angaben hierzu stehen insbesondere in Abschnitt 2. Bei E-Mail-Anfragen werden die hierfür eingesetzten E-Mail-Dienste einbezogen.
+
+Die jeweilige Speicherdauer richtet sich nach dem Verarbeitungszweck, gesetzlichen Pflichten sowie – bei eigenverantwortlicher Verarbeitung durch Dritte – den Bedingungen der jeweiligen Anbieter. Für die eigene Korrespondenz gelten die in Abschnitt 6 genannten Kriterien.
+
+## 8. Ihre Rechte
+
+Nach Maßgabe der gesetzlichen Voraussetzungen bestehen insbesondere die Rechte auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16 DSGVO), Löschung (Art. 17 DSGVO), Einschränkung der Verarbeitung (Art. 18 DSGVO) und Datenübertragbarkeit (Art. 20 DSGVO). Bei Vorliegen der gesetzlichen Voraussetzungen können Sie einer Verarbeitung aufgrund berechtigter Interessen widersprechen (Art. 21 DSGVO).
+
+Soweit eine Verarbeitung auf einer Einwilligung beruht, kann diese jederzeit mit Wirkung für die Zukunft widerrufen werden (Art. 7 Abs. 3 DSGVO).
+
+Darüber hinaus besteht ein Beschwerderecht bei einer zuständigen Datenschutzaufsichtsbehörde (Art. 77 DSGVO). Zur Wahrnehmung Ihrer Rechte können Sie sich an die in Abschnitt 1 genannte verantwortliche Stelle wenden.
+
+## 9. Änderungen dieser Erklärung
+
+Die Datenschutzerklärung wird angepasst, wenn sich das Hosting, die eingebundenen externen Dienste, die Funktionen der Datenbank oder die tatsächliche Verarbeitung personenbezogener Daten ändern.

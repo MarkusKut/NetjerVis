@@ -1,0 +1,203 @@
+---
+title: "Objektblatt: Turin, Cat. 3030"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusstele
+
+**Standort:** Museo Egizio, Turin
+
+**Inventarnummer:** Cat. 3030
+
+**Material:** dunkler Granodiorit / Granit
+
+**Herkunft:** unbekannt
+
+**Provenienz:** 1824 Sammlung Drovetti
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** bis auf den Kopf komplett erhalten
+
+## Figuren
+
+137 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:turinCat3030:670 | Vorderseite | 1 | 1 | Ḥḥ.(w)t | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:672 | Vorderseite | 1 | 2 | Ḥḥ | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:673 | Vorderseite | 1 | 3 | Jmn.t | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:674 | Vorderseite | 1 | 4 | Jmn | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:675 | Vorderseite | 1 | 5 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:676 | Vorderseite | 1 | 6 | Kk | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:677 | Vorderseite | 1 | 7 | Kk.t | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:678 | Vorderseite | 1 | 8 | Nwn | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:679 | Vorderseite | 1 | 9 | Nn.t | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:680 | Rückenpfeiler | 1 | 1 | Ꜣs.t | Isis von Achbit |
+| — | heilstatue:turinCat3030:681 | Rückenpfeiler | 2 | 1 | Ḥr.t | Heret |
+| — | heilstatue:turinCat3030:682 | Rückenpfeiler | 2 | 2 | Nḫb.t | Nechbet |
+| — | heilstatue:turinCat3030:683 | Rückenpfeiler | 2 | 3 | Sbk.t | Sobeket |
+| — | heilstatue:turinCat3030:684 | Rückenpfeiler | 2 | 4 | Srq.t | Selket |
+| — | heilstatue:turinCat3030:685 | Rückenpfeiler | 3 | 1 | Sḫm.t | Sachmet als Nilpferd |
+| — | heilstatue:turinCat3030:686 | Rückenpfeiler | 3 | 2 | — | — |
+| — | heilstatue:turinCat3030:687 | Rückenpfeiler | 3 | 3 | — | — |
+| — | heilstatue:turinCat3030:688 | Rückenpfeiler | 4 | 1 | Ḥr.w | Horus auf Skorpion und Krokodil |
+| — | heilstatue:turinCat3030:689 | Rückenpfeiler | 4 | 2 | Ḏḥw.tj | Thoth mit Udjat-Auge |
+| — | heilstatue:turinCat3030:690 | Rückenpfeiler | 4 | 3 | — | — |
+| — | heilstatue:turinCat3030:691 | Rückenpfeiler | 5 | 1 | Mꜣꜥ.t | Maat und Ptah |
+| — | heilstatue:turinCat3030:692 | Rückenpfeiler | 5 | 2 | Ptḥ | Maat und Ptah |
+| — | heilstatue:turinCat3030:693 | Rückenpfeiler | 5 | 3 | Ḏḥw.tj | Ibis auf Standarte |
+| — | heilstatue:turinCat3030:694 | Rückenpfeiler | 5 | 4 | Sbk | Sobek mit Maat-Feder |
+| — | heilstatue:turinCat3030:695 | Rückenpfeiler | 6 | 1 | Ḥr.w | Falke auf Podest |
+| — | heilstatue:turinCat3030:696 | Rückenpfeiler | 6 | 2 | — | Nilpferd mit Falke |
+| — | heilstatue:turinCat3030:697 | Rückenpfeiler | 6 | 3 | — | Nilpferd |
+| — | heilstatue:turinCat3030:698 | Rückenpfeiler | 7 | 1 | — | — |
+| — | heilstatue:turinCat3030:699 | Rückenpfeiler | 7 | 2 | Ꜣs.t | Isis und Horus |
+| — | heilstatue:turinCat3030:700 | Rückenpfeiler | 7 | 3 | Ḥr.j-š⸗f | 4-tierköpfiger Mensch |
+| — | heilstatue:turinCat3030:701 | Rückenpfeiler | 8 | 1 | — | Patäke in Sonnenscheibe auf gekreuzten Krokodilen |
+| — | heilstatue:turinCat3030:702 | Rückenpfeiler | 8 | 2 | Srq.t | Selket auf gewundener Schlange |
+| — | heilstatue:turinCat3030:703 | Rückenpfeiler | 8 | 3 | Jmn-rn⸗f | Zwei Krokodile übereinander, eines in Kapelle |
+| — | heilstatue:turinCat3030:704 | Rückenpfeiler | 9 | 1 | Jn-ḥr.t | Onuris, der Schlange aufspießt |
+| — | heilstatue:turinCat3030:705 | Rückenpfeiler | 9 | 2 | kꜣ wr | Ka-wer |
+| — | heilstatue:turinCat3030:706 | Rückenpfeiler | 9 | 3 | Ḥr.w | Falke auf Pylonen |
+| — | heilstatue:turinCat3030:707 | Rückenpfeiler | 10 | 1 | — | — |
+| — | heilstatue:turinCat3030:708 | Rückenpfeiler | 10 | 2 | Jmn | Box |
+| — | heilstatue:turinCat3030:709 | Rückenpfeiler | 11 | 1 | Jmn-Rꜥw | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:710 | Rückenpfeiler | 11;1–2 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:711 | Rückenpfeiler | 11;1–2 | 2 | — | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:712 | Rückenpfeiler | 11;1–2 | 1 | — | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:713 | Rückenpfeiler | 11;1–2 | 2 | — | Anbetung des Amun-Re |
+| — | heilstatue:turinCat3030:714 | Rückenpfeiler | 12 | 1 | Srq.t | Göttin mit Skorpionkörper |
+| — | heilstatue:turinCat3030:715 | Rückenpfeiler | 12 | 2 | Ḫns.w | pantheistischer Chons |
+| — | heilstatue:turinCat3030:716 | Rückenpfeiler | 12 | 3 | — | — |
+| — | heilstatue:turinCat3030:717 | Rückenpfeiler | 13 | 1 | Ꜣs.t | Isis, die Krokodil säugt |
+| — | heilstatue:turinCat3030:718 | Rückenpfeiler | 13 | 2 | Ḥr.w | Horus, der Große, der Herr der beiden Messer |
+| — | heilstatue:turinCat3030:719 | Rechte Seite | 1 | 1 | — | Adoration |
+| — | heilstatue:turinCat3030:720 | Rechte Seite | 2 | 1 | Ḥr.w | Horus-Sched in Schlange auf Krokodil hockend |
+| — | heilstatue:turinCat3030:721 | Rechte Seite | 2 | 2 | — | — |
+| — | heilstatue:turinCat3030:722 | Rechte Seite | 2 | 3 | — | — |
+| — | heilstatue:turinCat3030:723 | Rechte Seite | 2 | 4 | Ḥr.w | Falke auf Antilope |
+| — | heilstatue:turinCat3030:724 | Rechte Seite | 2 | 5 | Ḏḥw.tj | Thoth, der Herr von Hermopolis, der Herr der Gottesworte |
+| — | heilstatue:turinCat3030:725 | Rechte Seite | 3 | 1 | Ptḥ-Tꜣ-tnn | Ptah-Tatennen |
+| — | heilstatue:turinCat3030:726 | Rechte Seite | 3 | 2 | Ḥr.w | Horus mit Atef-Krone |
+| — | heilstatue:turinCat3030:727 | Rechte Seite | 3 | 3 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:turinCat3030:728 | Rechte Seite | 3 | 4 | kꜣ wr | Ka-wer |
+| — | heilstatue:turinCat3030:729 | Rechte Seite | 3 | 5 | Nj.t | Neith zwei Krokodile säugend |
+| — | heilstatue:turinCat3030:730 | Rechte Seite | 3 | 6 | Nfr-tm | Nefertem als Lotos |
+| — | heilstatue:turinCat3030:731 | Rechte Seite | 4 | 1 | — | — |
+| — | heilstatue:turinCat3030:732 | Rechte Seite | 4 | 2 | — | Chnum und Nut |
+| — | heilstatue:turinCat3030:733 | Rechte Seite | 4 | 3 | H̱nm.w | Chnum und Nut |
+| — | heilstatue:turinCat3030:734 | Rechte Seite | 4 | 4 | Srq.t | Selket |
+| — | heilstatue:turinCat3030:735 | Rechte Seite | 4 | 5 | Ḫns.w | Chons |
+| — | heilstatue:turinCat3030:736 | Rechte Seite | 5 | 1 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:turinCat3030:737 | Rechte Seite | 5 | 2 | Ptḥ-Skr-Wsjr | Ptah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen |
+| — | heilstatue:turinCat3030:738 | Rechte Seite | 5 | 3 | — | — |
+| — | heilstatue:turinCat3030:739 | Rechte Seite | 5 | 4 | — | — |
+| — | heilstatue:turinCat3030:740 | Rechte Seite | 5 | 5 | Ḥr.w | Harendotes mit Udjat-Auge |
+| — | heilstatue:turinCat3030:741 | Rechte Seite | 6 | 1 | Ḏḥw.tj | Thoth |
+| — | heilstatue:turinCat3030:742 | Rechte Seite | 6 | 2 | — | — |
+| — | heilstatue:turinCat3030:743 | Rechte Seite | 6 | 3 | Nḫb.t | Nechbet |
+| — | heilstatue:turinCat3030:744 | Rechte Seite | 6 | 4 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:turinCat3030:745 | Rechte Seite | 6 | 5 | Ḥr.w | Horus-imi-Schenut |
+| — | heilstatue:turinCat3030:746 | Rechte Seite | 7 | 1 | — | — |
+| — | heilstatue:turinCat3030:747 | Rechte Seite | 7 | 2 | — | — |
+| — | heilstatue:turinCat3030:748 | Rechte Seite | 7 | 3 | Ḥkꜣ | Heka, Herr der Zauberkraft |
+| — | heilstatue:turinCat3030:749 | Rechte Seite | 7 | 4 | Ḫns.w | Chons auf Tor |
+| — | heilstatue:turinCat3030:750 | Rechte Seite | 7 | 5.0999999999999996 | Ḥr.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| — | heilstatue:turinCat3030:751 | Rechte Seite | 7 | 5.2 | Mnṯ.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| — | heilstatue:turinCat3030:752 | Rechte Seite | 8 | 1 | Ḥr.w | Horus auf Krokodil |
+| — | heilstatue:turinCat3030:753 | Rechte Seite | 8 | 2 | — | — |
+| — | heilstatue:turinCat3030:754 | Rechte Seite | 8 | 3 | — | — |
+| — | heilstatue:turinCat3030:755 | Rechte Seite | 8 | 4 | — | — |
+| — | heilstatue:turinCat3030:756 | Rechte Seite | 8 | 5 | — | — |
+| — | heilstatue:turinCat3030:757 | Rechte Seite | 8 | 6 | — | — |
+| — | heilstatue:turinCat3030:758 | Rechte Seite | 9 | 1 | — | — |
+| — | heilstatue:turinCat3030:759 | Rechte Seite | 9 | 2 | — | — |
+| — | heilstatue:turinCat3030:760 | Rechte Seite | 9 | 3 | — | — |
+| — | heilstatue:turinCat3030:761 | Rechte Seite | 9 | 4 | — | — |
+| — | heilstatue:turinCat3030:762 | Rechte Seite | 9 | 5 | — | — |
+| — | heilstatue:turinCat3030:763 | Rechte Seite | 9 | 6 | — | — |
+| — | heilstatue:turinCat3030:764 | Rechte Seite | 10 | 1 | — | — |
+| — | heilstatue:turinCat3030:765 | Rechte Seite | 10 | 2 | Ḫns.w | Chons |
+| — | heilstatue:turinCat3030:766 | Rechte Seite | 10 | 3 | — | — |
+| — | heilstatue:turinCat3030:767 | Rechte Seite | 10 | 4 | — | — |
+| — | heilstatue:turinCat3030:768 | Rechte Seite | 10 | 5 | — | hockender krokodilsköpfiger Got |
+| — | heilstatue:turinCat3030:769 | Rechte Seite | 10 | 6 | Ḫns.w | Chons |
+| — | heilstatue:turinCat3030:770 | Linke Seite | 1 | 1 | — | Adoration(?) |
+| — | heilstatue:turinCat3030:771 | Linke Seite | 2 | 1 | Ḥr.w | Harpokrates, der Verborgene |
+| — | heilstatue:turinCat3030:772 | Linke Seite | 2 | 2 | Bꜣ | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:turinCat3030:773 | Linke Seite | 2 | 3 | Ḥꜣ.t-mḥ.yt | Banebdjedet mit Maat und Hatmehit |
+| — | heilstatue:turinCat3030:774 | Linke Seite | 2 | 4 | Sḫm.t | liegender Löwe auf Podest |
+| — | heilstatue:turinCat3030:775 | Linke Seite | 3 | 1 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:turinCat3030:776 | Linke Seite | 3 | 2 | Ḏḥw.tj | Thoth auf Stier |
+| — | heilstatue:turinCat3030:777 | Linke Seite | 3 | 3 | Jn-ḥr.t | Onuris mit Katze auf Podest |
+| — | heilstatue:turinCat3030:778 | Linke Seite | 3 | 4 | Bꜣs.tt | Onuris mit Katze auf Podest |
+| — | heilstatue:turinCat3030:779 | Linke Seite | 3 | 5 | Ḥꜥpj | Hapi auf Papyrusstängel |
+| — | heilstatue:turinCat3030:780 | Linke Seite | 4 | 1 | Ḥr.w | Falke auf Nilpferd |
+| — | heilstatue:turinCat3030:781 | Linke Seite | 4 | 2 | — | 2 Katzen neben Sistrum |
+| — | heilstatue:turinCat3030:782 | Linke Seite | 4 | 3 | — | — |
+| — | heilstatue:turinCat3030:783 | Linke Seite | 4 | 4 | — | — |
+| — | heilstatue:turinCat3030:784 | Linke Seite | 5 | 1 | Sḫm.t | liegender Löwe auf Podest |
+| — | heilstatue:turinCat3030:785 | Linke Seite | 5 | 2 | — | — |
+| — | heilstatue:turinCat3030:786 | Linke Seite | 5 | 3 | — | Ptah-Sokar-Osiris |
+| — | heilstatue:turinCat3030:787 | Linke Seite | 5 | 4 | — | — |
+| — | heilstatue:turinCat3030:788 | Linke Seite | 6 | 1 | Ḫns.w | Krokodil mit Falkenkopf |
+| — | heilstatue:turinCat3030:789 | Linke Seite | 6 | 2 | Ḥr.w | Falke auf Papyrusstängel |
+| — | heilstatue:turinCat3030:790 | Linke Seite | 6 | 3 | Ḫns.w | Pavian und Kobra |
+| — | heilstatue:turinCat3030:791 | Linke Seite | 6 | 4 | Sḫm.t | Pavian und Kobra |
+| — | heilstatue:turinCat3030:792 | Linke Seite | 6 | 5 | Sbk | Sobek mit Schlange |
+| — | heilstatue:turinCat3030:793 | Linke Seite | 7 | 1 | Ꜣs.t | bittende Isis |
+| — | heilstatue:turinCat3030:794 | Linke Seite | 7 | 2 | Ꜣs.t | Isis, die Kind auf Schlange säugt |
+| — | heilstatue:turinCat3030:795 | Linke Seite | 7 | 3 | Jtm | — |
+| — | heilstatue:turinCat3030:796 | Linke Seite | 7 | 4 | Mnw | Min |
+| — | heilstatue:turinCat3030:797 | Linke Seite | 7 | 5 | kꜣ wr | Ka-wer |
+| — | heilstatue:turinCat3030:798 | Linke Seite | 8 | 1 | Jmn-Sḫm.t | Amun-Sachmet |
+| — | heilstatue:turinCat3030:799 | Linke Seite | 8 | 2 | — | — |
+| — | heilstatue:turinCat3030:800 | Linke Seite | 8 | 3 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:turinCat3030:801 | Linke Seite | 8 | 4 | Srq.t | Göttin mit Skorpionkörper |
+| — | heilstatue:turinCat3030:802 | Linke Seite | 9 | 1 | Sḫm.t | Sachmet in Schlange |
+| — | heilstatue:turinCat3030:803 | Linke Seite | 9 | 2 | Jmn-rn⸗f | Zwei Krokodile in Kapelle |
+| — | heilstatue:turinCat3030:804 | Linke Seite | 9 | 3 | Ḥr.w | Zwei Krokodile in Kapelle |
+| — | heilstatue:turinCat3030:805 | Linke Seite | 9 | 4 | — | — |
+| — | heilstatue:turinCat3030:806 | Linke Seite | 9 | 5 | — | — |
+| — | heilstatue:turinCat3030:807 | Linke Seite | 9 | 6 | — | — |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| „Der Nagel des Atum“ | Linke Seite | Kákosy 1999: 75–77 |
+| „Der Nagel des Atum“ | Linke Seite | Kákosy 1999: 75–77 |
+| „Der Nagel des Ptah“ | Linke Seite | Kákosy 1999: 75–77 |
+| „Die Elle des Heh“ | Linke Seite | Kákosy 1999: 75–77 |
+| „Die Hand des Atum“ | Rechte Seite | Kákosy 1999: 72–74 |
+| „Die Hand des Atum“ | Rechte Seite | Kákosy 1999: 72–74 |
+| Schlangenbeschwörung | Linke Seite | Kákosy 1999: 80–82 |
+| „Die Flamme zum Himmel“ | Vorderseite | Kákosy 1999: 69–71 |
+| Text A | Linke Seite | Kákosy 1999: 75–77 |
+| Text B, P-L-Version (Anfang) | Rechte Seite | Kákosy 1999: 78–79 |
+| Text B, P-L-Version (Anfang) | Rechte Seite | Kákosy 1999: 78–79 |
+| Text B, P-L-Version (Anfang) | Rechte Seite | Kákosy 1999: 78–79 |
+| Text B, P-L-Version (Anfang) | Rechte Seite | Kákosy 1999: 78–79 |
+| Text B, P-L-Version (fortgesetzt) | Linke Seite | Kákosy 1999: 80–82 |
+| Text B, P-L-Version (fortgesetzt) | Linke Seite | Kákosy 1999: 80–82 |
+| Text B, P-L-Version (fortgesetzt) | Linke Seite | Kákosy 1999: 80–82 |
+| „Euer Gift“ | Vorderseite | Kákosy 1999: 69–71 |
+| „Dein Stock tötet Anubis“ | Vorderseite | Kákosy 1999: 69–71 |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 50 | 11.5 | 24.8 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__turinCat3030.md >}}
+

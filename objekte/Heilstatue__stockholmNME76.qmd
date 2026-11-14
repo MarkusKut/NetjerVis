@@ -1,0 +1,89 @@
+---
+title: "Objektblatt: Stockholm, NME 76"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Standschreitstatue mit Horusnaos
+
+**Standort:** Medelhavsmuseet, Stockholm
+
+**Inventarnummer:** NME 76
+
+**Material:** Basalt
+
+**Herkunft:** unbekannt
+
+**Provenienz:** ab 1954 im heutigen Medelhavsmuseet; ab 1928 in eigenem Ägyptischen Museum; vor 1868 im Nationalmuseum, Stockholm
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** Statue ist nur als Torso erhalten, d. h. nur der Oberkörper ohne Kopf und Beine ist erhalten; Abplatzungen an den meisten Ecken und Kanten, bes. auf dem Naos, das Horuskind und dem Rückenpfeiler
+
+## Figuren
+
+35 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:stockholmNME76:590 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:stockholmNME76:591 | Vorderseite | 1 | 2 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:stockholmNME76:592 | Vorderseite | 1 | 3 | Nj.t | Isis von Achbit |
+| — | heilstatue:stockholmNME76:593 | Vorderseite | 1 | 4 | Ꜣs.t | Isis von Achbit |
+| — | heilstatue:stockholmNME76:594 | Vorderseite | 1 | 5 | Ḏḥw.tj | Isis von Achbit |
+| — | heilstatue:stockholmNME76:595 | Vorderseite | 1 | 6 | Ḥr.w | Horus, groß an Kraft, Herr des Himmels |
+| — | heilstatue:stockholmNME76:596 | Vorderseite | 1 | 1 | — | — |
+| — | heilstatue:stockholmNME76:597 | Vorderseite | 1 | 2 | — | — |
+| — | heilstatue:stockholmNME76:598 | Vorderseite | 2 | 1 | — | — |
+| — | heilstatue:stockholmNME76:599 | Vorderseite | 2 | 2 | — | — |
+| — | heilstatue:stockholmNME76:600 | Vorderseite | 2 | 3 | — | — |
+| — | heilstatue:stockholmNME76:601 | Vorderseite | 2 | 4 | — | — |
+| — | heilstatue:stockholmNME76:602 | Rechte Seite | 1 | 1 | — | — |
+| — | heilstatue:stockholmNME76:603 | Rechte Seite | 1 | 2 | Ꜣs.t-Srq.t | Isis-Selket |
+| — | heilstatue:stockholmNME76:604 | Rechte Seite | 1 | 3 | Ḥr.w | Horus auf Krokodil |
+| — | heilstatue:stockholmNME76:605 | Rechte Seite | 2 | 1 | Ḏḥw.tj | Thoth, der Herr von Hermopolis, der Herr der Gottesworte |
+| — | heilstatue:stockholmNME76:606 | Rechte Seite | 2 | 2 | Ꜣs.t | bittende Isis |
+| — | heilstatue:stockholmNME76:607 | Rechte Seite | 3 | 1 | H̱nm.w | Chnum |
+| — | heilstatue:stockholmNME76:608 | Rechte Seite | 3 | 2 | Ḥr.w | Horus, das Auge des Re |
+| — | heilstatue:stockholmNME76:609 | Rechte Seite | 4 | 1 | — | — |
+| — | heilstatue:stockholmNME76:610 | Rechte Seite | 4 | 2 | Nj.t | Neith, Herrin von Sais |
+| — | heilstatue:stockholmNME76:611 | Rechte Seite | 5 | 1 | Ḥr.w | Harendotes mit Udjat-Auge |
+| — | heilstatue:stockholmNME76:612 | Rechte Seite | 5 | 2 | Wr.t-ḥkꜣ.w | Weret-hekau auf Krokodil |
+| — | heilstatue:stockholmNME76:613 | Rechte Seite | 5 | 3 | Ḥr.w | Falke auf Gold-Zeichen |
+| — | heilstatue:stockholmNME76:614 | Linke Seite | 1 | 1 | — | — |
+| — | heilstatue:stockholmNME76:615 | Linke Seite | 1 | 2 | Tfn.t | Tefnut |
+| — | heilstatue:stockholmNME76:616 | Linke Seite | 2 | 1 | Rw.tj | Ruti |
+| — | heilstatue:stockholmNME76:617 | Linke Seite | 2 | 2 | Wꜣḏ.t | Wadjet |
+| — | heilstatue:stockholmNME76:618 | Linke Seite | 2 | 3 | Sḫm.t | Sachmet, die Große |
+| — | heilstatue:stockholmNME76:619 | Linke Seite | 3 | 1 | Sḫm.t | Sachmet, die Große |
+| — | heilstatue:stockholmNME76:620 | Linke Seite | 3 | 2 | zerstört | zerstört |
+| — | heilstatue:stockholmNME76:621 | Linke Seite | 4 | 1 | ptnḥ (?) | — |
+| — | heilstatue:stockholmNME76:622 | Linke Seite | 5 | 1 | Nj.t | Neith als Rind |
+| — | heilstatue:stockholmNME76:623 | Linke Seite | 6 | 1 | Sbk | Sobek mit Schlange |
+| — | heilstatue:stockholmNME76:624 | Linke Seite | 6 | 2 | Ptḥ | Ptah, der Große, groß an Stärke |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| Spruch gegen Gift mit Gliedervergottung | Vorderseite | — |
+| Text B, P-L-Version | Rückseite | unpubliziert |
+| Spruch | Rechte Seite | unpubliziert |
+| Spruch | Rechte Seite | unpubliziert |
+| Spruch | Linke Seite | unpubliziert |
+| Spruch | Linke Seite | unpubliziert |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 21 | 10 | 10 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__stockholmNME76.md >}}
+

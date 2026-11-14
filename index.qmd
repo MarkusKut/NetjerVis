@@ -1,0 +1,31 @@
+---
+title: "NetjerVis"
+subtitle: "Ikonographie und Darstellungen antiker ägyptischer Götter"
+---
+
+NetjerVis verknüpft figürliche Darstellungen mit archäologischen Objekten,
+Bildfeldpositionen, ikonographischen Merkmalen, Literaturangaben und digitalen
+Vektorzeichnungen. Die Datenaufbereitung erfolgt in **R**; die interaktive
+Forschungsdatenbank läuft mit **Shinylive** vollständig im Browser.
+
+## Zugänge
+
+- [**Interaktive Datenbank**](datenbank.qmd): Figurenkatalog, Zeichnungsgalerie,
+  Figurenvergleich, Statuendatenblatt, Vorkommensmatrix und Datenqualität.
+- [**Figurenkatalog**](katalog.qmd): direkte Einführung in die Figurensuche.
+- [**Objektkatalog**](objekte/index.qmd): ein wissenschaftliches Datenblatt pro Objekt.
+- [**Vergleiche**](vergleiche.qmd): vergleichende Darstellungen und statistische Auswertungen.
+- [**Methodik**](methodik.qmd): Datenmodell, Quellen und Grenzen der Erfassung.
+
+## Datenmodell
+
+Die Daten werden lokal aus einer Excel-Arbeitsmappe in R verarbeitet.
+Bei der Veröffentlichung werden ausschließlich vorbereitete Daten und freigegebene
+SVG-Dateien übertragen. Die zugrunde liegende Excel-Datei und lokale Pfade
+sind nicht Teil der Browseranwendung.
+
+::: {.callout-note}
+Die Darstellung zweier Figuren in gleicher Bildschirmhöhe bedeutet nicht zwangsläufig
+archäologische Maßstabsgleichheit. Nicht dokumentierte Darstellungen sind nicht
+mit nachgewiesener Abwesenheit gleichzusetzen.
+:::

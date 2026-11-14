@@ -1,0 +1,84 @@
+---
+title: "Objektblatt: Kairo, JE 87083"
+page-layout: full
+toc: true
+---
+
+[Zum interaktiven Figurenkatalog](../datenbank.qmd)
+
+## Objektangaben
+
+**Objekttyp:** Würfelhocker mit Horusstele
+
+**Standort:** Ägyptisches Museum, Kairo
+
+**Inventarnummer:** JE 87083
+
+**Material:** Basalt
+
+**Herkunft:** Bubastis
+
+**Provenienz:** 1934 Ausgrabungen von Labib Habachi
+
+**Datierung:** 4. Jh. v. u. Z.
+
+**Erhaltungszustand:** fragmentarisch erhalten; nur Teil der wahrscheinlich linken Seite erhalten (auf Basis der Blickrichtung der Gottheiten und der Hieroglyphen (nach links, d.~h. nach vorne)
+
+## Figuren
+
+33 Figuren erfasst.
+
+| Zeichnung | Figur-ID | Objektseite | Register | Stelle | Gottheit | Szene |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | heilstatue:kairoJE87083:130 | Linke Seite | 1 | 1 | zerstört | Horus, der Große |
+| — | heilstatue:kairoJE87083:131 | Linke Seite | 1 | 2 | zerstört | Harendotes mit Udjat-Auge |
+| — | heilstatue:kairoJE87083:132 | Linke Seite | 1 | 3 | zerstört | Wadjet |
+| — | heilstatue:kairoJE87083:133 | Linke Seite | 1 | 4 | — | Nilpferd auf Ouroborus |
+| — | heilstatue:kairoJE87083:134 | Linke Seite | 1 | 5 | Sbk | Sobek mit Was-Szepter |
+| — | heilstatue:kairoJE87083:135 | Linke Seite | 1 | 6 | Sḫm.t | Sachmet in Schlange |
+| — | heilstatue:kairoJE87083:136 | Linke Seite | 1–1,5 | 1 | Ꜣs.t-Srq.t | Isis-Selket |
+| — | heilstatue:kairoJE87083:137 | Linke Seite | 1–1,5 | 2 | Nb.t-ḥw.t | Nephthys |
+| — | heilstatue:kairoJE87083:138 | Linke Seite | 1–1,5 | 3 | Ḥr.w | Horus-Behedeti |
+| — | heilstatue:kairoJE87083:139 | Linke Seite | 2 | 1 | zerstört | Month |
+| — | heilstatue:kairoJE87083:140 | Linke Seite | 2 | 2 | zerstört | Harsiesis |
+| — | heilstatue:kairoJE87083:141 | Linke Seite | 2 | 3 | zerstört | mumienförmiger Herischef |
+| — | heilstatue:kairoJE87083:142 | Linke Seite | 2 | 4 | Mꜣꜥ.t | Maat und Ptah |
+| — | heilstatue:kairoJE87083:143 | Linke Seite | 2 | 5 | Ptḥ | Maat und Ptah |
+| — | heilstatue:kairoJE87083:144 | Linke Seite | 2 | 6 | Jmn-rn⸗f | Zwei Krokodile übereinander, eines in Kapelle |
+| — | heilstatue:kairoJE87083:145 | Linke Seite | 3 | 1 | zerstört | zerstört |
+| — | heilstatue:kairoJE87083:146 | Linke Seite | 3 | 2 | — | — |
+| — | heilstatue:kairoJE87083:147 | Linke Seite | 3 | 3 | — | — |
+| — | heilstatue:kairoJE87083:148 | Linke Seite | 3 | 4 | Ḥr.w | Horus auf liegendem Stier |
+| — | heilstatue:kairoJE87083:149 | Linke Seite | 3.1 | 1 | — | Zwei Skorpione |
+| — | heilstatue:kairoJE87083:150 | Linke Seite | 3.1 | 2 | Ꜣs.t | bittende Isis |
+| — | heilstatue:kairoJE87083:151 | Linke Seite | 3.1 | 3 | Ḥr.w | Falke auf Papyrusstängel |
+| — | heilstatue:kairoJE87083:152 | Linke Seite | 3.1 | 4 | Ḫns.w | Pavian und Kobra |
+| — | heilstatue:kairoJE87083:153 | Linke Seite | 3.1 | 5 | Sḫm.t | Pavian und Kobra |
+| — | heilstatue:kairoJE87083:154 | Linke Seite | 3.2 | 1 | H̱nm.w | Chnum als Widder |
+| — | heilstatue:kairoJE87083:155 | Linke Seite | 3.2 | 2.1 | Ḥr.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| — | heilstatue:kairoJE87083:156 | Linke Seite | 3.2 | 2.2000000000000002 | Mnṯ.w | Zwei Krokodile (gebogener Schwanz) übereinander |
+| — | heilstatue:kairoJE87083:157 | Linke Seite | 3.2 | 2.2000000000000002 | — | Udjat-Auge auf Podest |
+| — | heilstatue:kairoJE87083:158 | Linke Seite | 4 | 1 | — | — |
+| — | heilstatue:kairoJE87083:159 | Linke Seite | 4 | 2 | — | — |
+| — | heilstatue:kairoJE87083:160 | Linke Seite | 4 | 3 | Ꜣs.t-Srq.t | Isis-Selket |
+| — | heilstatue:kairoJE87083:161 | Linke Seite | 4 | 4 | Wr.t-ḥkꜣ.w | Weret-hekau auf Krokodil |
+| — | heilstatue:kairoJE87083:162 | Linke Seite | 4 | 5 | Ḥr.w | Falke auf Papyrusstängel |
+
+## Texte
+
+| Textart | Position (grob) | Literatur |
+| --- | --- | --- |
+| „Die Hand des Atum“ | Linke Seite | unpubliziert |
+| „Beschwörung von Gift durch Isis“ | Linke Seite | unpubliziert |
+| „Die Hand des Aker“ | Linke Seite | unpubliziert |
+
+## Maße
+
+| Höhe | Breite | Tiefe | Bemerkungen |
+| --- | --- | --- | --- |
+| 25.5 | 34 | 28 | — |
+
+## Ergänzende Anmerkungen
+
+{{< include _notes/Heilstatue__kairoJE87083.md >}}
+

@@ -1,0 +1,57 @@
+measurement_id,object_id,ref,source_row_id,Hoehe,Breite,Tiefe,Masse_Bemerkung
+heilstatue:measure:1,heilstatue:helioFrag,helioFrag,1,5,4.2,2.3,U2099-4; Rückenpfeiler
+heilstatue:measure:2,heilstatue:helioFrag,helioFrag,2,11,6.1,6.4,"U2105-3B; Schurz, Rückenpfeiler"
+heilstatue:measure:3,heilstatue:helioFrag,helioFrag,3,4.1,7,6.9,"U2114-3; Schurz, Rückenpfeiler"
+heilstatue:measure:4,heilstatue:helioFrag,helioFrag,4,6.4,6.1,7,U2105-3A; Schurz
+heilstatue:measure:5,heilstatue:helioFrag,helioFrag,5,5.2,4.2,4,U2107-3A; Arm
+heilstatue:measure:6,heilstatue:helioFrag,helioFrag,6,6.7,4.2,3.8,U2107-3B; Arm
+heilstatue:measure:7,heilstatue:helioFrag,helioFrag,7,12.2,8.5,5.5,U2109-5; Zeh
+heilstatue:measure:8,heilstatue:kairoCG9432,kairoCG9432,7.1,22.5,15,30,
+heilstatue:measure:9,heilstatue:kairoJE41677,kairoJE41677,8,15.2,10.5,10,
+heilstatue:measure:10,heilstatue:kairoJE46341,kairoJE46341,9,78,43,25,Statue mit Basis
+heilstatue:measure:11,heilstatue:kairoJE46341,kairoJE46341,10,65,,,Höhe der Statue
+heilstatue:measure:12,heilstatue:kairoJE46341,kairoJE46341,11,38,53,93,Sockel
+heilstatue:measure:13,heilstatue:kairoJE87083,kairoJE87083,12,25.5,34,28,
+heilstatue:measure:14,heilstatue:leidenF1953_5_1,leidenF1953_5_1,13,41,10.2,22.5,
+heilstatue:measure:15,heilstatue:leidenF1953_5_1,leidenF1953_5_1,14,41,10.2,22.5,
+heilstatue:measure:16,heilstatue:leidenF1953_5_1,leidenF1953_5_1,15,41,10.2,22.5,
+heilstatue:measure:17,heilstatue:leidenF1953_5_1,leidenF1953_5_1,16,41,10.2,22.5,
+heilstatue:measure:18,heilstatue:leidenF1953_5_1,leidenF1953_5_1,17,41,10.2,22.5,
+heilstatue:measure:19,heilstatue:leidenF1953_5_1,leidenF1953_5_1,18,41,10.2,22.5,
+heilstatue:measure:20,heilstatue:leidenF1953_5_1,leidenF1953_5_1,19,41,10.2,22.5,
+heilstatue:measure:21,heilstatue:leidenF1953_5_1,leidenF1953_5_1,20,41,10.2,22.5,
+heilstatue:measure:22,heilstatue:leidenF1953_5_1,leidenF1953_5_1,21,41,10.2,22.5,
+heilstatue:measure:23,heilstatue:leidenF1950_8_2,leidenF1950_8_2,30,12,15,32.2,
+heilstatue:measure:24,heilstatue:londonCass1278,londonCass1278,31,20,12.5,20.5,
+heilstatue:measure:25,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,32,55,34,37,
+heilstatue:measure:26,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,33,55,34,37,
+heilstatue:measure:27,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,34,55,34,37,
+heilstatue:measure:28,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,35,55,34,37,
+heilstatue:measure:29,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,36,55,34,37,
+heilstatue:measure:30,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,37,55,34,37,
+heilstatue:measure:31,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,38,55,34,37,
+heilstatue:measure:32,heilstatue:MoskauI_1_a_5319,MoskauI_1_a_5319,39,55,34,37,
+heilstatue:measure:33,heilstatue:muenchenAes2824,muenchenAes2824,40,19,12.8,10.1,
+heilstatue:measure:34,heilstatue:neapel1065,neapel1065,41,28.4,18.8,13.4,
+heilstatue:measure:35,heilstatue:parisLouvreE10777,parisLouvreE10777,42,67.7,19.5,24,
+heilstatue:measure:36,heilstatue:parisLouvreE10777,parisLouvreE10777,43,67.7,19.5,24,
+heilstatue:measure:37,heilstatue:parisLouvreE10777,parisLouvreE10777,44,67.7,19.5,24,
+heilstatue:measure:38,heilstatue:stockholmNME76,stockholmNME76,45,21,10,10,
+heilstatue:measure:39,heilstatue:stockholmNME92,stockholmNME92,46,39,10,10,
+heilstatue:measure:40,heilstatue:turinCat3030,turinCat3030,47,50,11.5,24.8,
+heilstatue:measure:41,heilstatue:turinCat3031,turinCat3031,48,23,11,18,
+heilstatue:measure:42,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,49,36,12,16,
+heilstatue:measure:43,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,50,36,12,16,
+heilstatue:measure:44,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,51,36,12,16,
+heilstatue:measure:45,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,52,36,12,16,
+heilstatue:measure:46,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,53,36,12,16,
+heilstatue:measure:47,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,54,36,12,16,
+heilstatue:measure:48,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,55,36,12,16,
+heilstatue:measure:49,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,56,36,12,16,
+heilstatue:measure:50,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,57,36,12,16,
+heilstatue:measure:51,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,58,36,12,16,
+heilstatue:measure:52,heilstatue:turinSuppl9Florenz8708,turinSuppl9Florenz8708,59,36,12,16,
+heilstatue:measure:53,heilstatue:chicagoISACME10589,chicagoISACME10589,60,31.5,33,56.2,
+heilstatue:measure:54,heilstatue:chicagoISACMOIM9379,chicagoISACMOIM9379,61,16.5,21.7,39.4,
+heilstatue:measure:55,heilstatue:newyorkMET1989.281.102,newyorkMET1989.281.102,70,21.2,14.5,11.5,
+heilstatue:measure:56,heilstatue:heidelberg194,heidelberg194,,,,,

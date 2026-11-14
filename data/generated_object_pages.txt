@@ -1,0 +1,15 @@
+objekte/Heilstatue__helioFrag.qmd
+objekte/Heilstatue__kairoJE41677.qmd
+objekte/Heilstatue__kairoJE46341.qmd
+objekte/Heilstatue__kairoJE87083.qmd
+objekte/Heilstatue__leidenF1953_5_1.qmd
+objekte/Heilstatue__londonCass1278.qmd
+objekte/Heilstatue__MoskauI_1_a_5319.qmd
+objekte/Heilstatue__muenchenAes2824.qmd
+objekte/Heilstatue__neapel1065.qmd
+objekte/Heilstatue__parisLouvreE10777.qmd
+objekte/Heilstatue__stockholmNME76.qmd
+objekte/Heilstatue__stockholmNME92.qmd
+objekte/Heilstatue__turinCat3030.qmd
+objekte/Heilstatue__turinCat3031.qmd
+objekte/Heilstatue__turinSuppl9Florenz8708.qmd

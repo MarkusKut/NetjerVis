@@ -1,0 +1,40 @@
+---
+title: "Methodik"
+toc: true
+---
+
+## Forschungskorpus
+
+NetjerVis dokumentiert individuelle figürliche Darstellungen altägyptischer
+Gottheiten, ihre materiellen Träger und ihre ikonographischen Merkmale.
+Jeder Figuren-Datensatz verweist auf genau einen Objekt-Datensatz; damit können
+auch weitere Objektgruppen ergänzt werden.
+
+## Datenaufbereitung
+
+Die Excel-Arbeitsmappe ist die redaktionelle Quelle. R-Skripte bereiten Tabellen
+zu Figuren, Objekten, Texten und Maßen auf und verknüpfen separat gespeicherte
+SVG-Zeichnungen. Die öffentlichen Datensätze werden vor der Veröffentlichung
+von lokalen Dateipfaden bereinigt.
+
+## Vektorzeichnungen
+
+Eigene SVG-Zeichnungen stellen ikonographische Befunde vergleichbar dar.
+Ihre visuelle Normalisierung und die Größenverhältnisse der Originalobjekte
+sind zu unterscheiden. Eine identische Anzeigehöhe auf dem Bildschirm
+ist keine Aussage über die historische Größe der dargestellten Figuren.
+
+## Statistische Auswertungen
+
+Die Vorkommensmatrix beruht auf dokumentierten Gottheitsbezeichnungen pro Objekt.
+Ein nicht besetztes Feld bedeutet, dass im gegenwärtigen Datenbestand kein
+entsprechender Eintrag vorhanden ist. Zerstörung, Erhaltung und Dokumentationslage
+müssen bei der Interpretation berücksichtigt werden.
+
+## Technische Umsetzung
+
+Die öffentliche Website wird mit Quarto erzeugt und kann auf GitHub Pages
+veröffentlicht werden. Der interaktive Teil nutzt eine R-Shiny-Anwendung,
+die mit Shinylive und webR im Browser ausgeführt wird. Ein dauerhaft laufender
+Shiny-Server ist nicht erforderlich. Recherche und Diagramme sind in R kodiert;
+JavaScript-Runtime-Komponenten stammen aus Shiny und Shinylive.
