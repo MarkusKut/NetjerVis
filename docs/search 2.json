@@ -1,0 +1,842 @@
+[
+  {
+    "objectID": "methodik.html",
+    "href": "methodik.html",
+    "title": "Methodik",
+    "section": "",
+    "text": "NetjerVis dokumentiert individuelle figürliche Darstellungen altägyptischer Gottheiten, ihre materiellen Träger und ihre ikonographischen Merkmale. Jeder Figuren-Datensatz verweist auf genau einen Objekt-Datensatz; damit können auch weitere Objektgruppen ergänzt werden."
+  },
+  {
+    "objectID": "methodik.html#forschungskorpus",
+    "href": "methodik.html#forschungskorpus",
+    "title": "Methodik",
+    "section": "",
+    "text": "NetjerVis dokumentiert individuelle figürliche Darstellungen altägyptischer Gottheiten, ihre materiellen Träger und ihre ikonographischen Merkmale. Jeder Figuren-Datensatz verweist auf genau einen Objekt-Datensatz; damit können auch weitere Objektgruppen ergänzt werden."
+  },
+  {
+    "objectID": "methodik.html#datenaufbereitung",
+    "href": "methodik.html#datenaufbereitung",
+    "title": "Methodik",
+    "section": "Datenaufbereitung",
+    "text": "Datenaufbereitung\nDie Excel-Arbeitsmappe ist die redaktionelle Quelle. R-Skripte bereiten Tabellen zu Figuren, Objekten, Texten und Maßen auf und verknüpfen separat gespeicherte SVG-Zeichnungen. Die öffentlichen Datensätze werden vor der Veröffentlichung von lokalen Dateipfaden bereinigt."
+  },
+  {
+    "objectID": "methodik.html#vektorzeichnungen",
+    "href": "methodik.html#vektorzeichnungen",
+    "title": "Methodik",
+    "section": "Vektorzeichnungen",
+    "text": "Vektorzeichnungen\nEigene SVG-Zeichnungen stellen ikonographische Befunde vergleichbar dar. Ihre visuelle Normalisierung und die Größenverhältnisse der Originalobjekte sind zu unterscheiden. Eine identische Anzeigehöhe auf dem Bildschirm ist keine Aussage über die historische Größe der dargestellten Figuren."
+  },
+  {
+    "objectID": "methodik.html#statistische-auswertungen",
+    "href": "methodik.html#statistische-auswertungen",
+    "title": "Methodik",
+    "section": "Statistische Auswertungen",
+    "text": "Statistische Auswertungen\nDie Vorkommensmatrix beruht auf dokumentierten Gottheitsbezeichnungen pro Objekt. Ein nicht besetztes Feld bedeutet, dass im gegenwärtigen Datenbestand kein entsprechender Eintrag vorhanden ist. Zerstörung, Erhaltung und Dokumentationslage müssen bei der Interpretation berücksichtigt werden."
+  },
+  {
+    "objectID": "methodik.html#technische-umsetzung",
+    "href": "methodik.html#technische-umsetzung",
+    "title": "Methodik",
+    "section": "Technische Umsetzung",
+    "text": "Technische Umsetzung\nDie öffentliche Website wird mit Quarto erzeugt und kann auf GitHub Pages veröffentlicht werden. Der interaktive Teil nutzt eine R-Shiny-Anwendung, die mit Shinylive und webR im Browser ausgeführt wird. Ein dauerhaft laufender Shiny-Server ist nicht erforderlich. Recherche und Diagramme sind in R kodiert; JavaScript-Runtime-Komponenten stammen aus Shiny und Shinylive."
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Angaben gemäß § 18 Abs. 1 Medienstaatsvertrag (MStV) sowie, soweit dessen Voraussetzungen erfüllt sind, gemäß § 5 Digitale-Dienste-Gesetz (DDG).\nVerantwortlich für das Internetangebot\n[Vollständiger Vor- und Nachname]\n[Straße und Hausnummer – ladungsfähige Anschrift; kein Postfach]\n[Postleitzahl und Ort]\nDeutschland\nKontakt\nE-Mail: [Kontakt-E-Mail-Adresse]\n[Weitere Möglichkeit zur schnellen, unmittelbaren Kommunikation ergänzen, sofern nach § 5 DDG erforderlich]\nBetreiber des Angebots\n[Eigenverantwortlich betriebenes wissenschaftliches Forschungsprojekt / Name der betreibenden Einrichtung, falls diese den Betrieb tatsächlich verantwortet]"
+  },
+  {
+    "objectID": "impressum.html#anbieterkennzeichnung",
+    "href": "impressum.html#anbieterkennzeichnung",
+    "title": "Impressum",
+    "section": "",
+    "text": "Angaben gemäß § 18 Abs. 1 Medienstaatsvertrag (MStV) sowie, soweit dessen Voraussetzungen erfüllt sind, gemäß § 5 Digitale-Dienste-Gesetz (DDG).\nVerantwortlich für das Internetangebot\n[Vollständiger Vor- und Nachname]\n[Straße und Hausnummer – ladungsfähige Anschrift; kein Postfach]\n[Postleitzahl und Ort]\nDeutschland\nKontakt\nE-Mail: [Kontakt-E-Mail-Adresse]\n[Weitere Möglichkeit zur schnellen, unmittelbaren Kommunikation ergänzen, sofern nach § 5 DDG erforderlich]\nBetreiber des Angebots\n[Eigenverantwortlich betriebenes wissenschaftliches Forschungsprojekt / Name der betreibenden Einrichtung, falls diese den Betrieb tatsächlich verantwortet]"
+  },
+  {
+    "objectID": "impressum.html#über-das-forschungsprojekt",
+    "href": "impressum.html#über-das-forschungsprojekt",
+    "title": "Impressum",
+    "section": "Über das Forschungsprojekt",
+    "text": "Über das Forschungsprojekt\nDiese Website dokumentiert und erschließt figürliche Darstellungen von Gottheiten auf altägyptischen magischen Statuen. Sie enthält einen wissenschaftlichen Objekt- und Figurenkatalog, ikonographische Beschreibungen, selbst erstellte digitale Vektorzeichnungen (SVG) sowie Funktionen zur Suche und zum Vergleich einzelner Darstellungen. Die Datenstruktur ist für eine spätere Erweiterung um weitere Objektgruppen vorgesehen.\nDie Datenbank ist ein wissenschaftliches Informationsangebot. Soweit nicht anders angegeben, handelt es sich nicht um eine offizielle Veröffentlichung einer Universität oder eines Museums."
+  },
+  {
+    "objectID": "impressum.html#urheberrecht-vektorzeichnungen-und-quellen",
+    "href": "impressum.html#urheberrecht-vektorzeichnungen-und-quellen",
+    "title": "Impressum",
+    "section": "Urheberrecht, Vektorzeichnungen und Quellen",
+    "text": "Urheberrecht, Vektorzeichnungen und Quellen\nDie auf der Website gezeigten SVG-Zeichnungen wurden für das Forschungsprojekt anhand archäologischer Originale sowie fotografischer oder publizierter Vorlagen digital nachgezeichnet. Sie dienen der wissenschaftlichen Dokumentation und dem ikonographischen Vergleich.\nDie antiken Bildmotive selbst sind grundsätzlich gemeinfrei; an ihnen werden keine ausschließlichen Rechte beansprucht. Ob einzelne eigene Texte, Zeichnungen oder die Auswahl und Anordnung von Daten urheberrechtlich oder durch Datenbankrechte geschützt sind, richtet sich nach den gesetzlichen Voraussetzungen, insbesondere nach dem Urheberrechtsgesetz (UrhG). Eine bloße Digitalisierung oder werkgetreue Nachzeichnung begründet nicht allein einen eigenständigen urheberrechtlichen Schutz.\nAls Vorlagen dienen eigene Fotografien, Archivmaterial, Abbildungen aus wissenschaftlicher Literatur sowie von Museen bereitgestellte Bilder. Diese Ausgangsfotografien und Buchscans werden nach dem derzeitigen Veröffentlichungskonzept nicht auf der Website gezeigt. Rechte und Nutzungsbedingungen an den Vorlagen bleiben unberührt. Soweit möglich, werden Objekt-, Museums- und Literaturangaben direkt bei den Datensätzen nachgewiesen und externe Sammlungseinträge verlinkt.\nFür Material unter Creative-Commons-Lizenzen gelten die Bedingungen der jeweils konkret angegebenen Lizenz. Insbesondere ist CC BY 4.0 nicht gleichbedeutend mit Gemeinfreiheit oder CC0 1.0. Bei einer Weiterverwendung geschützter Ausgangsvorlagen sind etwaige Urheber- und Lizenzbedingungen gesondert zu beachten.\nLizenz dieser Website: Für eigene SVG-Zeichnungen, Beschreibungen und Forschungsdaten wird derzeit keine pauschale Creative-Commons-Lizenz erklärt. Eine ausdrückliche Lizenzangabe bei einem einzelnen Datensatz geht dieser allgemeinen Information vor. Gesetzlich erlaubte Nutzungen und die Gemeinfreiheit der zugrunde liegenden antiken Werke bleiben unberührt."
+  },
+  {
+    "objectID": "impressum.html#zitierhinweis",
+    "href": "impressum.html#zitierhinweis",
+    "title": "Impressum",
+    "section": "Zitierhinweis",
+    "text": "Zitierhinweis\n[Vor- und Nachname]: [Titel der Forschungsdatenbank], [Version/Jahr], [URL bzw. DOI, soweit vorhanden]. Für einzelne Zeichnungen und Datensätze sollten die jeweilige Objekt- und Figurenkennung sowie der Abrufstand angegeben werden."
+  },
+  {
+    "objectID": "impressum.html#externe-verweise",
+    "href": "impressum.html#externe-verweise",
+    "title": "Impressum",
+    "section": "Externe Verweise",
+    "text": "Externe Verweise\nVerweise auf Museumsdatenbanken, digitale Sammlungen und Literatur dienen der Quellenerschließung. Für Inhalte und Nutzungsbedingungen externer Seiten sind deren jeweilige Anbieter verantwortlich."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NetjerVis",
+    "section": "",
+    "text": "NetjerVis verknüpft figürliche Darstellungen mit archäologischen Objekten, Bildfeldpositionen, ikonographischen Merkmalen, Literaturangaben und digitalen Vektorzeichnungen. Die Datenaufbereitung erfolgt in R; die interaktive Forschungsdatenbank läuft mit Shinylive vollständig im Browser."
+  },
+  {
+    "objectID": "index.html#zugänge",
+    "href": "index.html#zugänge",
+    "title": "NetjerVis",
+    "section": "Zugänge",
+    "text": "Zugänge\n\nInteraktive Datenbank: Figurenkatalog, Zeichnungsgalerie, Figurenvergleich, Statuendatenblatt, Vorkommensmatrix und Datenqualität.\nFigurenkatalog: direkte Einführung in die Figurensuche.\nObjektkatalog: ein wissenschaftliches Datenblatt pro Objekt.\nVergleiche: vergleichende Darstellungen und statistische Auswertungen.\nMethodik: Datenmodell, Quellen und Grenzen der Erfassung."
+  },
+  {
+    "objectID": "index.html#datenmodell",
+    "href": "index.html#datenmodell",
+    "title": "NetjerVis",
+    "section": "Datenmodell",
+    "text": "Datenmodell\nDie Daten werden lokal aus einer Excel-Arbeitsmappe in R verarbeitet. Bei der Veröffentlichung werden ausschließlich vorbereitete Daten und freigegebene SVG-Dateien übertragen. Die zugrunde liegende Excel-Datei und lokale Pfade sind nicht Teil der Browseranwendung.\n\n\n\n\n\n\nNote\n\n\n\nDie Darstellung zweier Figuren in gleicher Bildschirmhöhe bedeutet nicht zwangsläufig archäologische Maßstabsgleichheit. Nicht dokumentierte Darstellungen sind nicht mit nachgewiesener Abwesenheit gleichzusetzen."
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3031.html",
+    "href": "objekte/Heilstatue__turinCat3031.html",
+    "title": "Objektblatt: Turin, Cat. 3031",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3031.html#objektangaben",
+    "href": "objekte/Heilstatue__turinCat3031.html#objektangaben",
+    "title": "Objektblatt: Turin, Cat. 3031",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Museo Egizio, Turin\nInventarnummer: Cat. 3031\nMaterial: Speckstein (Steatit) / grauer Kalkstein\nHerkunft: unbekannt\nProvenienz: 1862: Geschenk an Museum von Giuseppe Spina (Information falsch, dass die Statue aus der Sammlung Drovetti oder ein Gschenk des Dr. Maurizio Bussa gewesen ist; )\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: nur fragmentarisch erhalten; der untere Teil des Torsos und die gesamte Horusstele mit einigen Abplatzungen an der Stelenoberseite und -vorderseite; noch Hände erhalten; die Unterseite der Statue wurde modern geglättet"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3031.html#figuren",
+    "href": "objekte/Heilstatue__turinCat3031.html#figuren",
+    "title": "Objektblatt: Turin, Cat. 3031",
+    "section": "Figuren",
+    "text": "Figuren\n106 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:turinCat3031:808\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:turinCat3031:809\nVorderseite\n1\n2\nMnw\nMin\n\n\n—\nheilstatue:turinCat3031:810\nVorderseite\n2\n1\nꜢs.t\nIsis\n\n\n—\nheilstatue:turinCat3031:811\nVorderseite\n2\n2\n—\n—\n\n\n—\nheilstatue:turinCat3031:812\nVorderseite\n1\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:813\nVorderseite\n1\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:814\nVorderseite\n2\n1\nSrq.t\nskorpionköpfige Selket\n\n\n—\nheilstatue:turinCat3031:815\nVorderseite\n2\n2\n—\n—\n\n\n—\nheilstatue:turinCat3031:816\nVorderseite\n3\n1\n—\n—\n\n\n—\nheilstatue:turinCat3031:817\nVorderseite\n4\n2\n—\n—\n\n\n—\nheilstatue:turinCat3031:818\nVorderseite\n1\n1\nꜢs.t\nIsis\n\n\n—\nheilstatue:turinCat3031:819\nVorderseite\n1\n2\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:turinCat3031:820\nVorderseite\n1\n3\nSšꜣ.t\nSeschat\n\n\n—\nheilstatue:turinCat3031:821\nVorderseite\n1\n4\nSrq.t\nskorpionköpfige Selket\n\n\n—\nheilstatue:turinCat3031:822\nVorderseite\n1\n5\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:turinCat3031:823\nVorderseite\n1\n6\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:turinCat3031:824\nVorderseite\n1\n7\nḤr.w\nHorus als Falke\n\n\n—\nheilstatue:turinCat3031:825\nVorderseite\n1\n8\nSḫm.t\nChnum und Sachmet\n\n\n—\nheilstatue:turinCat3031:826\nVorderseite\n1\n9\nH̱nm.w\nChnum und Sachmet\n\n\n—\nheilstatue:turinCat3031:827\nRückenpfeiler\nx+1\n1\n—\n—\n\n\n—\nheilstatue:turinCat3031:828\nRückenpfeiler\nx+2\n1\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n—\nheilstatue:turinCat3031:829\nRückenpfeiler\nx+2\n2\nMnṯ.w\nMonth, der Herr von Theben\n\n\n—\nheilstatue:turinCat3031:830\nRückenpfeiler\nx+3\n1\nḤr.w\nHorus auf Skorpion und Krokodil\n\n\n—\nheilstatue:turinCat3031:831\nRückenpfeiler\nx+3\n2\nḎḥw.tj\nThoth mit Udjat-Auge\n\n\n—\nheilstatue:turinCat3031:832\nRückenpfeiler\nx+4\n1\n—\nPatäke in Sonnenscheibe auf gekreuzten Krokodilen\n\n\n—\nheilstatue:turinCat3031:833\nRückenpfeiler\nx+4\n2\nSḫm.t\nithyphallische Sachmet\n\n\n—\nheilstatue:turinCat3031:834\nRückenpfeiler\nx+5\n1\nḤr.w\nFalke auf Podest\n\n\n—\nheilstatue:turinCat3031:835\nRückenpfeiler\nx+5\n2\n—\n—\n\n\n—\nheilstatue:turinCat3031:836\nRechte Seite\n1\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:837\nRechte Seite\n2\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:turinCat3031:838\nRechte Seite\n2\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:839\nRechte Seite\n3\n1\nNj.t\nNeith zwei Krokodile säugend\n\n\n—\nheilstatue:turinCat3031:840\nRechte Seite\n3\n2\nNfr-tm\nNefertem\n\n\n—\nheilstatue:turinCat3031:841\nRechte Seite\n3\n3\nḪns.w\nChons\n\n\n—\nheilstatue:turinCat3031:842\nRechte Seite\n3\n4\nPtḥ-Skr-Wsjr\nPtah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen\n\n\n—\nheilstatue:turinCat3031:843\nRechte Seite\n3\n5\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:turinCat3031:844\nRechte Seite\n4\n1\nḤr.w\nHorus, Sohn des Osiris, gebohren von Isis, der Göttin\n\n\n—\nheilstatue:turinCat3031:845\nRechte Seite\n4\n2\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:turinCat3031:846\nRechte Seite\n4\n3\nSrq.t\nSelket\n\n\n—\nheilstatue:turinCat3031:847\nRechte Seite\n4\n4\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:turinCat3031:848\nRechte Seite\n4\n5\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:turinCat3031:849\nRechte Seite\n5\n1\nPtḥ-Tꜣ-tnn\nPtah-Tatennen\n\n\n—\nheilstatue:turinCat3031:850\nRechte Seite\n5\n2\nWr.t-ḥkꜣ.w\nWeret-hekau auf Schlange\n\n\n—\nheilstatue:turinCat3031:851\nRechte Seite\n5\n3\nḤr.w\nHorus\n\n\n—\nheilstatue:turinCat3031:852\nRechte Seite\n5\n4\nḪns.w\nChons in Theben\n\n\n—\nheilstatue:turinCat3031:853\nRechte Seite\n5\n5\nꜢs.t\n—\n\n\n—\nheilstatue:turinCat3031:854\nRechte Seite\n6\n1\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:turinCat3031:855\nRechte Seite\n6\n2\nMnṯ.w\nMonth\n\n\n—\nheilstatue:turinCat3031:856\nRechte Seite\n6\n3\nḤr.w\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:turinCat3031:857\nRechte Seite\n6\n4\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:turinCat3031:858\nRechte Seite\n6\n5\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:turinCat3031:859\nRechte Seite\n7\n1\nSbk\nSobek mit Was-Szepter\n\n\n—\nheilstatue:turinCat3031:860\nRechte Seite\n7\n2\nSḫm.t\nSachmet, die den Rebellen bändigt\n\n\n—\nheilstatue:turinCat3031:861\nRechte Seite\n7\n3\nNḫb.t\nNechbet\n\n\n—\nheilstatue:turinCat3031:862\nRechte Seite\n7\n4\n—\n—\n\n\n—\nheilstatue:turinCat3031:863\nRechte Seite\n7\n5\nMnw\nMin\n\n\n—\nheilstatue:turinCat3031:864\nRechte Seite\n8\n1\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:turinCat3031:865\nRechte Seite\n8\n2\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:turinCat3031:866\nRechte Seite\n8\n3\nJmn-rn⸗f\nZwei Krokodile übereinander, eines in Kapelle\n\n\n—\nheilstatue:turinCat3031:867\nRechte Seite\n8\n5\nH̱nm.w\nChnum als Widder\n\n\n—\nheilstatue:turinCat3031:868\nRechte Seite\n9\n1\n—\nZwei Skorpione\n\n\n—\nheilstatue:turinCat3031:869\nRechte Seite\n9\n2\nḤr.w\nHorus, der Große\n\n\n—\nheilstatue:turinCat3031:870\nRechte Seite\n9\n3\nḎḥw.tj\nThoth\n\n\n—\nheilstatue:turinCat3031:871\nRechte Seite\n9\n4\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:872\nLinke Seite\n1\n—\nzerstört\nAdoration\n\n\n—\nheilstatue:turinCat3031:873\nLinke Seite\n2\n—\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:874\nLinke Seite\n3\n1\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:turinCat3031:875\nLinke Seite\n3\n2\nḎḥw.tj\nThoth auf Stier\n\n\n—\nheilstatue:turinCat3031:876\nLinke Seite\n3\n3\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:877\nLinke Seite\n3\n4\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:878\nLinke Seite\n3\n5\nzerstört\nzerstört\n\n\n—\nheilstatue:turinCat3031:879\nLinke Seite\n4\n1\n—\nskarabäusköpfige Kobra\n\n\n—\nheilstatue:turinCat3031:880\nLinke Seite\n4\n2\nSšꜣ.t\nSeschat\n\n\n—\nheilstatue:turinCat3031:881\nLinke Seite\n4\n3\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:turinCat3031:882\nLinke Seite\n4\n4\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:turinCat3031:883\nLinke Seite\n4\n5\n—\nGott mit 3 Schlangen als Kopf\n\n\n—\nheilstatue:turinCat3031:884\nLinke Seite\n5\n1\nꜢs.t\nIsis\n\n\n—\nheilstatue:turinCat3031:885\nLinke Seite\n5\n2\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:turinCat3031:886\nLinke Seite\n5\n3\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:turinCat3031:887\nLinke Seite\n5\n4\nSḫm.t\nPavian und Kobra\n\n\n—\nheilstatue:turinCat3031:888\nLinke Seite\n6\n1\nSbk\nhockender Sobek mit Schlange\n\n\n—\nheilstatue:turinCat3031:889\nLinke Seite\n6\n2\nḤw.t-Ḥr.w\nHathor, Herrin der Sykomore\n\n\n—\nheilstatue:turinCat3031:890\nLinke Seite\n6\n3\n—\n—\n\n\n—\nheilstatue:turinCat3031:891\nLinke Seite\n6\n4\nḤr.w\nFalke auf Nilpferd\n\n\n—\nheilstatue:turinCat3031:892\nLinke Seite\n6\n5\n—\n2 Katzen neben Sistrum\n\n\n—\nheilstatue:turinCat3031:893\nLinke Seite\n7\n1\nSḫm.t\nliegender Löwe auf Podest\n\n\n—\nheilstatue:turinCat3031:894\nLinke Seite\n7\n2\nNj.t\nNeith, Herrin von Sais\n\n\n—\nheilstatue:turinCat3031:895\nLinke Seite\n7\n3\n—\n—\n\n\n—\nheilstatue:turinCat3031:896\nLinke Seite\n7\n4\n—\nmumienförmiger Widder\n\n\n—\nheilstatue:turinCat3031:897\nLinke Seite\n7\n5\nSbk\nSobek mit Maat-Feder\n\n\n—\nheilstatue:turinCat3031:898\nLinke Seite\n8\n1\nJḥy\nIhi\n\n\n—\nheilstatue:turinCat3031:899\nLinke Seite\n8\n2\nWꜣḏ-rḫy.wt\nDer den Rechit befiehlt\n\n\n—\nheilstatue:turinCat3031:900\nLinke Seite\n8\n3\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:turinCat3031:901\nLinke Seite\n8\n4\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:turinCat3031:902\nLinke Seite\n8\n5\nḪns.w\nKrokodil mit Falkenkopf\n\n\n—\nheilstatue:turinCat3031:903\nLinke Seite\n8\n6\nḤꜥpj\nHapi auf Papyrusstängel\n\n\n—\nheilstatue:turinCat3031:904\nLinke Seite\n9\n1\nḎḥw.tj\nThoth\n\n\n—\nheilstatue:turinCat3031:905\nLinke Seite\n9\n2\nḤr.w\nHorus, sonstig\n\n\n—\nheilstatue:turinCat3031:906\nLinke Seite\n9\n3\nNwn\n—\n\n\n—\nheilstatue:turinCat3031:907\nLinke Seite\n9\n4\nJmn-Rꜥw\nAmun-Re\n\n\n—\nheilstatue:turinCat3031:908\nLinke Seite\n9\n5\nḤr.w\nHarmerti\n\n\n—\nheilstatue:turinCat3031:909\nLinke Seite\n10\n1\nPtḥ\nPtah, der Große, groß an Stärke\n\n\n—\nheilstatue:turinCat3031:910\nLinke Seite\n10\n2\n—\n—\n\n\n—\nheilstatue:turinCat3031:911\nLinke Seite\n10\n3\n—\n—\n\n\n—\nheilstatue:turinCat3031:912\nLinke Seite\n10\n4\n—\n—\n\n\n—\nheilstatue:turinCat3031:913\nLinke Seite\n10\n5\nWr.t-ḥkꜣ.w\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3031.html#texte",
+    "href": "objekte/Heilstatue__turinCat3031.html#texte",
+    "title": "Objektblatt: Turin, Cat. 3031",
+    "section": "Texte",
+    "text": "Texte\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nBeischrift, Falke\nVorderseite\nKákosy 1999: 92–93, 95\n\n\nBeischrift, Nefertem / Kind\nVorderseite\nKákosy 1999: 92–93, 95\n\n\nText B, P-L-Version\nRechte Seite\nKákosy 1999: 94–95\n\n\nText B, P-L-Version\nRechte Seite\nKákosy 1999: 94–95\n\n\nText B, P-L-Version\nRechte Seite\nKákosy 1999: 94–95\n\n\nText B, P-L-Version\nRechte Seite\nKákosy 1999: 94–95\n\n\nText A\nLinke Seite\nKákosy 1999: 96–98\n\n\nText A\nLinke Seite\nKákosy 1999: 96–98\n\n\nText A\nLinke Seite\nKákosy 1999: 96–98\n\n\nSpruch\nLinke Seite\nKákosy 1999: 96–98\n\n\nSpruch gegen Schlangen\nLinke Seite\nKákosy 1999: 96–98"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3031.html#maße",
+    "href": "objekte/Heilstatue__turinCat3031.html#maße",
+    "title": "Objektblatt: Turin, Cat. 3031",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n23\n11\n18\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3031.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__turinCat3031.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Turin, Cat. 3031",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__leidenF1953_5_1.html",
+    "href": "objekte/Heilstatue__leidenF1953_5_1.html",
+    "title": "Objektblatt: Leiden, F 1953/5.1",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__leidenF1953_5_1.html#objektangaben",
+    "href": "objekte/Heilstatue__leidenF1953_5_1.html#objektangaben",
+    "title": "Objektblatt: Leiden, F 1953/5.1",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Rijksmuseum van Oudheden, Leiden\nInventarnummer: F 1953/5.1\nMaterial: Basalt\nHerkunft: unbekannt\nProvenienz: Ankauf des Museums, 1953 bei Versteigerung der ehemaligen Sammlung von Maurice Nahman im Hôtel Drouot, Paris\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: Statue ist über dem ersten Drittel der Horusstele schräg zur Rückseite gebrochen und damit in zwei Teilen erhalten; beim unteren Teil Beine nicht mehr erhalten, aber beide Füße; direkt unter dem Schurz gebrochen; beim oberen Teil ist der Torso nur noch diagonal in der Hälfe erhalten; Hände noch erhalten und mind. zwei Drittel vom rechten Arm, nur noch etwas vom linken Arm"
+  },
+  {
+    "objectID": "objekte/Heilstatue__leidenF1953_5_1.html#figuren",
+    "href": "objekte/Heilstatue__leidenF1953_5_1.html#figuren",
+    "title": "Objektblatt: Leiden, F 1953/5.1",
+    "section": "Figuren",
+    "text": "Figuren\n46 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n\nheilstatue:leidenF1953_5_1:163\nVorderseite\n1\nx+4\nzerstört\nzerstört\n\n\n—\nheilstatue:leidenF1953_5_1:164\nVorderseite\n1\nx+5\n—\nPtah-Sokar-Osiris\n\n\n—\nheilstatue:leidenF1953_5_1:165\nVorderseite\n2\n1\nzerstört\nzerstört\n\n\n\nheilstatue:leidenF1953_5_1:166\nVorderseite\n2\n2\nzerstört\nzerstört\n\n\n\nheilstatue:leidenF1953_5_1:167\nVorderseite\n2\n3\nPtḥ\nPtah\n\n\n\nheilstatue:leidenF1953_5_1:168\nVorderseite\n2\n4\nNb.t-ḥw.t\nNephthys\n\n\n\nheilstatue:leidenF1953_5_1:169\nVorderseite\n2\n5\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n\nheilstatue:leidenF1953_5_1:170\nVorderseite\n1\n1\nḤḥ.(w)t\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:171\nVorderseite\n1\n2\nḤḥ\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:172\nVorderseite\n1\n3\nJmn.t\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:173\nVorderseite\n1\n4\nJmn\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:174\nVorderseite\n1\n5\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:175\nVorderseite\n1\n6\nKk\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:176\nVorderseite\n1\n7\nKk.t\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:177\nVorderseite\n1\n8\nNwn\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:178\nVorderseite\n1\n9\nNw.t\nAnbetung des Amun-Re\n\n\n\nheilstatue:leidenF1953_5_1:179\nVorderseite\n1\n1\nJmn\nZwei Krokodile in Kapelle\n\n\n\nheilstatue:leidenF1953_5_1:180\nVorderseite\n2\n1\nJmn\nAmun\n\n\n\nheilstatue:leidenF1953_5_1:181\nVorderseite\n2\n2\nNj.t\nNeith zwei Krokodile säugend\n\n\n\nheilstatue:leidenF1953_5_1:182\nVorderseite\n3\n1\nḪns.w\nChons\n\n\n\nheilstatue:leidenF1953_5_1:183\nVorderseite\n1\n1\nḤr.w\nZwei Krokodile in Kapelle\n\n\n\nheilstatue:leidenF1953_5_1:184\nVorderseite\n2\n1\nMnw\nMin\n\n\n\nheilstatue:leidenF1953_5_1:185\nVorderseite\n2\n2\nSrq.t\nSelket\n\n\n\nheilstatue:leidenF1953_5_1:186\nVorderseite\n3\n1\n—\nNilpferd\n\n\n\nheilstatue:leidenF1953_5_1:187\nRechte Seite\nx+1\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n\nheilstatue:leidenF1953_5_1:188\nRechte Seite\nx+2\n1\nJn-ḥr.t\nOnuris, der Schlange aufspießt\n\n\n\nheilstatue:leidenF1953_5_1:189\nRechte Seite\nx+2\n2\nḤr.w\nHorus mit Doppelkrone\n\n\n\nheilstatue:leidenF1953_5_1:190\nRechte Seite\nx+3\n1\nSrq.t\nGöttin mit Skorpionkörper\n\n\n\nheilstatue:leidenF1953_5_1:191\nRechte Seite\nx+3\n2\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:192\nRechte Seite\nx+3\n3\nḤr.w\nHorus im Papyrusdickicht\n\n\n\nheilstatue:leidenF1953_5_1:193\nRechte Seite\nx+3\n4\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:194\nRechte Seite\nx+4\n1\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:195\nRechte Seite\nx+4\n2\nH̱nm.w\nChnum\n\n\n\nheilstatue:leidenF1953_5_1:196\nRechte Seite\nx+4\n3\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:197\nRechte Seite\nx+4\n4\n—\nSobek\n\n\n\nheilstatue:leidenF1953_5_1:198\nRechte Seite\nx+4\n5\nNj.t\nNeith\n\n\n\nheilstatue:leidenF1953_5_1:199\nLinke Seite\nx+2\n1\nḤr.w\nFalke auf Antilope\n\n\n\nheilstatue:leidenF1953_5_1:200\nLinke Seite\nx+2\n2\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n\nheilstatue:leidenF1953_5_1:201\nLinke Seite\nx+3\n1\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:202\nLinke Seite\nx+3\n2\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:203\nLinke Seite\nx+3\n3\n—\n—\n\n\n\nheilstatue:leidenF1953_5_1:204\nLinke Seite\nx+3\n4\nꜢs.t\nIsis und Horus\n\n\n\nheilstatue:leidenF1953_5_1:205\nLinke Seite\nx+4\n1\nH̱nm.w\nChnum\n\n\n\nheilstatue:leidenF1953_5_1:206\nLinke Seite\nx+4\n2\nḎḥw.tj\nIsis von Achbit\n\n\n\nheilstatue:leidenF1953_5_1:207\nLinke Seite\nx+4\n3\nꜢs.t\nIsis von Achbit\n\n\n\nheilstatue:leidenF1953_5_1:208\nLinke Seite\nx+4\n4\nNb.t-ḥw.t\nIsis von Achbit"
+  },
+  {
+    "objectID": "objekte/Heilstatue__leidenF1953_5_1.html#texte",
+    "href": "objekte/Heilstatue__leidenF1953_5_1.html#texte",
+    "title": "Objektblatt: Leiden, F 1953/5.1",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nText A\nRechte Seite\nunpubliziert\n\n\nText A\nLinke Seite\nunpubliziert\n\n\nText A\nLinke Seite\nunpubliziert\n\n\n„Alle Länder usw. sind unter den Füßen des Horus“\nHorusstele\nDils 2024g\n\n\nText B, P-L-Version (Anfang)\nRechte Seite\nunpubliziert\n\n\nText B, P-L-Version (fortgesetzt)\nLinke Seite\nunpubliziert\n\n\nText C\nLinke Seite\nunpubliziert\n\n\nTitel, etc.\nRückseite\nunpubliziert"
+  },
+  {
+    "objectID": "objekte/Heilstatue__leidenF1953_5_1.html#maße",
+    "href": "objekte/Heilstatue__leidenF1953_5_1.html#maße",
+    "title": "Objektblatt: Leiden, F 1953/5.1",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—\n\n\n41\n10.2\n22.5\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__leidenF1953_5_1.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__leidenF1953_5_1.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Leiden, F 1953/5.1",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinSuppl9Florenz8708.html",
+    "href": "objekte/Heilstatue__turinSuppl9Florenz8708.html",
+    "title": "Objektblatt: Turin, Suppl. 9 + Florenz, 8708",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinSuppl9Florenz8708.html#objektangaben",
+    "href": "objekte/Heilstatue__turinSuppl9Florenz8708.html#objektangaben",
+    "title": "Objektblatt: Turin, Suppl. 9 + Florenz, 8708",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Museo Egizio, Turin\nInventarnummer: Suppl. 9 (obere Hälfte)\nMaterial: dunkler Granit / Granodiorit / schwarzer Basalt\nHerkunft: unbekannt\nProvenienz: Ankauf zw. 1874–1913 aus Museo Kircheriano, Rom; in Rom gefunden (vor 1654)\nDatierung: 4. Jh. v. u. Z. (vmtl. 30. Dyn.)\nErhaltungszustand: zum größten Teil vollständig, aber Kopf, linke Schulterpartie bis zum Ellenbogen quer gebrochen, unterer Teil der Stele bzw. des Schurzes mit den Füßen fehlen; Statue ist ein zwei Teile zerbrochen, weshalb an der Bruchkante entlang auch Abbrüche sind; Vorderseite der Stele abgebrochen"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinSuppl9Florenz8708.html#figuren",
+    "href": "objekte/Heilstatue__turinSuppl9Florenz8708.html#figuren",
+    "title": "Objektblatt: Turin, Suppl. 9 + Florenz, 8708",
+    "section": "Figuren",
+    "text": "Figuren\n91 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:turinSuppl9Florenz8708:914\nVorderseite\n1\n1\nḤḥ.(w)t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:915\nVorderseite\n1\n2\nḤḥ\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:916\nVorderseite\n1\n3\nJmn.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:917\nVorderseite\n1\n4\nJmn\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:918\nVorderseite\n1\n5\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:919\nVorderseite\n1\n6\nKk\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:920\nVorderseite\n1\n7\nKk.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:921\nVorderseite\n1\n8\nNwn\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:922\nVorderseite\n1\n9\nNw.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:923\nRückenpfeiler\n1\n1\nJh.t\nIhet-weret\n\n\n—\nheilstatue:turinSuppl9Florenz8708:924\nRückenpfeiler\n1\n2\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:925\nRückenpfeiler\n2\n1\nSrq.t\nSelket auf gewundener Schlange\n\n\n—\nheilstatue:turinSuppl9Florenz8708:926\nRückenpfeiler\n2\n2\nJmn-rn⸗f\nZwei Krokodile übereinander, eines in Kapelle\n\n\n—\nheilstatue:turinSuppl9Florenz8708:927\nRückenpfeiler\n3\n1\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:turinSuppl9Florenz8708:928\nRückenpfeiler\n3\n2\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:turinSuppl9Florenz8708:929\nRückenpfeiler\n3\n3\nḎḥw.tj\nIbis auf Standarte\n\n\n—\nheilstatue:turinSuppl9Florenz8708:930\nRückenpfeiler\n4\n1\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:931\nRückenpfeiler\n4\n2\nꜢs.t\nIsis und Horus\n\n\n—\nheilstatue:turinSuppl9Florenz8708:932\nRückenpfeiler\n5\n1\nḤr.w\nFalke auf Nilpferd\n\n\n—\nheilstatue:turinSuppl9Florenz8708:933\nRückenpfeiler\n5\n2\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:934\nRückenpfeiler\n5\n3\nWꜣs.t\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:935\nRückenpfeiler\n6\n1\n—\nDie mit zahlreichen Gestalten\n\n\n—\nheilstatue:turinSuppl9Florenz8708:936\nRückenpfeiler\n6\n2\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n—\nheilstatue:turinSuppl9Florenz8708:937\nRückenpfeiler\n7\n1\nJn-ḥr.t-Šw\nOnuris-Schu, der Schlange aufspießt\n\n\n—\nheilstatue:turinSuppl9Florenz8708:938\nRückenpfeiler\n7\n2\nH̱nm.w\nmumienförmiger Chnum mit Feder\n\n\n—\nheilstatue:turinSuppl9Florenz8708:939\nRückenpfeiler\n8\n1\n—\nPatäke in Sonnenscheibe auf gekreuzten Krokodilen\n\n\n—\nheilstatue:turinSuppl9Florenz8708:940\nRückenpfeiler\n8\n2\nSbk\nSobek\n\n\n—\nheilstatue:turinSuppl9Florenz8708:941\nRückenpfeiler\n9\n1\nWr.t-ḥkꜣ.w\nWeret-hekau auf Krokodil\n\n\n—\nheilstatue:turinSuppl9Florenz8708:942\nRückenpfeiler\n9\n2\nḤr.j-š⸗f\nmumienförmiger Herischef\n\n\n—\nheilstatue:turinSuppl9Florenz8708:943\nRückenpfeiler\n10\n1\nḤr.w\nHorus, sonstig\n\n\n—\nheilstatue:turinSuppl9Florenz8708:944\nRückenpfeiler\n10\n2\nḎḥw.tj\nThoth\n\n\n—\nheilstatue:turinSuppl9Florenz8708:945\nRechte Seite\n1\n1\nRꜥw-Jtm\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:946\nRechte Seite\n1\n2\nJw⸗s-ꜥꜣ⸗s\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:947\nRechte Seite\n1\n3\n—\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:948\nRechte Seite\n1\n4\nḤw.t-Ḥr.w\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:949\nRechte Seite\n2\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:turinSuppl9Florenz8708:950\nRechte Seite\n2\n2\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:951\nRechte Seite\n2\n3\nḤr.w\nFalke auf Antilope\n\n\n—\nheilstatue:turinSuppl9Florenz8708:952\nRechte Seite\n2\n4\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:953\nRechte Seite\n2\n5\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:954\nRechte Seite\n3\n1\nḤr.j-š⸗f\nHerischef\n\n\n—\nheilstatue:turinSuppl9Florenz8708:955\nRechte Seite\n3\n2\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:turinSuppl9Florenz8708:956\nRechte Seite\n3\n3\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:turinSuppl9Florenz8708:957\nRechte Seite\n3\n4\nNj.t\nNeith zwei Krokodile säugend\n\n\n—\nheilstatue:turinSuppl9Florenz8708:958\nRechte Seite\n3\n5\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:turinSuppl9Florenz8708:959\nRechte Seite\n4\n1\nNfr-tm\nNefertem als Lotos\n\n\n—\nheilstatue:turinSuppl9Florenz8708:960\nRechte Seite\n4\n2\nḪns.w\nChons\n\n\n—\nheilstatue:turinSuppl9Florenz8708:961\nRechte Seite\n4\n3\nPtḥ-Skr-Wsjr\nPtah-Sokar-Osiris\n\n\n—\nheilstatue:turinSuppl9Florenz8708:962\nRechte Seite\n4\n4\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:turinSuppl9Florenz8708:963\nRechte Seite\n4\n5\nSrq.t\nSelket\n\n\n—\nheilstatue:turinSuppl9Florenz8708:964\nRechte Seite\n5\n1\nḤr.w\nHorus, das Auge des Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:965\nRechte Seite\n5\n2\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:turinSuppl9Florenz8708:966\nRechte Seite\n5\n3\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:turinSuppl9Florenz8708:967\nRechte Seite\n5\n4\nPtḥ-Tꜣ-tnn\nPtah-Tatennen\n\n\n—\nheilstatue:turinSuppl9Florenz8708:968\nRechte Seite\n6\n1\nWr.t-ḥkꜣ.w\nWeret-hekau auf Schlange\n\n\n—\nheilstatue:turinSuppl9Florenz8708:969\nRechte Seite\n6\n2\nḤr.w\nHorus\n\n\n—\nheilstatue:turinSuppl9Florenz8708:970\nRechte Seite\n6\n3\nḪns.w\nChons in Theben\n\n\n—\nheilstatue:turinSuppl9Florenz8708:971\nRechte Seite\n6\n4\nNj.t\nNeith\n\n\n—\nheilstatue:turinSuppl9Florenz8708:972\nRechte Seite\n6\n5\nNḫb.t\nNechbet\n\n\n—\nheilstatue:turinSuppl9Florenz8708:973\nRechte Seite\n7\n1\nḤr.w\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:turinSuppl9Florenz8708:974\nRechte Seite\n7\n2\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:turinSuppl9Florenz8708:975\nRechte Seite\n7\n3\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:turinSuppl9Florenz8708:976\nRechte Seite\n7\n4\nḤr.w\nHorus, der Große\n\n\n—\nheilstatue:turinSuppl9Florenz8708:977\nLinke Seite\n1\n1\nRꜥw\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:978\nLinke Seite\n1\n2\nḤw.t-Ḥr.w\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:979\nLinke Seite\n1\n3\nŠw\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:980\nLinke Seite\n1\n4\nTfn.t\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:turinSuppl9Florenz8708:981\nLinke Seite\n2\n1\nJmn-Rꜥw\nAmun-Re\n\n\n—\nheilstatue:turinSuppl9Florenz8708:982\nLinke Seite\n2\n2\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:turinSuppl9Florenz8708:983\nLinke Seite\n2\n3\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:turinSuppl9Florenz8708:984\nLinke Seite\n2\n4\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:985\nLinke Seite\n3\n1\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:turinSuppl9Florenz8708:986\nLinke Seite\n3\n2\nḎḥw.tj\nThoth auf Stier\n\n\n—\nheilstatue:turinSuppl9Florenz8708:987\nLinke Seite\n3\n3\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:turinSuppl9Florenz8708:988\nLinke Seite\n3\n4\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:turinSuppl9Florenz8708:989\nLinke Seite\n4\n1\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:turinSuppl9Florenz8708:990\nLinke Seite\n4\n2\nSḫm.t\nPavian und Kobra\n\n\n—\nheilstatue:turinSuppl9Florenz8708:991\nLinke Seite\n4\n3\nSbk\nSobek mit Schlange\n\n\n—\nheilstatue:turinSuppl9Florenz8708:992\nLinke Seite\n4\n4\nḤw.t-Ḥr.w\nHathor, Herrin der Sykomore\n\n\n—\nheilstatue:turinSuppl9Florenz8708:993\nLinke Seite\n5\n1\nḤr.w\nFalke auf Nilpferd\n\n\n—\nheilstatue:turinSuppl9Florenz8708:994\nLinke Seite\n5\n2\n—\n2 Katzen neben Sistrum\n\n\n—\nheilstatue:turinSuppl9Florenz8708:995\nLinke Seite\n5\n3\nNwn\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:996\nLinke Seite\n5\n4\nḤꜥpj\nHapi auf Papyrusstängel\n\n\n—\nheilstatue:turinSuppl9Florenz8708:997\nLinke Seite\n6\n1\nḤr.w\nHarmerti\n\n\n—\nheilstatue:turinSuppl9Florenz8708:998\nLinke Seite\n6\n2\nPtḥ\nPtah, der Große, groß an Stärke\n\n\n—\nheilstatue:turinSuppl9Florenz8708:999\nLinke Seite\n6\n3\nRꜥw-Ḥr.w-ꜣḫ.tj\nRe-Harachte\n\n\n—\nheilstatue:turinSuppl9Florenz8708:1000\nLinke Seite\n6\n4\n—\n—\n\n\n—\nheilstatue:turinSuppl9Florenz8708:1001\nLinke Seite\n7\n1\nSḫm.t\nliegender Löwe auf Podest\n\n\n—\nheilstatue:turinSuppl9Florenz8708:1002\nLinke Seite\n7\n2\nNj.t\nNeith, Herrin von Sais\n\n\n—\nheilstatue:turinSuppl9Florenz8708:1003\nLinke Seite\n7\n3\nḪns.w\nKrokodil mit Falkenkopf\n\n\n—\nheilstatue:turinSuppl9Florenz8708:1004\nLinke Seite\n7\n4\nḤr.w\nFalke auf Papyrusstängel"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinSuppl9Florenz8708.html#texte",
+    "href": "objekte/Heilstatue__turinSuppl9Florenz8708.html#texte",
+    "title": "Objektblatt: Turin, Suppl. 9 + Florenz, 8708",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nSpruch zur Ertüchtigung des Herzens\nVorderseite\nKákosy 1999: 38– 39, 41\n\n\nBeischrift, Falke\nVorderseite\nKákosy 1999: 40–41\n\n\nBeischrift, Nefertem\nVorderseite\nKákosy 1999: 40–41\n\n\nText B, P-L-Version\nRechte Seite\nKákosy 1999: 41–43\n\n\nText B, P-L-Version\nRechte Seite\nKákosy 1999: 41–43\n\n\n„Die Hand des Atum“\nRechte Seite\nKákosy 1999: 45–47\n\n\nText A\nLinke Seite\nKákosy 1999: 43–45\n\n\nText A\nLinke Seite\nKákosy 1999: 43–45\n\n\n„Die Elle des Heh“\nLinke Seite\nKákosy 1999: 48–50\n\n\n„Der Nagel des Atum“\nLinke Seite\nKákosy 1999: 48–50\n\n\n„Der Nagel des Ptah“\nLinke Seite\nKákosy 1999: 48–50"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinSuppl9Florenz8708.html#maße",
+    "href": "objekte/Heilstatue__turinSuppl9Florenz8708.html#maße",
+    "title": "Objektblatt: Turin, Suppl. 9 + Florenz, 8708",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—\n\n\n36\n12\n16\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinSuppl9Florenz8708.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__turinSuppl9Florenz8708.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Turin, Suppl. 9 + Florenz, 8708",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__muenchenAes2824.html",
+    "href": "objekte/Heilstatue__muenchenAes2824.html",
+    "title": "Objektblatt: München, ÄS 2824",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__muenchenAes2824.html#objektangaben",
+    "href": "objekte/Heilstatue__muenchenAes2824.html#objektangaben",
+    "title": "Objektblatt: München, ÄS 2824",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Staatliches Musem Ägyptischer Kunst, München\nInventarnummer: ÄS 2824\nMaterial: Kalkstein mit schwarzer Kalzitader\nHerkunft: unbekannt\nProvenienz: 1950: Erweb durch Staatliche Sammlung Ägyptischer Kunst von Wilhelm Spiegelberg; 18. Januar 1927: von Spiegelverg im Antikenhandel Kairo erworben (durch den Antikenhändler Maurice Nahmann)\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: nur noch Teil des Torsos (mit Teil des oberen linken Arms) und Kopf erhalten, Gesicht besonders auf der linken Seite stark beschädigt, Perücke an der rechten Seite zerstört"
+  },
+  {
+    "objectID": "objekte/Heilstatue__muenchenAes2824.html#figuren",
+    "href": "objekte/Heilstatue__muenchenAes2824.html#figuren",
+    "title": "Objektblatt: München, ÄS 2824",
+    "section": "Figuren",
+    "text": "Figuren\n15 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:muenchenAes2824:373\nRückenpfeiler\n1\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:muenchenAes2824:374\nRückenpfeiler\n2\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:muenchenAes2824:375\nRückenpfeiler\n1–2\n3\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:muenchenAes2824:376\nRückenpfeiler\n1\n4\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:muenchenAes2824:377\nRückenpfeiler\n2\n5\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:muenchenAes2824:378\nVorderseite\n1\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:muenchenAes2824:379\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:muenchenAes2824:380\nVorderseite\n1\n2\nꜢs.t\nIsis\n\n\n—\nheilstatue:muenchenAes2824:381\nVorderseite\n1\n3\nMnw\nMin\n\n\n—\nheilstatue:muenchenAes2824:382\nVorderseite\n1\n4\nRꜥw\n—\n\n\n—\nheilstatue:muenchenAes2824:383\nVorderseite\n1\n5\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:muenchenAes2824:384\nVorderseite\n1\n6\nḤꜣ.t-mḥ.yt\nHatmehit\n\n\n—\nheilstatue:muenchenAes2824:385\nVorderseite\n2\n1\n—\n—\n\n\n—\nheilstatue:muenchenAes2824:386\nVorderseite\n2\n2\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:muenchenAes2824:387\nVorderseite\n2\n3\nḤr.w\nHorus mit Atef-Krone"
+  },
+  {
+    "objectID": "objekte/Heilstatue__muenchenAes2824.html#texte",
+    "href": "objekte/Heilstatue__muenchenAes2824.html#texte",
+    "title": "Objektblatt: München, ÄS 2824",
+    "section": "Texte",
+    "text": "Texte\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nText A\nRückseite\nGrimm 1995: 110\n\n\nText B, P-L-Version (Ende)\nRückseite\nGrimm 1995: 110"
+  },
+  {
+    "objectID": "objekte/Heilstatue__muenchenAes2824.html#maße",
+    "href": "objekte/Heilstatue__muenchenAes2824.html#maße",
+    "title": "Objektblatt: München, ÄS 2824",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n19\n12.8\n10.1\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__muenchenAes2824.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__muenchenAes2824.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: München, ÄS 2824",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME76.html",
+    "href": "objekte/Heilstatue__stockholmNME76.html",
+    "title": "Objektblatt: Stockholm, NME 76",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME76.html#objektangaben",
+    "href": "objekte/Heilstatue__stockholmNME76.html#objektangaben",
+    "title": "Objektblatt: Stockholm, NME 76",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusnaos\nStandort: Medelhavsmuseet, Stockholm\nInventarnummer: NME 76\nMaterial: Basalt\nHerkunft: unbekannt\nProvenienz: ab 1954 im heutigen Medelhavsmuseet; ab 1928 in eigenem Ägyptischen Museum; vor 1868 im Nationalmuseum, Stockholm\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: Statue ist nur als Torso erhalten, d. h. nur der Oberkörper ohne Kopf und Beine ist erhalten; Abplatzungen an den meisten Ecken und Kanten, bes. auf dem Naos, das Horuskind und dem Rückenpfeiler"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME76.html#figuren",
+    "href": "objekte/Heilstatue__stockholmNME76.html#figuren",
+    "title": "Objektblatt: Stockholm, NME 76",
+    "section": "Figuren",
+    "text": "Figuren\n35 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:stockholmNME76:590\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME76:591\nVorderseite\n1\n2\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:stockholmNME76:592\nVorderseite\n1\n3\nNj.t\nIsis von Achbit\n\n\n—\nheilstatue:stockholmNME76:593\nVorderseite\n1\n4\nꜢs.t\nIsis von Achbit\n\n\n—\nheilstatue:stockholmNME76:594\nVorderseite\n1\n5\nḎḥw.tj\nIsis von Achbit\n\n\n—\nheilstatue:stockholmNME76:595\nVorderseite\n1\n6\nḤr.w\nHorus, groß an Kraft, Herr des Himmels\n\n\n—\nheilstatue:stockholmNME76:596\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME76:597\nVorderseite\n1\n2\n—\n—\n\n\n—\nheilstatue:stockholmNME76:598\nVorderseite\n2\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME76:599\nVorderseite\n2\n2\n—\n—\n\n\n—\nheilstatue:stockholmNME76:600\nVorderseite\n2\n3\n—\n—\n\n\n—\nheilstatue:stockholmNME76:601\nVorderseite\n2\n4\n—\n—\n\n\n—\nheilstatue:stockholmNME76:602\nRechte Seite\n1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME76:603\nRechte Seite\n1\n2\nꜢs.t-Srq.t\nIsis-Selket\n\n\n—\nheilstatue:stockholmNME76:604\nRechte Seite\n1\n3\nḤr.w\nHorus auf Krokodil\n\n\n—\nheilstatue:stockholmNME76:605\nRechte Seite\n2\n1\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n—\nheilstatue:stockholmNME76:606\nRechte Seite\n2\n2\nꜢs.t\nbittende Isis\n\n\n—\nheilstatue:stockholmNME76:607\nRechte Seite\n3\n1\nH̱nm.w\nChnum\n\n\n—\nheilstatue:stockholmNME76:608\nRechte Seite\n3\n2\nḤr.w\nHorus, das Auge des Re\n\n\n—\nheilstatue:stockholmNME76:609\nRechte Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME76:610\nRechte Seite\n4\n2\nNj.t\nNeith, Herrin von Sais\n\n\n—\nheilstatue:stockholmNME76:611\nRechte Seite\n5\n1\nḤr.w\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:stockholmNME76:612\nRechte Seite\n5\n2\nWr.t-ḥkꜣ.w\nWeret-hekau auf Krokodil\n\n\n—\nheilstatue:stockholmNME76:613\nRechte Seite\n5\n3\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:stockholmNME76:614\nLinke Seite\n1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME76:615\nLinke Seite\n1\n2\nTfn.t\nTefnut\n\n\n—\nheilstatue:stockholmNME76:616\nLinke Seite\n2\n1\nRw.tj\nRuti\n\n\n—\nheilstatue:stockholmNME76:617\nLinke Seite\n2\n2\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:stockholmNME76:618\nLinke Seite\n2\n3\nSḫm.t\nSachmet, die Große\n\n\n—\nheilstatue:stockholmNME76:619\nLinke Seite\n3\n1\nSḫm.t\nSachmet, die Große\n\n\n—\nheilstatue:stockholmNME76:620\nLinke Seite\n3\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:stockholmNME76:621\nLinke Seite\n4\n1\nptnḥ (?)\n—\n\n\n—\nheilstatue:stockholmNME76:622\nLinke Seite\n5\n1\nNj.t\nNeith als Rind\n\n\n—\nheilstatue:stockholmNME76:623\nLinke Seite\n6\n1\nSbk\nSobek mit Schlange\n\n\n—\nheilstatue:stockholmNME76:624\nLinke Seite\n6\n2\nPtḥ\nPtah, der Große, groß an Stärke"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME76.html#texte",
+    "href": "objekte/Heilstatue__stockholmNME76.html#texte",
+    "title": "Objektblatt: Stockholm, NME 76",
+    "section": "Texte",
+    "text": "Texte\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nSpruch gegen Gift mit Gliedervergottung\nVorderseite\n—\n\n\nText B, P-L-Version\nRückseite\nunpubliziert\n\n\nSpruch\nRechte Seite\nunpubliziert\n\n\nSpruch\nRechte Seite\nunpubliziert\n\n\nSpruch\nLinke Seite\nunpubliziert\n\n\nSpruch\nLinke Seite\nunpubliziert"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME76.html#maße",
+    "href": "objekte/Heilstatue__stockholmNME76.html#maße",
+    "title": "Objektblatt: Stockholm, NME 76",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n21\n10\n10\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME76.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__stockholmNME76.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Stockholm, NME 76",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE41677.html",
+    "href": "objekte/Heilstatue__kairoJE41677.html",
+    "title": "Objektblatt: Kairo, JE 41677",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE41677.html#objektangaben",
+    "href": "objekte/Heilstatue__kairoJE41677.html#objektangaben",
+    "title": "Objektblatt: Kairo, JE 41677",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Ägyptisches Museum, Kairo\nInventarnummer: JE 41677\nMaterial: schwarzer Siltstein (Schiefer)\nHerkunft: Bubastis\nProvenienz: gefunden 1910, möglw. bei Sebach-Arbeiten\nDatierung: ca. 360–342 v. u. Z. (wegen Kartusche Nektanebos (II.), 30. Dyn.)\nErhaltungszustand: nur Torso erhalten; Teile der rechten Schulter abgebrochen, linke Schulter erhalten; Teile der Vorderseite an der Verschnürung des Schurzes erhalten; Steg zwischen Körper und vmtl. einer Horusstele erhalten; Oberarme noch erhalten (Abplatzungen am rechten Oberarm), Unterarme nur ca. zu 30 % erhalten; Rückenpfeiler erhalten mit Abplatzungen an den Seiten und an der oberen und unteren Kante."
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE41677.html#figuren",
+    "href": "objekte/Heilstatue__kairoJE41677.html#figuren",
+    "title": "Objektblatt: Kairo, JE 41677",
+    "section": "Figuren",
+    "text": "Figuren\n37 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:kairoJE41677:31\nVorderseite\n1\n1\nJmn\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:32\nVorderseite\n1\n2\nJmn.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:33\nVorderseite\n2\n1\nḤḥ\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:34\nVorderseite\n2\n2\nḤḥ.(w)t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:35\nVorderseite\n1–2\n3\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:36\nVorderseite\n1\n4\nKk\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:37\nVorderseite\n1\n5\nKk.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:38\nVorderseite\n2\n4\nNwn\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:39\nVorderseite\n2\n5\nNw.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:kairoJE41677:40\nRückenpfeiler\n1\n1\nꜢs.t\nIsis von Achbit\n\n\n\nheilstatue:kairoJE41677:41\nRückenpfeiler\n2\n1\nḤr.t\nHeret\n\n\n\nheilstatue:kairoJE41677:42\nRückenpfeiler\n2\n2\nNḫb.t\nNechbet\n\n\n\nheilstatue:kairoJE41677:43\nRückenpfeiler\n2\n3\nSbk.t\nSobeket\n\n\n\nheilstatue:kairoJE41677:44\nRückenpfeiler\n3\n1\nSrq.t\nSelket\n\n\n\nheilstatue:kairoJE41677:45\nRückenpfeiler\n3\n2\nSḫm.t\nSachmet als Nilpferd\n\n\n\nheilstatue:kairoJE41677:46\nRückenpfeiler\n3\n3\nḪpr.j\nChepri\n\n\n\nheilstatue:kairoJE41677:47\nRückenpfeiler\n4\n1\nJh.t\nIhet-weret\n\n\n\nheilstatue:kairoJE41677:48\nRückenpfeiler\n4\n2\nSrq.t\nSelket auf gewundener Schlange\n\n\n\nheilstatue:kairoJE41677:49\nRückenpfeiler\n5\n1\nꜢs.t\nIsis, die Krokodil säugt\n\n\n\nheilstatue:kairoJE41677:50\nRückenpfeiler\n5\n2\nSrp.t-mꜣj-sr; Jtm\nBox\n\n\n\nheilstatue:kairoJE41677:51\nRückenpfeiler\n6\n1\n—\nDie mit zahlreichen Gestalten\n\n\n\nheilstatue:kairoJE41677:52\nRückenpfeiler\n6\n2\nŠw\nSchu, der Schlange aufspießt\n\n\n—\nheilstatue:kairoJE41677:53\nRückenpfeiler\n7\n1\nḤr.w\nHorus, der Große, der Herr der beiden Messer\n\n\n—\nheilstatue:kairoJE41677:54\nRechte Seite\n1\n1\nBꜣs.tt\nAdoration vor Gottheiten aus Bubastis\n\n\n—\nheilstatue:kairoJE41677:55\nRechte Seite\n1\n2\nRꜥw\nAdoration vor Gottheiten aus Bubastis\n\n\n—\nheilstatue:kairoJE41677:56\nRechte Seite\n1\n3\nḤr.j-š⸗f\nAdoration vor Gottheiten aus Bubastis\n\n\n—\nheilstatue:kairoJE41677:57\nRechte Seite\n2\n1\nḤr.w\nFalke auf Antilope\n\n\n—\nheilstatue:kairoJE41677:58\nRechte Seite\n2\n2\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n—\nheilstatue:kairoJE41677:59\nRechte Seite\n2\n3\nMnḫ.t\n—\n\n\n—\nheilstatue:kairoJE41677:60\nRechte Seite\n2\n4\nkꜣ wr\nKa-wer\n\n\n\nheilstatue:kairoJE41677:61\nLinke Seite\n1\n1\nBꜣs.tt\nAdoration vor Gottheiten aus Bubastis\n\n\n\nheilstatue:kairoJE41677:62\nLinke Seite\n1\n2\nꜢs.t\nAdoration vor Gottheiten aus Bubastis\n\n\n\nheilstatue:kairoJE41677:63\nLinke Seite\n1\n3\nRꜥw\nAdoration vor Gottheiten aus Bubastis\n\n\n—\nheilstatue:kairoJE41677:64\nLinke Seite\n2\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:kairoJE41677:65\nLinke Seite\n2\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:kairoJE41677:66\nLinke Seite\n2\n3\n—\n—\n\n\n—\nheilstatue:kairoJE41677:67\nLinke Seite\n2\n4\nJmn-Rꜥw\nAmun-Re"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE41677.html#texte",
+    "href": "objekte/Heilstatue__kairoJE41677.html#texte",
+    "title": "Objektblatt: Kairo, JE 41677",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\n„Die Hand des Atum“ (Anfang)\nVorderseite + Rechter Arm\nDaressy 1911: 188–189; Z. 1–13, 23–29; Dils 2024a\n\n\n„Die Hand des Atum“ (Anfang)\nVorderseite + Rechter Arm\nDaressy 1911: 188–189; Z. 1–13, 23–29; Dils 2024a\n\n\n„Die Elle des Heh“\nVorderseite + Linker Arm\nDaressy 1911: 188–189; Z. 30–34; Dils 2024a\n\n\n„Der Nagel des Atum“\nVorderseite + Linker Arm\nDaressy 1911: 188–189; Z. 34–36; Dils 2024a\n\n\n„Der Nagel des Ptah“\nVorderseite + Linker Arm\nDaressy 1911: 188–189; Z. 36–42; Dils 2024a\n\n\n„Bring den Kopf des Horus“\nVorderseite + Linker Arm\nDaressy 1911: 188–189; Z. 42–46; Dils 2024a\n\n\nText A\nRechte Seite\nDaressy 1911: 188–189; Z. B.1–B.3; Dils 2024a\n\n\n„Die Hand des Atum“ (fortgesetzt)\nRückseite\nDaressy 1911: 188–189; Z. 1–13, 23–29; Dils 2024a\n\n\n„Die Hand des Atum“ (fortgesetzt)\nRückseite\nDaressy 1911: 188–189; Z. 1–13, 23–29; Dils 2024a\n\n\n„Die Hand des Re“\nRückseite\nDaressy 1911: 188–189; Z. 47–52; Dils 2024a\n\n\n„Die Hand des Re“\nRückseite\nDaressy 1911: 188–189; Z. 47–52; Dils 2024a\n\n\n„Die Hand des Re“\nRückseite\nDaressy 1911: 188–189; Z. 47–52; Dils 2024a"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE41677.html#maße",
+    "href": "objekte/Heilstatue__kairoJE41677.html#maße",
+    "title": "Objektblatt: Kairo, JE 41677",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n15.2\n10.5\n10\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE41677.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__kairoJE41677.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Kairo, JE 41677",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__parisLouvreE10777.html",
+    "href": "objekte/Heilstatue__parisLouvreE10777.html",
+    "title": "Objektblatt: Paris, Louvre, E 10777",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__parisLouvreE10777.html#objektangaben",
+    "href": "objekte/Heilstatue__parisLouvreE10777.html#objektangaben",
+    "title": "Objektblatt: Paris, Louvre, E 10777",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Louvre, Paris\nInventarnummer: E 10777\nMaterial: Grauwacke / schwarzer Basalt\nHerkunft: unbekannt\nProvenienz: 1898: Versteigerung im Hôtel Drouot, Paris und Ankauf Louvre; 1897: in Ägypten gefunden und nach Rom gebracht durch den Grafen Michel Tyszkiewicz; vor 1897: unbekannt\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: unterster Teil des Rückenpfeilers und Teil der Füße bis zu den Knöcheln modern; ansonsten vollständig erhalten; auf linker Seite: drei Viertel der Inschrift unter dem Mantel restauriert (nur Teil direkt unterhalb des Mantels ist antik; leichte Absplitterung an der Nase)"
+  },
+  {
+    "objectID": "objekte/Heilstatue__parisLouvreE10777.html#figuren",
+    "href": "objekte/Heilstatue__parisLouvreE10777.html#figuren",
+    "title": "Objektblatt: Paris, Louvre, E 10777",
+    "section": "Figuren",
+    "text": "Figuren\n106 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:parisLouvreE10777:484\nVorderseite\n1\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:485\nVorderseite\n1\n2\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:486\nVorderseite\n1\n3\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:487\nVorderseite\n1\n4\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:488\nVorderseite\n1\n5\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:489\nVorderseite\n1\n6\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:490\nVorderseite\n1\n7\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:491\nVorderseite\n1\n8\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:492\nVorderseite\n1\n9\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:parisLouvreE10777:493\nVorderseite\n2\n1\nMꜣḥs\nAdoration vor Gottheiten aus Leontopolis\n\n\n—\nheilstatue:parisLouvreE10777:494\nVorderseite\n2\n2\nBꜣs.tt\nAdoration vor Gottheiten aus Leontopolis\n\n\n—\nheilstatue:parisLouvreE10777:495\nVorderseite\n1\n1\nMꜣꜥ.t\nBanebdjedet mit Maat\n\n\n—\nheilstatue:parisLouvreE10777:496\nVorderseite\n1\n2\nBꜣ\nBanebdjedet mit Maat\n\n\n—\nheilstatue:parisLouvreE10777:497\nVorderseite\n2\n1\nNw.t\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:498\nVorderseite\n2\n2\nNwn\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:499\nVorderseite\n2\n3\n—\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:500\nVorderseite\n2\n4\n—\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:501\nVorderseite\n3\n1\n—\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:502\nVorderseite\n3\n2\n—\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:503\nVorderseite\n3\n3\n—\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:504\nVorderseite\n3\n4\n—\nAchtheit\n\n\n—\nheilstatue:parisLouvreE10777:505\nVorderseite\n4\n1\nNfr-tm\nNefertem\n\n\n—\nheilstatue:parisLouvreE10777:506\nVorderseite\n5\n1\nḤw\nChu\n\n\n—\nheilstatue:parisLouvreE10777:507\nVorderseite\n5\n2\nSjꜣ\nSia\n\n\n—\nheilstatue:parisLouvreE10777:508\nVorderseite\n5\n3\nPtḥ\nPtah\n\n\n—\nheilstatue:parisLouvreE10777:509\nVorderseite\n5\n4\nGbb\nGeb\n\n\n\nheilstatue:parisLouvreE10777:510\nRückenpfeiler\n1\n1\nꜢs.t\nIsis von Achbit\n\n\n\nheilstatue:parisLouvreE10777:511\nRückenpfeiler\n2\n1\nNḫb.t\nNechbet\n\n\n\nheilstatue:parisLouvreE10777:512\nRückenpfeiler\n2\n2\nSbk.t\nSobeket\n\n\n\nheilstatue:parisLouvreE10777:513\nRückenpfeiler\n2\n3\nSrq.t\nSelket\n\n\n\nheilstatue:parisLouvreE10777:514\nRückenpfeiler\n3\n1\nSrq.t\nskorpionköpfige Selket\n\n\n\nheilstatue:parisLouvreE10777:515\nRückenpfeiler\n3\n2\nMnw\nMin\n\n\n\nheilstatue:parisLouvreE10777:516\nRückenpfeiler\n3\n3\nḤr.t\nHeret\n\n\n\nheilstatue:parisLouvreE10777:517\nRückenpfeiler\n4\n1\nꜢs.t\nIsis, die Krokodil säugt\n\n\n\nheilstatue:parisLouvreE10777:518\nRückenpfeiler\n4\n2\nSḫm.t\nSachmet als Nilpferd\n\n\n\nheilstatue:parisLouvreE10777:519\nRückenpfeiler\n4\n3\nkꜣ wr\nKa-wer\n\n\n\nheilstatue:parisLouvreE10777:520\nRückenpfeiler\n5\n1\nMnṯ.w\nMonth, der Herr von Theben\n\n\n\nheilstatue:parisLouvreE10777:521\nRückenpfeiler\n5\n2\nŠw\nSchu, der Schlange aufspießt\n\n\n\nheilstatue:parisLouvreE10777:522\nRückenpfeiler\n5\n3\nSrq.t\nSelket auf gewundener Schlange\n\n\n\nheilstatue:parisLouvreE10777:523\nRückenpfeiler\n6\n1\nḤr.w\nHorus, der Große, der Herr der beiden Messer\n\n\n\nheilstatue:parisLouvreE10777:524\nRückenpfeiler\n6\n2\nSrp.t-mꜣj-sr; Jtm\nBox\n\n\n\nheilstatue:parisLouvreE10777:525\nRückenpfeiler\n7\n1\nWr.t-ḥkꜣ.w\nWeret-hekau auf Krokodil\n\n\n\nheilstatue:parisLouvreE10777:526\nRückenpfeiler\n7\n2\nJh.t\nIhet-weret\n\n\n\nheilstatue:parisLouvreE10777:527\nRückenpfeiler\n8\n1\nSḫm.t\nSachmet, die Große, die von Ptah geliebt wird\n\n\n\nheilstatue:parisLouvreE10777:528\nRückenpfeiler\n8\n2\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n\nheilstatue:parisLouvreE10777:529\nRückenpfeiler\n8\n3\n—\nNilpferd mit zwei Köpfen\n\n\n\nheilstatue:parisLouvreE10777:530\nRückenpfeiler\n9\n1\nSbk\nSobek mit Maat-Feder\n\n\n\nheilstatue:parisLouvreE10777:531\nRückenpfeiler\n9\n2\nSrq.t\nSelket\n\n\n\nheilstatue:parisLouvreE10777:532\nRückenpfeiler\n9\n3\nNfr-tm\nNefertem, der herauskommt aus Memphis\n\n\n\nheilstatue:parisLouvreE10777:533\nRückenpfeiler\n10\n1\nḤr.w\nFalke auf Podest\n\n\n\nheilstatue:parisLouvreE10777:534\nRückenpfeiler\n10\n2\nḪns.w\npantheistischer Chons\n\n\n\nheilstatue:parisLouvreE10777:535\nRückenpfeiler\n10\n3\nH̱nm.w\nmumienförmiger Chnum mit Feder\n\n\n\nheilstatue:parisLouvreE10777:536\nRückenpfeiler\n11\n1\nḤr.j-š⸗f\nmumienförmiger Herischef\n\n\n\nheilstatue:parisLouvreE10777:537\nRückenpfeiler\n11\n2\nḤr.w\nFalke auf Pylonen\n\n\n\nheilstatue:parisLouvreE10777:538\nRückenpfeiler\n11\n3\n—\nNilpferd mit Falke\n\n\n\nheilstatue:parisLouvreE10777:539\nRückenpfeiler\n12\n1\nMw.t\nMut\n\n\n\nheilstatue:parisLouvreE10777:540\nRückenpfeiler\n12\n2\nḤr.w\nZwei Krokodile in Kapelle\n\n\n\nheilstatue:parisLouvreE10777:541\nRückenpfeiler\n13\n1\nJmn-rn⸗f\nZwei Krokodile in Kapelle\n\n\n\nheilstatue:parisLouvreE10777:542\nRückenpfeiler\n13\n2\nḪns.w\nChons auf Tor\n\n\n\nheilstatue:parisLouvreE10777:543\nRückenpfeiler\n14\n1.1000000000000001\nḤr.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n\nheilstatue:parisLouvreE10777:544\nRückenpfeiler\n14\n1.2\nMnṯ.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n\nheilstatue:parisLouvreE10777:545\nRückenpfeiler\n14\n3\n—\nPatäke in Sonnenscheibe auf gekreuzten Krokodilen\n\n\n—\nheilstatue:parisLouvreE10777:546\nRechte Seite\n1\n1\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:parisLouvreE10777:547\nRechte Seite\n2\n1\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:parisLouvreE10777:548\nRechte Seite\n2\n2\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:parisLouvreE10777:549\nRechte Seite\n3\n1\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:parisLouvreE10777:550\nRechte Seite\n3\n2\nḪns.w\nChons\n\n\n—\nheilstatue:parisLouvreE10777:551\nRechte Seite\n4\n1\nḤr.w\nHorus, Sohn des Osiris, gebohren von Isis, der Göttin\n\n\n—\nheilstatue:parisLouvreE10777:552\nRechte Seite\n4\n2\nNfr-tm\nNefertem als Lotos\n\n\n—\nheilstatue:parisLouvreE10777:553\nRechte Seite\n5\n1\nPtḥ-Skr-Wsjr\nPtah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen\n\n\n—\nheilstatue:parisLouvreE10777:554\nRechte Seite\n5\n2\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:parisLouvreE10777:555\nRechte Seite\n6\n1\nḪns.w\nChons in Theben\n\n\n—\nheilstatue:parisLouvreE10777:556\nRechte Seite\n6\n2\nḤr.w\nHorus, groß an Kraft\n\n\n—\nheilstatue:parisLouvreE10777:557\nRechte Seite\n7\n1\nPtḥ-Tꜣ-tnn\nPtah-Tatennen\n\n\n—\nheilstatue:parisLouvreE10777:558\nRechte Seite\n7\n2\nWr.t-ḥkꜣ.w\nWeret-hekau auf Schlange\n\n\n—\nheilstatue:parisLouvreE10777:559\nRechte Seite\n7\n3\nSrq.t\nSelket\n\n\n—\nheilstatue:parisLouvreE10777:560\nRechte Seite\n8\n1\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:parisLouvreE10777:561\nRechte Seite\n8\n2\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:parisLouvreE10777:562\nRechte Seite\n8\n3\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:563\nRechte Seite\n8\n4\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:564\nRechte Seite\n8\n5\nꜢs.t\nIsis und Horus\n\n\n—\nheilstatue:parisLouvreE10777:565\nRechte Seite\n1\n1\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:566\nRechte Seite\n2\n1\nH̱nm.w\nhockender Chnum mit Feder\n\n\n—\nheilstatue:parisLouvreE10777:567\nRechte Seite\n3\n1\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:568\nRechte Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:569\nRechte Seite\n5\n1\n—\nhockender Sobek mit Messer\n\n\n—\nheilstatue:parisLouvreE10777:570\nRechte Seite\n6\n1\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:571\nRechte Seite\n7\n1\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:572\nRechte Seite\n8\n1\nH̱nm.w\nhockender Chnum mit Feder\n\n\n—\nheilstatue:parisLouvreE10777:573\nRechte Seite\n1\n1\nḤkꜣ\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:parisLouvreE10777:574\nRechte Seite\n2\n1\nḤr.w\nFalke auf Nilpferd\n\n\n—\nheilstatue:parisLouvreE10777:575\nRechte Seite\n2\n2\nSbk\nhockender Sobek mit Schlange\n\n\n—\nheilstatue:parisLouvreE10777:576\nRechte Seite\n3\n1\nḎḥw.tj\nThoth auf Stier\n\n\n—\nheilstatue:parisLouvreE10777:577\nRechte Seite\n3\n2\n—\nskarabäusköpfige Kobra\n\n\n—\nheilstatue:parisLouvreE10777:578\nRechte Seite\n4\n1\nSḫm.t\nliegender Löwe auf Podest\n\n\n—\nheilstatue:parisLouvreE10777:579\nRechte Seite\n4\n2\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:580\nRechte Seite\n5\n1\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:581\nRechte Seite\n5\n2\n—\n—\n\n\n—\nheilstatue:parisLouvreE10777:582\nRechte Seite\n6\n1\nḤr.w\nHorus und Thot spießen Schlange auf Krokodil\n\n\n—\nheilstatue:parisLouvreE10777:583\nRechte Seite\n6\n2\nḎḥw.tj\nHorus und Thot spießen Schlange auf Krokodil\n\n\n—\nheilstatue:parisLouvreE10777:584\nRechte Seite\n6\n3\nNj.t\nNeith zwei Krokodile säugend\n\n\n—\nheilstatue:parisLouvreE10777:585\nRechte Seite\n7\n1\nḤr.w\nHorus auf Krokodil\n\n\n—\nheilstatue:parisLouvreE10777:586\nRechte Seite\n7\n2\nRw.tj\nRuti\n\n\n—\nheilstatue:parisLouvreE10777:587\nRechte Seite\n7\n3\nḤr.w\nTriumphierender Re-Osiris\n\n\n—\nheilstatue:parisLouvreE10777:588\nRechte Seite\n7\n4\nḤr.w\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:parisLouvreE10777:589\nRechte Seite\n7\n5\nSrq.t\nGöttin mit Skorpionkörper"
+  },
+  {
+    "objectID": "objekte/Heilstatue__parisLouvreE10777.html#texte",
+    "href": "objekte/Heilstatue__parisLouvreE10777.html#texte",
+    "title": "Objektblatt: Paris, Louvre, E 10777",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\n„Anbetung des Sonnengottes“\nRechte Seite\nPanov 2019: 37, 49–50\n\n\n„Bring den Kopf des Horus“\nLinke Seite\nPanov 2019: 38–39, 55\n\n\n„Das Auge des Horus“\nPerücke\nPanov 2019: 41, 64\n\n\n„Dein Stock tötet Anubis“\nPerücke\nPanov 2019: 41, 63– 64\n\n\n„Stärkung des Herzens eines von Gift Befallenen“\nVorderseite\nPanov 2019: 32, 43\n\n\n„Der Fayence-Zwerg“\nRechte Seite\nPanov 2019: 37, 51\n\n\n„Der Herrscher wurde gebissen“\nLinke Seite\nPanov 2019: 38–39, 54\n\n\n„Der Nagel des Atum“\nLinke Seite\nPanov 2019: 38–39, 53\n\n\n„Die Elle des Heh“\nLinke Seite\nPanov 2019: 38–39, 52\n\n\n„Die Flamme zum Himmel“\nPerücke\nPanov 2019: 41, 61\n\n\nTitel, etc.\nVorderseite\nPanov 2019: 32, 42\n\n\n„Die Hand des Atum“ (I)\nRechte Seite\nPanov 2019: 34–35, 44–46\n\n\n„Die Hand des Atum“ (II)\nRechte Seite\nPanov 2019: 34–35, 46\n\n\n„Euer Gift“\nPerücke\nPanov 2019: 41, 62\n\n\nText B, P-R-Version\nVorderseite\nPanov 2019: 36–37, 47–49\n\n\n„Osiris und Anat“\nRechte Seite\nPanov 2019: 37, 50\n\n\nAuszüge\nLinke Seite\nPanov 2019: 40, 60\n\n\nChnum’s Ansprache\nLinke Seite\nPanov 2019: 40, 59\n\n\nSpruch gegen Schlangen\nLinke Seite\nPanov 2019: 38–39, 54\n\n\nSpruch zum Schutz einer gebissenen Katze\nLinke Seite\nPanov 2019: 40, 59\n\n\nText B, P-L-Version\nLinke Seite\nPanov 2019: 36, 40, 56–58\n\n\nText B, P-L-Version\nLinke Seite\nPanov 2019: 36, 40, 56–58\n\n\nText B, P-L-Version\nLinke Seite\nPanov 2019: 36, 40, 56–58\n\n\nText B, P-R-Version\nRechte Seite\nPanov 2019: 36–37, 47–49\n\n\nText B, P-R-Version\nRechte Seite\nPanov 2019: 36–37, 47–49\n\n\nText B, P-R-Version (Ausschnitt)\nRechte Seite\nPanov 2019: 37, 50– 51"
+  },
+  {
+    "objectID": "objekte/Heilstatue__parisLouvreE10777.html#maße",
+    "href": "objekte/Heilstatue__parisLouvreE10777.html#maße",
+    "title": "Objektblatt: Paris, Louvre, E 10777",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n67.7\n19.5\n24\n—\n\n\n67.7\n19.5\n24\n—\n\n\n67.7\n19.5\n24\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__parisLouvreE10777.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__parisLouvreE10777.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Paris, Louvre, E 10777",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__londonCass1278.html",
+    "href": "objekte/Heilstatue__londonCass1278.html",
+    "title": "Objektblatt: London, Sammlung Cassirer",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__londonCass1278.html#objektangaben",
+    "href": "objekte/Heilstatue__londonCass1278.html#objektangaben",
+    "title": "Objektblatt: London, Sammlung Cassirer",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: unbekannt\nInventarnummer: unbekannte Inv.-Nr. (CLES-Archiv-Nr.: 1278)\nMaterial: Granit (?)\nHerkunft: unbekannt\nProvenienz: London, vllt. aus der Sammung von Manfred Cassirer; versteigert bei Sotheby’s Auktion am 3. Dezember 1956, Lot-Nr. 205; Ausgeliehen an Adolf Klasens am 12. November 1958\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: fragmentarisch erhalten (Oberkörper schräg nach hinten gebrochen); nur Mittelteil des Oberkörpers erhalten mit größtem Teil der Horusstele: nach hinten hin quer abgebrochen (nur noch 3 Register des Rückenpfeilers erhalten); Horusstele zu drei viertel erhalten, schräg abgebrochen und am oberen Ende abgebrochen"
+  },
+  {
+    "objectID": "objekte/Heilstatue__londonCass1278.html#figuren",
+    "href": "objekte/Heilstatue__londonCass1278.html#figuren",
+    "title": "Objektblatt: London, Sammlung Cassirer",
+    "section": "Figuren",
+    "text": "Figuren\n53 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:londonCass1278:209\nVorderseite\n1\n1\nḤr.w\nHorus mit Doppelkrone\n\n\n—\nheilstatue:londonCass1278:210\nVorderseite\n1\n1\n—\n—\n\n\n\nheilstatue:londonCass1278:211\nRückenpfeiler\nx+1\n1\nꜢs.t\nIsis, die Krokodil säugt\n\n\n\nheilstatue:londonCass1278:212\nRückenpfeiler\nx+1\n2\nMnṯ.w\nMonth, der Herr von Theben\n\n\n\nheilstatue:londonCass1278:213\nRückenpfeiler\nx+2\n1\nSrp.t-mꜣj-sr; Jtm\nBox\n\n\n\nheilstatue:londonCass1278:213,1\nRückenpfeiler\nx+2\n2\n—\n—\n\n\n\nheilstatue:londonCass1278:214\nRückenpfeiler\nx+3\n1\nJh.t\nIhet-weret\n\n\n\nheilstatue:londonCass1278:215\nRückenpfeiler\nx+3\n2\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n—\nheilstatue:londonCass1278:216\nRechte Seite\nx+1\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:londonCass1278:217\nRechte Seite\nx+2\n2\n—\n—\n\n\n—\nheilstatue:londonCass1278:218\nRechte Seite\nx+1\n3\n—\n—\n\n\n—\nheilstatue:londonCass1278:219\nRechte Seite\nx+1\n4\n—\n—\n\n\n—\nheilstatue:londonCass1278:220\nRechte Seite\nx+2\n1\nḤr.w\nFalke auf Antilope\n\n\n—\nheilstatue:londonCass1278:221\nRechte Seite\nx+2\n2\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n—\nheilstatue:londonCass1278:222\nRechte Seite\nx+2\n3\n—\n—\n\n\n—\nheilstatue:londonCass1278:223\nRechte Seite\nx+2\n4\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:londonCass1278:224\nRechte Seite\nx+2\n5\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:londonCass1278:225\nRechte Seite\nx+3\n1\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:londonCass1278:226\nRechte Seite\nx+3\n2\nNj.t\nNeith zwei Krokodile säugend\n\n\n—\nheilstatue:londonCass1278:227\nRechte Seite\nx+3\n3\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:londonCass1278:228\nRechte Seite\nx+3\n4\nNfr-tm\nNefertem als Lotos\n\n\n—\nheilstatue:londonCass1278:229\nRechte Seite\nx+3\n5\nḪns.w\nChons\n\n\n—\nheilstatue:londonCass1278:230\nRechte Seite\nx+3\n6\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:londonCass1278:231\nRechte Seite\nx+4\n1\nPtḥ-Skr-Wsjr\nPtah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen\n\n\n—\nheilstatue:londonCass1278:232\nRechte Seite\nx+4\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:233\nRechte Seite\nx+4\n3\nḤr.w\nHorus mit Doppelkrone\n\n\n—\nheilstatue:londonCass1278:234\nRechte Seite\nx+4\n4\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:londonCass1278:235\nRechte Seite\nx+4\n5\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:londonCass1278:236\nRechte Seite\nx+5\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:237\nRechte Seite\nx+5\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:238\nRechte Seite\nx+5\n3\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:239\nRechte Seite\nx+5\n4\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:240\nRechte Seite\nx+5\n5\nH̱nm.w\nmumienförmiger Chnum mit Feder\n\n\n—\nheilstatue:londonCass1278:241\nLinke Seite\n1\n1\nzerstört\nAdoration; ???-Götter\n\n\n—\nheilstatue:londonCass1278:242\nLinke Seite\n2\n1\nḤr.w\nHarpokrates, der Verborgene\n\n\n—\nheilstatue:londonCass1278:243\nLinke Seite\n2\n2\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:londonCass1278:244\nLinke Seite\n2\n3\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:londonCass1278:245\nLinke Seite\n2\n4\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:246\nLinke Seite\n3\n1\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:londonCass1278:247\nLinke Seite\n3\n2\nḎḥw.tj\nThoth auf Stier\n\n\n—\nheilstatue:londonCass1278:248\nLinke Seite\n3\n3\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:londonCass1278:249\nLinke Seite\n3\n4\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:londonCass1278:250\nLinke Seite\n3\n5\n—\n—\n\n\n—\nheilstatue:londonCass1278:251\nLinke Seite\n4\n1\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:londonCass1278:252\nLinke Seite\n4\n2\nSḫm.t\nPavian und Kobra\n\n\n—\nheilstatue:londonCass1278:253\nLinke Seite\n4\n3\nSbk\nhockender Sobek mit Schlange\n\n\n—\nheilstatue:londonCass1278:254\nLinke Seite\n4\n4\nḤw.t-Ḥr.w\nHathor, Herrin der Sykomore\n\n\n—\nheilstatue:londonCass1278:255\nLinke Seite\n4\n5\nPtḥ\nPtah, der Große, groß an Stärke\n\n\n—\nheilstatue:londonCass1278:256\nLinke Seite\n5\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:257\nLinke Seite\n5\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:londonCass1278:258\nLinke Seite\n5\n3\n—\n2 Katzen neben Sistrum\n\n\n—\nheilstatue:londonCass1278:259\nLinke Seite\n5\n4\n—\n—\n\n\n—\nheilstatue:londonCass1278:260\nLinke Seite\n5\n5\nSḫm.t\nliegender Löwe auf Podest"
+  },
+  {
+    "objectID": "objekte/Heilstatue__londonCass1278.html#texte",
+    "href": "objekte/Heilstatue__londonCass1278.html#texte",
+    "title": "Objektblatt: London, Sammlung Cassirer",
+    "section": "Texte",
+    "text": "Texte\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nTitel, etc. (?)\nOberseite\nunpubliziert\n\n\nSpruch?\nOberseite\nunpubliziert\n\n\nText A\nLinke Seite\nunpubliziert\n\n\nText A\nLinke Seite\nunpubliziert\n\n\n„Die Elle des Heh“\nLinke Seite\nunpubliziert\n\n\nTitel, etc. (?)\nLinke Seite\nunpubliziert\n\n\nSpruch\nLinke Seite\nunpubliziert\n\n\nText B, P-L-Version\nRechte Seite\nunpubliziert\n\n\nText B, P-L-Version\nRechte Seite\nunpubliziert\n\n\nTitel, etc. (?)\nRechte Seite\nunpubliziert\n\n\nSpruch (?)\nRechte Seite\nunpubliziert"
+  },
+  {
+    "objectID": "objekte/Heilstatue__londonCass1278.html#maße",
+    "href": "objekte/Heilstatue__londonCass1278.html#maße",
+    "title": "Objektblatt: London, Sammlung Cassirer",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n20\n12.5\n20.5\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__londonCass1278.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__londonCass1278.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: London, Sammlung Cassirer",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "datenschutz.html",
+    "href": "datenschutz.html",
+    "title": "Datenschutzerklärung",
+    "section": "",
+    "text": "Stand: 7. November 2026 — vor Veröffentlichung anhand der tatsächlich eingesetzten Dienste zu überprüfen."
+  },
+  {
+    "objectID": "datenschutz.html#verantwortliche-stelle",
+    "href": "datenschutz.html#verantwortliche-stelle",
+    "title": "Datenschutzerklärung",
+    "section": "1. Verantwortliche Stelle",
+    "text": "1. Verantwortliche Stelle\nVerantwortlich für dieses Websiteangebot im Sinne der Datenschutz-Grundverordnung (DSGVO):\n[Vollständiger Vor- und Nachname bzw. rechtlich verantwortliche Einrichtung]\n[Straße und Hausnummer]\n[Postleitzahl und Ort]\nDeutschland\nE-Mail: [Kontakt-E-Mail-Adresse]\n[Kontaktdaten einer oder eines Datenschutzbeauftragten ergänzen, sofern bestellt bzw. gesetzlich erforderlich.]"
+  },
+  {
+    "objectID": "datenschutz.html#hosting-über-github-pages",
+    "href": "datenschutz.html#hosting-über-github-pages",
+    "title": "Datenschutzerklärung",
+    "section": "2. Hosting über GitHub Pages",
+    "text": "2. Hosting über GitHub Pages\nDie Website wird über GitHub Pages, einen Dienst von GitHub, bereitgestellt. Beim Abruf der Website werden technisch erforderliche Verbindungen zu Servern des Hostingdienstes hergestellt. Dabei werden insbesondere die IP-Adresse des zugreifenden Geräts und technische Anfragedaten verarbeitet. Nach den Informationen von GitHub zu GitHub Pages werden IP-Adressen von Besucherinnen und Besuchern zu Sicherheitszwecken protokolliert, unabhängig davon, ob eine Anmeldung bei GitHub besteht.\nDie Verarbeitung dient der Bereitstellung, Funktionsfähigkeit und Sicherheit der Website. Soweit wir für diese Verarbeitung verantwortlich sind, beruht sie auf unserem berechtigten Interesse an einem sicheren und erreichbaren wissenschaftlichen Informationsangebot (Art. 6 Abs. 1 lit. f DSGVO). Für eigene Verarbeitungen von GitHub gelten zusätzlich die Datenschutzhinweise von GitHub.\nGitHub kann personenbezogene Daten auch außerhalb des Europäischen Wirtschaftsraums verarbeiten, insbesondere in den USA. Informationen zu Empfängern, Übermittlungen, einschlägigen Garantien und Speicherfristen sind den aktuellen Datenschutzinformationen des Anbieters zu entnehmen. Vor Veröffentlichung ist zu prüfen, ob der konkret gewählte GitHub-Dienst und die Vertragsgestaltung zusätzliche Angaben, Vereinbarungen oder Maßnahmen erforderlich machen. Eine eigene feste Löschfrist für GitHubs Sicherheitsprotokolle wird hier nicht behauptet."
+  },
+  {
+    "objectID": "datenschutz.html#wissenschaftlicher-katalog-und-interaktive-anwendung",
+    "href": "datenschutz.html#wissenschaftlicher-katalog-und-interaktive-anwendung",
+    "title": "Datenschutzerklärung",
+    "section": "3. Wissenschaftlicher Katalog und interaktive Anwendung",
+    "text": "3. Wissenschaftlicher Katalog und interaktive Anwendung\nDas Angebot stellt Forschungsdaten zu archäologischen Objekten, ikonographische Beschreibungen und selbst erstellte SVG-Zeichnungen bereit. Eine Registrierung oder ein persönliches Nutzerkonto für den Katalog ist nach dem derzeitigen Konzept nicht vorgesehen.\nDie geplante interaktive Anwendung verwendet Shinylive/webR, damit Such-, Filter- und Vergleichsfunktionen überwiegend direkt im Browser ausgeführt werden können. Bei einer entsprechend konfigurierten rein statischen Anwendung werden Eingaben in die Such- und Vergleichsoberfläche nicht an einen eigens betriebenen Shiny-Server übertragen.\nFür das Laden der Anwendung, ihrer Daten, SVG-Dateien, JavaScript-Dateien oder R-/WebAssembly-Komponenten sind jedoch Netzwerkanfragen erforderlich. Werden hierfür externe Quellen oder Content-Delivery-Netzwerke genutzt, erhalten diese die für die Anfrage technisch notwendigen Verbindungsdaten. Die tatsächlich geladenen Domains und die Verarbeitung bei externen Diensten werden vor Veröffentlichung geprüft und an dieser Stelle, soweit erforderlich, konkret beschrieben.\nEin dauerhafter eigener Speicher für individuelle Suchanfragen ist derzeit nicht geplant. Eine abweichende technische Umsetzung (etwa Nutzerkonten, geteilte Suchstände oder eine serverseitige Shiny-Version) erfordert eine Aktualisierung dieser Erklärung."
+  },
+  {
+    "objectID": "datenschutz.html#cookies-und-speicherung-im-endgerät",
+    "href": "datenschutz.html#cookies-und-speicherung-im-endgerät",
+    "title": "Datenschutzerklärung",
+    "section": "4. Cookies und Speicherung im Endgerät",
+    "text": "4. Cookies und Speicherung im Endgerät\nNach dem vorgesehenen Konzept werden keine eigenen Werbe- oder Reichweiten-Tracker eingesetzt. Ob und welche Cookies, lokalen Speichermechanismen oder vergleichbaren Technologien tatsächlich eingesetzt werden, ist anhand der veröffentlichten Quarto-/Shinylive-Seite und ihrer eingebundenen Ressourcen zu überprüfen.\nFür das Speichern von Informationen auf einem Endgerät oder den Zugriff darauf gilt § 25 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG). Soweit eine technisch nicht unbedingt erforderliche Speicherung oder ein entsprechender Zugriff stattfindet, ist grundsätzlich eine Einwilligung erforderlich. Für unbedingt erforderliche Vorgänge können die gesetzlichen Ausnahmen gelten; eine etwaige Verarbeitung personenbezogener Daten richtet sich zusätzlich nach der DSGVO.\n[Vor Freischaltung: Verwendete Cookies, localStorage, externe Schriftarten, Analysedienste und sonstige Drittanbieter prüfen; diesen Abschnitt bei Bedarf konkretisieren und etwaige Einwilligungsmechanismen implementieren.]"
+  },
+  {
+    "objectID": "datenschutz.html#externe-links-und-quellen",
+    "href": "datenschutz.html#externe-links-und-quellen",
+    "title": "Datenschutzerklärung",
+    "section": "5. Externe Links und Quellen",
+    "text": "5. Externe Links und Quellen\nDie Datenbank enthält Verweise auf Museumsdatenbanken, Sammlungen und wissenschaftliche Literatur. Bei einem bloßen externen Link wird die Zielseite nicht bereits dadurch aufgerufen, dass Sie unsere Seite besuchen. Erst wenn Sie dem Link folgen, verarbeitet der jeweilige Zielanbieter Daten nach seinen eigenen Datenschutzbestimmungen.\nNach dem derzeitigen Konzept werden keine fotografischen Museumsvorlagen oder Buchscans unmittelbar von externen Seiten eingebettet. Falls später externe Bild-, Karten-, Video- oder Schriftendienste eingebunden werden, muss diese Datenschutzerklärung entsprechend ergänzt werden."
+  },
+  {
+    "objectID": "datenschutz.html#kontaktaufnahme-per-e-mail",
+    "href": "datenschutz.html#kontaktaufnahme-per-e-mail",
+    "title": "Datenschutzerklärung",
+    "section": "6. Kontaktaufnahme per E-Mail",
+    "text": "6. Kontaktaufnahme per E-Mail\nWenn Sie per E-Mail Kontakt aufnehmen, verarbeiten wir die mit Ihrer Nachricht übermittelten personenbezogenen Daten, insbesondere Ihre E-Mail-Adresse und den Nachrichteninhalt, um Ihre Anfrage zu bearbeiten und zu beantworten.\nRechtsgrundlage ist regelmäßig Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Kommunikation und Bearbeitung von Anfragen); bei vorvertraglichen oder vertraglichen Anliegen kann Art. 6 Abs. 1 lit. b DSGVO einschlägig sein. Die Angaben werden gelöscht, wenn sie für diese Zwecke nicht mehr erforderlich sind, sofern keine gesetzlichen Aufbewahrungspflichten oder andere rechtlich zulässige Gründe entgegenstehen."
+  },
+  {
+    "objectID": "datenschutz.html#empfänger-und-speicherdauer",
+    "href": "datenschutz.html#empfänger-und-speicherdauer",
+    "title": "Datenschutzerklärung",
+    "section": "7. Empfänger und Speicherdauer",
+    "text": "7. Empfänger und Speicherdauer\nEmpfänger personenbezogener Verbindungsdaten können die zur Bereitstellung der Website eingesetzten Hosting- und Infrastrukturunternehmen sein; Angaben hierzu stehen insbesondere in Abschnitt 2. Bei E-Mail-Anfragen werden die hierfür eingesetzten E-Mail-Dienste einbezogen.\nDie jeweilige Speicherdauer richtet sich nach dem Verarbeitungszweck, gesetzlichen Pflichten sowie – bei eigenverantwortlicher Verarbeitung durch Dritte – den Bedingungen der jeweiligen Anbieter. Für die eigene Korrespondenz gelten die in Abschnitt 6 genannten Kriterien."
+  },
+  {
+    "objectID": "datenschutz.html#ihre-rechte",
+    "href": "datenschutz.html#ihre-rechte",
+    "title": "Datenschutzerklärung",
+    "section": "8. Ihre Rechte",
+    "text": "8. Ihre Rechte\nNach Maßgabe der gesetzlichen Voraussetzungen bestehen insbesondere die Rechte auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16 DSGVO), Löschung (Art. 17 DSGVO), Einschränkung der Verarbeitung (Art. 18 DSGVO) und Datenübertragbarkeit (Art. 20 DSGVO). Bei Vorliegen der gesetzlichen Voraussetzungen können Sie einer Verarbeitung aufgrund berechtigter Interessen widersprechen (Art. 21 DSGVO).\nSoweit eine Verarbeitung auf einer Einwilligung beruht, kann diese jederzeit mit Wirkung für die Zukunft widerrufen werden (Art. 7 Abs. 3 DSGVO).\nDarüber hinaus besteht ein Beschwerderecht bei einer zuständigen Datenschutzaufsichtsbehörde (Art. 77 DSGVO). Zur Wahrnehmung Ihrer Rechte können Sie sich an die in Abschnitt 1 genannte verantwortliche Stelle wenden."
+  },
+  {
+    "objectID": "datenschutz.html#änderungen-dieser-erklärung",
+    "href": "datenschutz.html#änderungen-dieser-erklärung",
+    "title": "Datenschutzerklärung",
+    "section": "9. Änderungen dieser Erklärung",
+    "text": "9. Änderungen dieser Erklärung\nDie Datenschutzerklärung wird angepasst, wenn sich das Hosting, die eingebundenen externen Dienste, die Funktionen der Datenbank oder die tatsächliche Verarbeitung personenbezogener Daten ändern."
+  },
+  {
+    "objectID": "vergleiche.html",
+    "href": "vergleiche.html",
+    "title": "Ikonographische Vergleiche",
+    "section": "",
+    "text": "In der Datenbank stehen der Reiter Figurenvergleich für die direkte Gegenüberstellung ausgewählter Darstellungen und die Reiter Vorkommensmatrix und Datenqualität für statistische Übersichten zur Verfügung.\n\n\n\n\nVergleichsoberfläche als Vollbild öffnen."
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE46341.html",
+    "href": "objekte/Heilstatue__kairoJE46341.html",
+    "title": "Objektblatt: Kairo, JE 46341",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE46341.html#objektangaben",
+    "href": "objekte/Heilstatue__kairoJE46341.html#objektangaben",
+    "title": "Objektblatt: Kairo, JE 46341",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Würfelhocker mit Horusstele\nStandort: Ägyptisches Museum, Kairo\nInventarnummer: JE 46341\nMaterial: dunkler Granodiorit / Granit\nHerkunft: Athribis, Tempelbezirk\nProvenienz: gefunden 1918 (Basisfragment 1919)\nDatierung: ca. 323 v. u. Z. (Kartusche Philippos Arrhidaios)\nErhaltungszustand: vollständig erhalten; Absplitterungen an den Außenseiten des Sockels der Statue; oberflächliche, kleinere Beschädigungen an der Basis an allen Seiten, bes. den Ecken; weiterhin ist Basis an der rechten und hinteren Seite gebrochen. Der Sockel ist zerbrochen und wurde wieder zusammengesetzt; er ist an der Unterseite nur fragmentarisch erhalten."
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE46341.html#figuren",
+    "href": "objekte/Heilstatue__kairoJE46341.html#figuren",
+    "title": "Objektblatt: Kairo, JE 46341",
+    "section": "Figuren",
+    "text": "Figuren\n62 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:kairoJE46341:68\nVorderseite\n1\n1\nḤr.w\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:kairoJE46341:69\nVorderseite\n2\n1\nḤkꜣ\nHeka\n\n\n—\nheilstatue:kairoJE46341:70\nVorderseite\n2\n2\nNw.t\nNut\n\n\n—\nheilstatue:kairoJE46341:71\nVorderseite\n3\n1\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:kairoJE46341:72\nVorderseite\n1\n1\nSḫm.t\nSachmet, die Große, die von Ptah geliebt wird\n\n\n—\nheilstatue:kairoJE46341:73\nVorderseite\n1\n2\nH̱nm.w\nChnum, der Tier aufspießt\n\n\n—\nheilstatue:kairoJE46341:74\nVorderseite\n2\n1\nSšꜣ.t\nSeschat\n\n\n—\nheilstatue:kairoJE46341:75\nVorderseite\n2\n2\nSrq.t\nskorpionköpfige Selket\n\n\n—\nheilstatue:kairoJE46341:76\nVorderseite\n3\n1\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:kairoJE46341:77\nRückenpfeiler\n1\n1\n—\nPantheistischer Gott\n\n\n—\nheilstatue:kairoJE46341:78\nRückenpfeiler\n1\n1\n—\nPantheistischer Gott\n\n\n—\nheilstatue:kairoJE46341:79\nRechte Seite\n1\n1\nḪnt.j-ẖ.tj\nChenticheti\n\n\n—\nheilstatue:kairoJE46341:80\nRechte Seite\n1\n2\nꜢs.t\nIsis\n\n\n—\nheilstatue:kairoJE46341:81\nRechte Seite\n1\n3\nḎḥw.tj\nIsis und Thot\n\n\n—\nheilstatue:kairoJE46341:82\nRechte Seite\n1\n4\n—\n7 Skorpione\n\n\n—\nheilstatue:kairoJE46341:83\nRechte Seite\n1\n5\n—\n—\n\n\n—\nheilstatue:kairoJE46341:84\nRechte Seite\n1\n6\n—\n—\n\n\n—\nheilstatue:kairoJE46341:85\nRechte Seite\n2\n1\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n—\nheilstatue:kairoJE46341:86\nRechte Seite\n2\n2\nḤw\nChu\n\n\n—\nheilstatue:kairoJE46341:87\nRechte Seite\n2\n3\nSjꜣ\nSia\n\n\n—\nheilstatue:kairoJE46341:88\nRechte Seite\n2\n4\nSbk\nhockender Sobek\n\n\n—\nheilstatue:kairoJE46341:89\nRechte Seite\n2\n5\nNw.t\nNut\n\n\n—\nheilstatue:kairoJE46341:90\nRechte Seite\n2\n6\nḤꜥpj\nHapi\n\n\n—\nheilstatue:kairoJE46341:91\nRechte Seite\n2\n7\nḎḥw.tj\nThoth\n\n\n—\nheilstatue:kairoJE46341:92\nRechte Seite\n2\n8\nMnw\nMin\n\n\n—\nheilstatue:kairoJE46341:93\nRechte Seite\n2\n9\n—\n—\n\n\n—\nheilstatue:kairoJE46341:94\nRechte Seite\n2\n10\nḤr.w\nFalke auf Antilope\n\n\n—\nheilstatue:kairoJE46341:95\nRechte Seite\n2\n11\nḤkꜣ\nHeka\n\n\n—\nheilstatue:kairoJE46341:96\nRechte Seite\n2\n12\nḤr.w\nHorus, Herr von Letopolis\n\n\n—\nheilstatue:kairoJE46341:97\nRechte Seite\n2\n13\nRꜥw-Ḥr.w-ꜣḫ.tj\nRe-Harachte\n\n\n—\nheilstatue:kairoJE46341:98\nRechte Seite\n2\n14\n—\n—\n\n\n—\nheilstatue:kairoJE46341:99\nRechte Seite\n3\n1\nSḫm.t\nSachmet, die Große, die von Ptah geliebt wird\n\n\n—\nheilstatue:kairoJE46341:100\nRechte Seite\n3\n2\nḤr.w\nHorus, sonstig\n\n\n—\nheilstatue:kairoJE46341:101\nRechte Seite\n3\n3\nJmn-Rꜥw\nAmun-Re\n\n\n—\nheilstatue:kairoJE46341:102\nRechte Seite\n3\n4\nSrq.t\nskorpionköpfige Selket\n\n\n—\nheilstatue:kairoJE46341:103\nRechte Seite\n3\n5\nH̱nm.w\nChnum, der Tier aufspießt\n\n\n—\nheilstatue:kairoJE46341:104\nRechte Seite\n3\n6\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:kairoJE46341:105\nRechte Seite\n3\n7\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:kairoJE46341:106\nRechte Seite\n3\n8\nḤr.w\nHorus, Herr von Letopolis\n\n\n—\nheilstatue:kairoJE46341:107\nRechte Seite\n3\n9\nWsjr\nOsiris\n\n\n—\nheilstatue:kairoJE46341:108\nLinke Seite\n1\n1\nḤr.w\nHarmerti\n\n\n—\nheilstatue:kairoJE46341:109\nLinke Seite\n1\n2\n—\n—\n\n\n—\nheilstatue:kairoJE46341:110\nLinke Seite\n1\n3\n—\n—\n\n\n—\nheilstatue:kairoJE46341:111\nLinke Seite\n1\n4\nNj.t\nNeith, Herrin von Sais\n\n\n—\nheilstatue:kairoJE46341:112\nLinke Seite\n1\n5\n—\n—\n\n\n—\nheilstatue:kairoJE46341:113\nLinke Seite\n1\n6\n—\nPatäke\n\n\n—\nheilstatue:kairoJE46341:114\nLinke Seite\n2\n1\nRꜥw-Ḥr.w-ꜣḫ.tj\nRe-Harachte\n\n\n—\nheilstatue:kairoJE46341:115\nLinke Seite\n2\n2\nḤr.w-Šw\n—\n\n\n—\nheilstatue:kairoJE46341:116\nLinke Seite\n2\n3\nŠw\nSchu\n\n\n—\nheilstatue:kairoJE46341:117\nLinke Seite\n2\n4\nJtm\n—\n\n\n—\nheilstatue:kairoJE46341:118\nLinke Seite\n2\n5\nḤr.w\nHarendotes, Sohn des Osiris\n\n\n—\nheilstatue:kairoJE46341:119\nLinke Seite\n2\n6\nWsjr\nOsiris\n\n\n—\nheilstatue:kairoJE46341:120\nLinke Seite\n3\n1\nꜢs.t\nIsis\n\n\n—\nheilstatue:kairoJE46341:121\nLinke Seite\n3\n2\nḎḥw.tj\nIsis und Thot\n\n\n—\nheilstatue:kairoJE46341:122\nLinke Seite\n3\n3\nSrq.t\nskorpionköpfige Selket\n\n\n—\nheilstatue:kairoJE46341:123\nLinke Seite\n3\n4\n—\n—\n\n\n—\nheilstatue:kairoJE46341:124\nLinke Seite\n3\n5\nMw.t\n—\n\n\n—\nheilstatue:kairoJE46341:125\nLinke Seite\n3\n6\n—\n—\n\n\n—\nheilstatue:kairoJE46341:126\nLinke Seite\n3\n7\nḪpr.j\nChepri\n\n\n—\nheilstatue:kairoJE46341:127\nLinke Seite\n3\n8\nḤr.w\nHarendotes, Sohn des Osiris\n\n\n—\nheilstatue:kairoJE46341:128\nLinke Seite\n3\n9\nJn-ḥr.t\nOnuris, der Schlange aufspießt\n\n\n—\nheilstatue:kairoJE46341:129\nLinke Seite\n3\n10\nꜥḫm-n-Rꜥw\nAchem-en-Re"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE46341.html#texte",
+    "href": "objekte/Heilstatue__kairoJE46341.html#texte",
+    "title": "Objektblatt: Kairo, JE 46341",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nTitel, etc.\nOber-/Vorderseite\nJelínková-Reymond 1956: 4–6, § 1: Z. 1–11\n\n\n„Die Hand des Atum“ (Anfang)\nOber-/Vorderseite\nJelínková-Reymond 1956: 7–11, § 2: Z. 12–20\n\n\n„Die Hand des Atum“ (Anfang)\nOber-/Vorderseite\nJelínková-Reymond 1956: 7–11, § 2: Z. 21–25\n\n\n„Die Elle des Heh“\nOber-/Vorderseite\nJelínková-Reymond 1956: 28–36, § 6: Z. 49–53\n\n\n„Die Elle des Heh“\nOber-/Vorderseite\nJelínková-Reymond 1956: 28–36, § 6: Z. 44–57\n\n\n„Anrufung des Re“\nOber-/Vorderseite\nJelínková-Reymond 1956: 25–27, § 5: Z. 35–48\n\n\n„Die Hand des Atum“ (fortgesetzt)\nRechte Seite\nJelínková-Reymond 1956: 7–21, § 2: Z. 26–30\n\n\n„Die Hand des Atum“ (fortgesetzt)\nRechte Seite\nJelínková-Reymond 1956: 7–21, § 2: Z. 31–34\n\n\nText B, P-L-Version (fortgesetzt)\nRechte Seite\nJelínková-Reymond 1956: 47–56, § 2: Z. 102\n\n\nText B, P-L-Version (fortgesetzt)\nRechte Seite\nJelínková-Reymond 1956: 47–56, § 2: Z. 103–113\n\n\n„Der Nagel des Atum“\nLinke Seite\nJelínková-Reymond 1956: 28–36, § 6: Z. 58–62\n\n\nSpruch gegen Schlangen\nLinke Seite\nJelínková-Reymond 1956: 28–36, § 6: Z. 62–64\n\n\n„Der Herrscher wurde gebissen“\nLinke Seite\nJelínková-Reymond 1956: 28–36, § 6: Z. 64–65\n\n\n„Bring den Kopf des Horus“\nLinke Seite\nJelínková-Reymond 1956: 28–36, § 6: Z. 65–66\n\n\nZweite Erzählung zum Thema der Legende von Re\nLinke Seite\nJelínková-Reymond 1956: 28–36, § 6: Z. 67–72\n\n\nText A (fortgesetzt I)\nLinke Seite\nJelínková-Reymond 1956: 56–62, § 3: Z. 116\n\n\nText A (fortgesetzt II)\nLinke Seite\nJelínková-Reymond 1956: 56–62, § 3: Z. 117–122\n\n\nTitel, etc.\nRückseite\nJelínková-Reymond 1956: 46–47, § 1: Z. 99\n\n\nText B, P-L-Version (Anfang)\nRückseite\nJelínková-Reymond 1956: 47–56, § 2: Z. 100–101\n\n\nText A (Anfang)\nRückseite\nJelínková-Reymond 1956: 56–62, § 3: Z. 114–115\n\n\n„Die Flamme zum Himmel“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 73–80\n\n\n„Oh der, der in seinem Sarg“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 80–84\n\n\n„Wenn das Gift zum Herzen des Gebissenen hinauffährt“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 84–86\n\n\n„Re ist in Wut“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 86–87\n\n\n„Wenn der See in Herakleopolis sich auftrennt“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 88–90\n\n\n„Der Zwerg, der sein Wasser schützt“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 90–91\n\n\n„Das böse Gift soll zurückweichen“\nPerücke\nJelínková-Reymond 1956: 38–45, § 8: Z. 91–98"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE46341.html#maße",
+    "href": "objekte/Heilstatue__kairoJE46341.html#maße",
+    "title": "Objektblatt: Kairo, JE 46341",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n78\n43\n25\nStatue mit Basis\n\n\n65\n—\n—\nHöhe der Statue\n\n\n38\n53\n93\nSockel"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE46341.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__kairoJE46341.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Kairo, JE 46341",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE87083.html",
+    "href": "objekte/Heilstatue__kairoJE87083.html",
+    "title": "Objektblatt: Kairo, JE 87083",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE87083.html#objektangaben",
+    "href": "objekte/Heilstatue__kairoJE87083.html#objektangaben",
+    "title": "Objektblatt: Kairo, JE 87083",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Würfelhocker mit Horusstele\nStandort: Ägyptisches Museum, Kairo\nInventarnummer: JE 87083\nMaterial: Basalt\nHerkunft: Bubastis\nProvenienz: 1934 Ausgrabungen von Labib Habachi\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: fragmentarisch erhalten; nur Teil der wahrscheinlich linken Seite erhalten (auf Basis der Blickrichtung der Gottheiten und der Hieroglyphen (nach links, d.~h. nach vorne)"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE87083.html#figuren",
+    "href": "objekte/Heilstatue__kairoJE87083.html#figuren",
+    "title": "Objektblatt: Kairo, JE 87083",
+    "section": "Figuren",
+    "text": "Figuren\n33 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:kairoJE87083:130\nLinke Seite\n1\n1\nzerstört\nHorus, der Große\n\n\n—\nheilstatue:kairoJE87083:131\nLinke Seite\n1\n2\nzerstört\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:kairoJE87083:132\nLinke Seite\n1\n3\nzerstört\nWadjet\n\n\n—\nheilstatue:kairoJE87083:133\nLinke Seite\n1\n4\n—\nNilpferd auf Ouroborus\n\n\n—\nheilstatue:kairoJE87083:134\nLinke Seite\n1\n5\nSbk\nSobek mit Was-Szepter\n\n\n—\nheilstatue:kairoJE87083:135\nLinke Seite\n1\n6\nSḫm.t\nSachmet in Schlange\n\n\n—\nheilstatue:kairoJE87083:136\nLinke Seite\n1–1,5\n1\nꜢs.t-Srq.t\nIsis-Selket\n\n\n—\nheilstatue:kairoJE87083:137\nLinke Seite\n1–1,5\n2\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:kairoJE87083:138\nLinke Seite\n1–1,5\n3\nḤr.w\nHorus-Behedeti\n\n\n—\nheilstatue:kairoJE87083:139\nLinke Seite\n2\n1\nzerstört\nMonth\n\n\n—\nheilstatue:kairoJE87083:140\nLinke Seite\n2\n2\nzerstört\nHarsiesis\n\n\n—\nheilstatue:kairoJE87083:141\nLinke Seite\n2\n3\nzerstört\nmumienförmiger Herischef\n\n\n—\nheilstatue:kairoJE87083:142\nLinke Seite\n2\n4\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:kairoJE87083:143\nLinke Seite\n2\n5\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:kairoJE87083:144\nLinke Seite\n2\n6\nJmn-rn⸗f\nZwei Krokodile übereinander, eines in Kapelle\n\n\n—\nheilstatue:kairoJE87083:145\nLinke Seite\n3\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:kairoJE87083:146\nLinke Seite\n3\n2\n—\n—\n\n\n—\nheilstatue:kairoJE87083:147\nLinke Seite\n3\n3\n—\n—\n\n\n—\nheilstatue:kairoJE87083:148\nLinke Seite\n3\n4\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:kairoJE87083:149\nLinke Seite\n3.1\n1\n—\nZwei Skorpione\n\n\n—\nheilstatue:kairoJE87083:150\nLinke Seite\n3.1\n2\nꜢs.t\nbittende Isis\n\n\n—\nheilstatue:kairoJE87083:151\nLinke Seite\n3.1\n3\nḤr.w\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:kairoJE87083:152\nLinke Seite\n3.1\n4\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:kairoJE87083:153\nLinke Seite\n3.1\n5\nSḫm.t\nPavian und Kobra\n\n\n—\nheilstatue:kairoJE87083:154\nLinke Seite\n3.2\n1\nH̱nm.w\nChnum als Widder\n\n\n—\nheilstatue:kairoJE87083:155\nLinke Seite\n3.2\n2.1\nḤr.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n—\nheilstatue:kairoJE87083:156\nLinke Seite\n3.2\n2.2000000000000002\nMnṯ.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n—\nheilstatue:kairoJE87083:157\nLinke Seite\n3.2\n2.2000000000000002\n—\nUdjat-Auge auf Podest\n\n\n—\nheilstatue:kairoJE87083:158\nLinke Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:kairoJE87083:159\nLinke Seite\n4\n2\n—\n—\n\n\n—\nheilstatue:kairoJE87083:160\nLinke Seite\n4\n3\nꜢs.t-Srq.t\nIsis-Selket\n\n\n—\nheilstatue:kairoJE87083:161\nLinke Seite\n4\n4\nWr.t-ḥkꜣ.w\nWeret-hekau auf Krokodil\n\n\n—\nheilstatue:kairoJE87083:162\nLinke Seite\n4\n5\nḤr.w\nFalke auf Papyrusstängel"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE87083.html#texte",
+    "href": "objekte/Heilstatue__kairoJE87083.html#texte",
+    "title": "Objektblatt: Kairo, JE 87083",
+    "section": "Texte",
+    "text": "Texte\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\n„Die Hand des Atum“\nLinke Seite\nunpubliziert\n\n\n„Beschwörung von Gift durch Isis“\nLinke Seite\nunpubliziert\n\n\n„Die Hand des Aker“\nLinke Seite\nunpubliziert"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE87083.html#maße",
+    "href": "objekte/Heilstatue__kairoJE87083.html#maße",
+    "title": "Objektblatt: Kairo, JE 87083",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n25.5\n34\n28\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__kairoJE87083.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__kairoJE87083.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Kairo, JE 87083",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__helioFrag.html",
+    "href": "objekte/Heilstatue__helioFrag.html",
+    "title": "Objektblatt: Heliopolis-Fragmente",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__helioFrag.html#objektangaben",
+    "href": "objekte/Heilstatue__helioFrag.html#objektangaben",
+    "title": "Objektblatt: Heliopolis-Fragmente",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Heliopolis / Matareya\nInventarnummer: —\nMaterial: Granodiorit (?)\nHerkunft: Helioplis / Matareya, Bereich 200\nProvenienz: gefunden bei Grabungskampage Herbst 2017 / Frühjahr 2018 der Ägyptisch-Deutschen Grabungsmission\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: Sieben Fragmente, die einen Teil des Rückenpfeilers zusammen mit der linken und rechten Seite, den rechten Arm und einen Teil des Fußes der Statue bilden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__helioFrag.html#figuren",
+    "href": "objekte/Heilstatue__helioFrag.html#figuren",
+    "title": "Objektblatt: Heliopolis-Fragmente",
+    "section": "Figuren",
+    "text": "Figuren\n30 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:helioFrag:1\nRückenpfeiler\nx+1\n1\nMnṯ.w\nMonth, der Herr von Theben\n\n\n—\nheilstatue:helioFrag:2\nRückenpfeiler\nx+2\n1\nḤr.w\nHorus, der Große, der Herr der beiden Messer\n\n\n—\nheilstatue:helioFrag:3\nRückenpfeiler\nx+2\n2\nḪns.w\nChons auf Tor\n\n\n—\nheilstatue:helioFrag:4\nRückenpfeiler\nx+3\n1\nSrq.t\nSelket\n\n\n—\nheilstatue:helioFrag:5\nRückenpfeiler\nx+3\n2\nNfr-tm\nNefertem, der herauskommt aus Memphis\n\n\n—\nheilstatue:helioFrag:6\nRückenpfeiler\nx+3\n3\nSḫm.t\nithyphallische Sachmet\n\n\n—\nheilstatue:helioFrag:7\nRückenpfeiler\nx+4\n1\nḪns.w\npantheistischer Chons\n\n\n—\nheilstatue:helioFrag:8\nRückenpfeiler\nx+4\n2\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n—\nheilstatue:helioFrag:9\nRückenpfeiler\nx+4\n3\nH̱nm.w\nmumienförmiger Chnum mit Feder\n\n\n—\nheilstatue:helioFrag:10\nRechte Seite\n1\n1\nRꜥw-Ḥr.w-ꜣḫ.tj\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:helioFrag:11\nRechte Seite\n1\n2\nḤw.t-Ḥr.w\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:helioFrag:12\nRechte Seite\n2\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:helioFrag:13\nRechte Seite\n2\n2\nSbk\nSobek mit Was-Szepter\n\n\n—\nheilstatue:helioFrag:14\nRechte Seite\n2\n3\n—\n—\n\n\n—\nheilstatue:helioFrag:15\nRechte Seite\n3\n1\nḤr.w\nHorus als Falke\n\n\n—\nheilstatue:helioFrag:16\nRechte Seite\n3\n2\nSbk\nmumienförmiger Sobek\n\n\n—\nheilstatue:helioFrag:17\nLinke Seite\n1\n1\nRꜥw-Ḥr.w-ꜣḫ.tj\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:helioFrag:18\nLinke Seite\n1\n2\nḤw.t-Ḥr.w\nAdoration vor Gottheiten aus Heliopolis\n\n\n—\nheilstatue:helioFrag:19\nLinke Seite\n2\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:helioFrag:20\nLinke Seite\n2\n2\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:helioFrag:21\nLinke Seite\n2\n3\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:helioFrag:22\nLinke Seite\n2\n4\n—\n—\n\n\n—\nheilstatue:helioFrag:23\nLinke Seite\n3\n1\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:helioFrag:24\nLinke Seite\n3\n2\nḎḥw.tj\nThoth auf Stier\n\n\n—\nheilstatue:helioFrag:25\nLinke Seite\n3\n3\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:helioFrag:26\nLinke Seite\n3\n4\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:helioFrag:27\nLinke Seite\n4\n1\nzerstört\nzerstört\n\n\n—\nheilstatue:helioFrag:28\nLinke Seite\n4\n2\nḤr.w\nHorus als Falke\n\n\n—\nheilstatue:helioFrag:29\nLinke Seite\n4\n3\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:helioFrag:30\nLinke Seite\n4\n4\nḤr.w\nFalke auf Gold-Zeichen"
+  },
+  {
+    "objectID": "objekte/Heilstatue__helioFrag.html#texte",
+    "href": "objekte/Heilstatue__helioFrag.html#texte",
+    "title": "Objektblatt: Heliopolis-Fragmente",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\n„Die Hand des Atum“ (Anfang)\nRechte Seite\nLangermann 2023: 169–174\n\n\n„Die Hand des Atum“ (fortgesetzt)\nRechte Seite\nLangermann 2023: 169–174"
+  },
+  {
+    "objectID": "objekte/Heilstatue__helioFrag.html#maße",
+    "href": "objekte/Heilstatue__helioFrag.html#maße",
+    "title": "Objektblatt: Heliopolis-Fragmente",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n5.0\n4.2\n2.3\nU2099-4; Rückenpfeiler\n\n\n11.0\n6.1\n6.4\nU2105-3B; Schurz, Rückenpfeiler\n\n\n4.1\n7.0\n6.9\nU2114-3; Schurz, Rückenpfeiler\n\n\n6.4\n6.1\n7.0\nU2105-3A; Schurz\n\n\n5.2\n4.2\n4.0\nU2107-3A; Arm\n\n\n6.7\n4.2\n3.8\nU2107-3B; Arm\n\n\n12.2\n8.5\n5.5\nU2109-5; Zeh"
+  },
+  {
+    "objectID": "objekte/Heilstatue__helioFrag.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__helioFrag.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Heliopolis-Fragmente",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/index.html",
+    "href": "objekte/index.html",
+    "title": "Objektkatalog",
+    "section": "",
+    "text": "Ein Datenblatt pro Objekt. Die Figuren werden als Datensätze innerhalb der Objekte geführt.\n\nHeliopolis-Fragmente\nKairo, JE 41677\nKairo, JE 46341\nKairo, JE 87083\nLeiden, F 1953/5.1\nLondon, Sammlung Cassirer\nMoskau, I.1.a.5319\nMünchen, ÄS 2824\nNeapel, 1065\nParis, Louvre, E 10777\nStockholm, NME 76\nStockholm, NME 92\nTurin, Cat. 3030\nTurin, Cat. 3031\nTurin, Suppl. 9 + Florenz, 8708"
+  },
+  {
+    "objectID": "objekte/Heilstatue__MoskauI_1_a_5319.html",
+    "href": "objekte/Heilstatue__MoskauI_1_a_5319.html",
+    "title": "Objektblatt: Moskau, I.1.a.5319",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__MoskauI_1_a_5319.html#objektangaben",
+    "href": "objekte/Heilstatue__MoskauI_1_a_5319.html#objektangaben",
+    "title": "Objektblatt: Moskau, I.1.a.5319",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Würfelhocker mit Horusstele\nStandort: Staatliches Museum für Bildende Künste A. S. Puschkin, Moskau\nInventarnummer: I.1.a.5319\nMaterial: grauer Granit\nHerkunft: unbekannt\nProvenienz: 1909: Ankauf aus der Sammlung von Wladimir Golenischeff; wohl seit 1877 in Golenischeffs Sammlung\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: nur noch Körper ist erhalten, Kopf und Hals, sowie Teile der linken Schulter und des Armes sind abgebrochen, Oberseite des Schurzes noch erhalten; oberes Ende der Horusstele mit der Bes-Maske und Basis der Horusstele sind abgebrochen; vorderer Teil der Füße ebenfalls abgebrochen; Sockel an allen Seiten grob abgebrochen"
+  },
+  {
+    "objectID": "objekte/Heilstatue__MoskauI_1_a_5319.html#figuren",
+    "href": "objekte/Heilstatue__MoskauI_1_a_5319.html#figuren",
+    "title": "Objektblatt: Moskau, I.1.a.5319",
+    "section": "Figuren",
+    "text": "Figuren\n113 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:MoskauI_1_a_5319:261\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:262\nVorderseite\n1\n2\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:263\nVorderseite\n1\n3\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:264\nVorderseite\n1\n4\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:265\nVorderseite\n1\n5\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:266\nVorderseite\n1\n6\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:267\nVorderseite\n2\n1\nḤr.w\nHorus mit Atef-Krone\n\n\n—\nheilstatue:MoskauI_1_a_5319:268\nVorderseite\n2\n2\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:269\nVorderseite\n2\n3\nꜢs.t\nIsis\n\n\n—\nheilstatue:MoskauI_1_a_5319:270\nVorderseite\n1–2\n1\nḤr.w\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:271\nVorderseite\n4\n1\nSꜣḥ\nSach\n\n\n—\nheilstatue:MoskauI_1_a_5319:272\nVorderseite\n5\n1\nMnw\nMin\n\n\n—\nheilstatue:MoskauI_1_a_5319:273\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:274\nVorderseite\n1\n2\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:275\nVorderseite\n1\n3\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:276\nVorderseite\n1\n4\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:277\nVorderseite\n1\n5\nBꜣ\nBa von Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:278\nVorderseite\n2\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:279\nVorderseite\n2\n2\nRꜥw\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:280\nVorderseite\n2\n3\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:281\nVorderseite\n1–2\n1\nḤr.w\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:281.10000000000002\nVorderseite\n3\n1\n—\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:282\nRechte Seite\n1–2\n1\nBꜣ\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:283\nRechte Seite\n1–2\n2\nḤꜣ.t-mḥ.yt\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:284\nRechte Seite\n1\n1\nḤr.w\nFalke auf Antilope\n\n\n—\nheilstatue:MoskauI_1_a_5319:285\nRechte Seite\n1\n2\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n—\nheilstatue:MoskauI_1_a_5319:286\nRechte Seite\n1\n3\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:287\nRechte Seite\n1\n4\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:288\nRechte Seite\n1\n5\nḤꜣ\nCha\n\n\n—\nheilstatue:MoskauI_1_a_5319:289\nRechte Seite\n1\n6\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:MoskauI_1_a_5319:290\nRechte Seite\n2\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:291\nRechte Seite\n2\n2\nzerstört\nzerstört\n\n\n—\nheilstatue:MoskauI_1_a_5319:292\nRechte Seite\n2\n3\nḪns.w\nChons\n\n\n—\nheilstatue:MoskauI_1_a_5319:293\nRechte Seite\n2\n4\nPtḥ\nPtah, der Große, groß an Stärke\n\n\n—\nheilstatue:MoskauI_1_a_5319:294\nRechte Seite\n2\n5\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:MoskauI_1_a_5319:295\nRechte Seite\n2\n6\nḤr.w\nHorus, Sohn des Osiris, gebohren von Isis, der Göttin\n\n\n—\nheilstatue:MoskauI_1_a_5319:296\nRechte Seite\n3\n1\nNw.t\nChnum und Nut\n\n\n—\nheilstatue:MoskauI_1_a_5319:297\nRechte Seite\n3\n2\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:MoskauI_1_a_5319:298\nRechte Seite\n3\n3\nPtḥ-Tꜣ-tnn\nPtah-Tatennen\n\n\n—\nheilstatue:MoskauI_1_a_5319:299\nRechte Seite\n3\n4\nWr.t-ḥkꜣ.w\nWeret-hekau auf Schlange\n\n\n—\nheilstatue:MoskauI_1_a_5319:300\nRechte Seite\n3.1\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:301\nRechte Seite\n3.1\n2\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:302\nRechte Seite\n3.1\n3\nGbb\nGeb\n\n\n—\nheilstatue:MoskauI_1_a_5319:303\nRechte Seite\n3.1\n4\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:304\nRechte Seite\n3.1\n5\nSbk\nhockender Sobek\n\n\n—\nheilstatue:MoskauI_1_a_5319:305\nRechte Seite\n3.2\n1\nṮnn.t (?)\nTjenenet (?)\n\n\n—\nheilstatue:MoskauI_1_a_5319:306\nRechte Seite\n3.2\n2\nRꜥw\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:307\nRechte Seite\n3.2\n3\nḎḥw.tj\nThoth\n\n\n—\nheilstatue:MoskauI_1_a_5319:308\nRechte Seite\n3.2\n4\nSḫm.t\nSachmet als Kobra\n\n\n—\nheilstatue:MoskauI_1_a_5319:309\nRechte Seite\n3.2\n5\nSḫm.t\nSachmet als Kobra\n\n\n—\nheilstatue:MoskauI_1_a_5319:310\nRechte Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:311\nRechte Seite\n4\n2\nꜢs.t\nIsis\n\n\n—\nheilstatue:MoskauI_1_a_5319:312\nRechte Seite\n4\n3\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:MoskauI_1_a_5319:313\nRechte Seite\n4\n4\nGbb\nGeb\n\n\n—\nheilstatue:MoskauI_1_a_5319:314\nRechte Seite\n4\n5\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:315\nRechte Seite\n4\n6\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:316\nRechte Seite\n4\n7\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:317\nRechte Seite\n4\n8\nḤr.w\nHorus, sonstig\n\n\n—\nheilstatue:MoskauI_1_a_5319:318\nRechte Seite\n4\n9\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:319\nRechte Seite\n4\n10\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:MoskauI_1_a_5319:320\nRechte Seite\n4\n11\nRꜥw-Ḥr.w-ꜣḫ.tj\nRe-Harachte\n\n\n—\nheilstatue:MoskauI_1_a_5319:321\nRechte Seite\n4\n12\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:322\nRechte Seite\n4\n13\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:323\nRechte Seite\n5\n1\nSḫm.t\nSachmet\n\n\n—\nheilstatue:MoskauI_1_a_5319:324\nRechte Seite\n5\n2\nH̱nm.w\nChnum, der Tier aufspießt\n\n\n—\nheilstatue:MoskauI_1_a_5319:325\nRechte Seite\n5\n3\nḪns.t\nChensit\n\n\n—\nheilstatue:MoskauI_1_a_5319:326\nRechte Seite\n5\n4\nḎḥw.tj\nIbis auf Standarte\n\n\n—\nheilstatue:MoskauI_1_a_5319:327\nRechte Seite\n5\n5\n—\n2 Katzen neben Sistrum\n\n\n—\nheilstatue:MoskauI_1_a_5319:328\nRechte Seite\n5\n6\nḪpr.j\nChepri\n\n\n—\nheilstatue:MoskauI_1_a_5319:329\nRechte Seite\n5\n7\nMꜣꜥ.t\nMaat\n\n\n—\nheilstatue:MoskauI_1_a_5319:330\nRechte Seite\n5\n8\nḤr.w\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:MoskauI_1_a_5319:331\nRechte Seite\n5\n9\nPtḥ\nPtah, der Vater der Götter\n\n\n—\nheilstatue:MoskauI_1_a_5319:332\nRechte Seite\n5\n10\nḤkꜣ\nHeka\n\n\n—\nheilstatue:MoskauI_1_a_5319:333\nLinke Seite\n1–2\n1\nBꜣ\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:334\nLinke Seite\n1–2\n2\nḤꜣ.t-mḥ.yt\nAdoration vor Gottheiten aus Mendes\n\n\n—\nheilstatue:MoskauI_1_a_5319:335\nLinke Seite\n1\n1\nḤr.w\nHorus, der Große\n\n\n—\nheilstatue:MoskauI_1_a_5319:336\nLinke Seite\n1\n2\nḤr.w\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:MoskauI_1_a_5319:337\nLinke Seite\n1\n3\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:MoskauI_1_a_5319:338\nLinke Seite\n1\n4\n—\nNilpferd auf Ouroborus\n\n\n—\nheilstatue:MoskauI_1_a_5319:339\nLinke Seite\n1\n5\nSbk\nSobek mit Was-Szepter\n\n\n—\nheilstatue:MoskauI_1_a_5319:340\nLinke Seite\n1\n6\nSḫm.t\nSachmet in Schlange\n\n\n—\nheilstatue:MoskauI_1_a_5319:341\nLinke Seite\n1–1,5\n1\nꜢs.t-Srq.t\nIsis-Selket\n\n\n—\nheilstatue:MoskauI_1_a_5319:342\nLinke Seite\n1–1,5\n2\nNb.t-ḥw.t\nNephthys\n\n\n—\nheilstatue:MoskauI_1_a_5319:343\nLinke Seite\n1–1,5\n3\nḤr.w\nHorus-Behedeti\n\n\n—\nheilstatue:MoskauI_1_a_5319:344\nLinke Seite\n2\n1\nMnṯ.w\nMonth\n\n\n—\nheilstatue:MoskauI_1_a_5319:345\nLinke Seite\n2\n2\nḤr.w\nHarsiesis\n\n\n—\nheilstatue:MoskauI_1_a_5319:346\nLinke Seite\n2\n3\nḤr.j-š⸗f\nmumienförmiger Herischef\n\n\n—\nheilstatue:MoskauI_1_a_5319:347\nLinke Seite\n2\n4\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:MoskauI_1_a_5319:348\nLinke Seite\n2\n5\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:MoskauI_1_a_5319:349\nLinke Seite\n2\n6\nJmn-rn⸗f\nZwei Krokodile übereinander, eines in Kapelle\n\n\n—\nheilstatue:MoskauI_1_a_5319:350\nLinke Seite\n3\n1\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:MoskauI_1_a_5319:351\nLinke Seite\n3\n2\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:MoskauI_1_a_5319:352\nLinke Seite\n3\n3\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:MoskauI_1_a_5319:353\nLinke Seite\n3.1\n1\n—\nZwei Skorpione\n\n\n—\nheilstatue:MoskauI_1_a_5319:354\nLinke Seite\n3.1\n2\nꜢs.t\nbittende Isis\n\n\n—\nheilstatue:MoskauI_1_a_5319:355\nLinke Seite\n3.1\n3\nḤr.w\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:MoskauI_1_a_5319:356\nLinke Seite\n3.1\n4\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:MoskauI_1_a_5319:357\nLinke Seite\n3.1\n5\nSḫm.t\nPavian und Kobra\n\n\n—\nheilstatue:MoskauI_1_a_5319:358\nLinke Seite\n3.2\n1\nH̱nm.w\nChnum als Widder\n\n\n—\nheilstatue:MoskauI_1_a_5319:359\nLinke Seite\n3.2\n2.1\nḤr.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n—\nheilstatue:MoskauI_1_a_5319:360\nLinke Seite\n3.2\n2.2000000000000002\nMnṯ.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n—\nheilstatue:MoskauI_1_a_5319:361\nLinke Seite\n3.2\n3\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:362\nLinke Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:363\nLinke Seite\n4\n2\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:364\nLinke Seite\n4\n3\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:365\nLinke Seite\n4\n4\nꜢs.t-Srq.t\nIsis-Selket\n\n\n—\nheilstatue:MoskauI_1_a_5319:366\nLinke Seite\n4\n5\nWr.t-ḥkꜣ.w\nWeret-hekau auf Krokodil\n\n\n—\nheilstatue:MoskauI_1_a_5319:367\nLinke Seite\n4\n6\nḤr.w\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:MoskauI_1_a_5319:368\nLinke Seite\n5\n1\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:369\nLinke Seite\n5\n2\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:370\nLinke Seite\n5\n3\nJp.t\nIpet\n\n\n—\nheilstatue:MoskauI_1_a_5319:371\nLinke Seite\n5\n4\n—\n—\n\n\n—\nheilstatue:MoskauI_1_a_5319:372\nLinke Seite\n5\n5\nH̱nm.w\nChnum"
+  },
+  {
+    "objectID": "objekte/Heilstatue__MoskauI_1_a_5319.html#texte",
+    "href": "objekte/Heilstatue__MoskauI_1_a_5319.html#texte",
+    "title": "Objektblatt: Moskau, I.1.a.5319",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nTitel, etc.\nOber-/Vorderseite\nPanov 2014: 16, Sp. a1–a2\n\n\nTitel, etc.\nOber-/Vorderseite\nPanov 2014: 16, Sp. a5–a6\n\n\n„Augen des Erretters“\nOber-/Vorderseite\nPanov 2014: 19–21, Sp. 1–10\n\n\n„Augen des Erretters“\nOber-/Vorderseite\nPanov 2014: 19, 21, Sp. 11–19\n\n\n„Anrufung des Re“ (Anfang)\nOber-/Vorderseite\nPanov 2014: 24–27, Sp. 20–32\n\n\n„Die Hand des Atum“ (Anfang)\nOber-/Vorderseite\nPanov 2014: 43–44, Sp. 85–88\n\n\n„Die Hand des Re“\nOber-/Vorderseite\nPanov 2014: 62– 63, Sp. 144–159\n\n\nverschiedene Sprüche (fragmentarisch erhalten)\nOber-/Vorderseite\nPanov 2014: 72\n\n\nverschiedene Sprüche (fragmentarisch erhalten)\nOber-/Vorderseite\nPanov 2014: 72\n\n\n„Anrufung des Re“ (fortgesetzt I)\nRechte Seite\nPanov 2014: 26–28, Sp. 33–49\n\n\n„Isis und die sieben Skorpione“ (Anfang)\nRechte Seite\nPanov 2014: 31–32, Sp. 57–59\n\n\n„Isis und die sieben Skorpione“ (fortgesetzt II)\nRechte Seite\nPanov 2014: 33–35, Sp. 75–78\n\n\n„Isis und die sieben Skorpione“ (fortgesetzt II)\nRechte Seite\nPanov 2014: 34–37, Sp. 79–84\n\n\n„Die Hand des Atum“ (fortgesetzt)\nLinke Seite\nPanov 2014: 43– 45, Sp. 89–102\n\n\n„Beschwörung von Gift durch Isis“\nLinke Seite\nPanov 2014: 50– 51, Sp. 112–116\n\n\n„Der Spruch des Aker“\nLinke Seite\nPanov 2014: 50, 52, Sp. 117–120\n\n\nSpruch gegen Skorpiongift, Isis wird zu ihrem Sohn gerufen (Anfang) (fortgesetzt)\nLinke Seite\nPanov 2014: 54– 55, Sp. 134–135\n\n\nText B, P-L-Version (fortgesetzt)\nLinke Seite\nPanov 2014: 54, 56– 58, Sp. 136–137\n\n\nText B, P-L-Version (fortgesetzt)\nLinke Seite\nPanov 2014: 54, 56– 58, Sp. 138–141\n\n\nText C\nLinke Seite\nPanov 2014: 54, 59– 61, Sp. 141–143\n\n\n„Anrufung des Re“ (fortgesetzt II)\nRückseite\nPanov 2014: 26–29, Sp. 50–56\n\n\n„Isis und die sieben Skorpione“ (fortgesetzt I)\nRückseite\nPanov 2014: 31–32, Sp. 60–74\n\n\nSpruch über die Sonne\nRückseite\nPanov 2014: 46– 47, Sp. 103–111\n\n\nSpruch gegen Skorpiongift, Isis wird zu ihrem Sohn gerufen (Anfang)\nRückseite\nPanov 2014: 50, 53, Sp. 121–133\n\n\nText B, P-L-Version (Anfang)\nRückseite\nPanov 2014: 68– 69, Sp. 164–165\n\n\nText A\nRückseite\nPanov 2014: 64–66, Sp. 160–163"
+  },
+  {
+    "objectID": "objekte/Heilstatue__MoskauI_1_a_5319.html#maße",
+    "href": "objekte/Heilstatue__MoskauI_1_a_5319.html#maße",
+    "title": "Objektblatt: Moskau, I.1.a.5319",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—\n\n\n55\n34\n37\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__MoskauI_1_a_5319.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__MoskauI_1_a_5319.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Moskau, I.1.a.5319",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME92.html",
+    "href": "objekte/Heilstatue__stockholmNME92.html",
+    "title": "Objektblatt: Stockholm, NME 92",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME92.html#objektangaben",
+    "href": "objekte/Heilstatue__stockholmNME92.html#objektangaben",
+    "title": "Objektblatt: Stockholm, NME 92",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Medelhavsmuseet, Stockholm\nInventarnummer: NME 92\nMaterial: Kalkstein\nHerkunft: unbekannt\nProvenienz: ab 1954 im heutigen Medelhavsmuseet; ab 1928 in eigenem Ägyptischen Museum; vor 1868 im Nationalmuseum, Stockholm; evtl. in 1750er-Jahren in Sammlung Gustavs III.\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: fast komplett erhalten; Sockel ist vorne rechts und links abgebrochen und hinten links mit einem Teil des Rückenpfeilers; leichte Abplatzungen im Gesicht"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME92.html#figuren",
+    "href": "objekte/Heilstatue__stockholmNME92.html#figuren",
+    "title": "Objektblatt: Stockholm, NME 92",
+    "section": "Figuren",
+    "text": "Figuren\n46 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:stockholmNME92:625\nVorderseite\n1\n1\n—\nAdoration\n\n\n—\nheilstatue:stockholmNME92:626\nVorderseite\n1\n1\n—\nAdoration\n\n\n—\nheilstatue:stockholmNME92:627\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME92:628\nVorderseite\n1\n2\n—\n—\n\n\n—\nheilstatue:stockholmNME92:629\nVorderseite\n1\n3\nMnṯ.w\nMonth\n\n\n—\nheilstatue:stockholmNME92:630\nVorderseite\n1\n4\n—\n—\n\n\n—\nheilstatue:stockholmNME92:631\nVorderseite\n1\n5\n—\n—\n\n\n—\nheilstatue:stockholmNME92:632\nVorderseite\n1\n6\n—\n—\n\n\n—\nheilstatue:stockholmNME92:633\nVorderseite\n1\n7\n—\n—\n\n\n—\nheilstatue:stockholmNME92:634\nVorderseite\n1\n8\nḎḥw.tj\nThoth mit Udjat-Auge\n\n\n—\nheilstatue:stockholmNME92:635\nVorderseite\n1\n9\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:stockholmNME92:636\nVorderseite\n2.1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME92:637\nVorderseite\n2.1\n2\n—\n—\n\n\n—\nheilstatue:stockholmNME92:638\nVorderseite\n2.1\n3\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:stockholmNME92:639\nVorderseite\n2.1\n4\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:stockholmNME92:640\nVorderseite\n2.1\n5\n—\n—\n\n\n—\nheilstatue:stockholmNME92:641\nVorderseite\n2.1\n6\n—\n—\n\n\n—\nheilstatue:stockholmNME92:642\nVorderseite\n2.1\n7\n—\n—\n\n\n—\nheilstatue:stockholmNME92:643\nVorderseite\n2.1\n8\n—\n—\n\n\n—\nheilstatue:stockholmNME92:644\nVorderseite\n2.2000000000000002\n1\nJmn-rn⸗f\nZwei Krokodile übereinander, eines in Kapelle\n\n\n—\nheilstatue:stockholmNME92:645\nVorderseite\n2.2000000000000002\n2\n—\n—\n\n\n—\nheilstatue:stockholmNME92:646\nVorderseite\n2.2000000000000002\n3\n—\n—\n\n\n—\nheilstatue:stockholmNME92:647\nVorderseite\n2.2000000000000002\n4\nBꜣ\nBanebdjedet mit Maat\n\n\n—\nheilstatue:stockholmNME92:648\nVorderseite\n2.2000000000000002\n5\nSḫm.t\nSachmet in Schlange\n\n\n—\nheilstatue:stockholmNME92:649\nVorderseite\n2.2000000000000002\n6\n—\n—\n\n\n—\nheilstatue:stockholmNME92:650\nVorderseite\n2.2000000000000002\n7\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:stockholmNME92:651\nVorderseite\n2.2000000000000002\n8\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:stockholmNME92:652\nVorderseite\n3\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME92:653\nVorderseite\n3\n2\n—\n—\n\n\n—\nheilstatue:stockholmNME92:654\nVorderseite\n3\n3\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:stockholmNME92:655\nVorderseite\n3\n4\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:stockholmNME92:656\nVorderseite\n3\n5\nTfn.t\nTefnut\n\n\n—\nheilstatue:stockholmNME92:657\nVorderseite\n1\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME92:658\nVorderseite\n2\n1\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:stockholmNME92:659\nVorderseite\n3\n1\nRꜥw\n—\n\n\n—\nheilstatue:stockholmNME92:660\nVorderseite\n4\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME92:661\nVorderseite\n5\n1\nSḫm.t\nSachmet als Kobra\n\n\n—\nheilstatue:stockholmNME92:662\nVorderseite\n6\n1\nSbk\nmumienförmiger Sobek\n\n\n—\nheilstatue:stockholmNME92:663\nVorderseite\n1\n1\nḤr.w\nHorus als Falke\n\n\n—\nheilstatue:stockholmNME92:664\nVorderseite\n2\n1\nSḫm.t\nSachmet\n\n\n—\nheilstatue:stockholmNME92:665\nVorderseite\n3\n1\n—\n—\n\n\n—\nheilstatue:stockholmNME92:666\nRückenpfeiler\n1\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:stockholmNME92:667\nRückenpfeiler\n2\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:stockholmNME92:668\nRückenpfeiler\n1–2\n3\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:stockholmNME92:669\nRückenpfeiler\n1\n4\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:stockholmNME92:671\nRückenpfeiler\n2\n5\n—\nAnbetung des Amun-Re"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME92.html#texte",
+    "href": "objekte/Heilstatue__stockholmNME92.html#texte",
+    "title": "Objektblatt: Stockholm, NME 92",
+    "section": "Texte",
+    "text": "Texte\nKeine Einträge erfasst."
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME92.html#maße",
+    "href": "objekte/Heilstatue__stockholmNME92.html#maße",
+    "title": "Objektblatt: Stockholm, NME 92",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n39\n10\n10\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__stockholmNME92.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__stockholmNME92.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Stockholm, NME 92",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__neapel1065.html",
+    "href": "objekte/Heilstatue__neapel1065.html",
+    "title": "Objektblatt: Neapel, 1065",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__neapel1065.html#objektangaben",
+    "href": "objekte/Heilstatue__neapel1065.html#objektangaben",
+    "title": "Objektblatt: Neapel, 1065",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Museo Archeologico Nazionale, Neapel\nInventarnummer: 1065\nMaterial: Basalt / dunkler Granit / Grauwacke\nHerkunft: unbekannt\nProvenienz: 1817: Überführung von Velletri ins Regio/Real Museo Borbonico in Neapel; 1815: Ankauf Ferdinand I.; Sammlung Stefano Borgia (1784 in einem unpublizierten Katalog mit Nr. 401 verzeichnet)\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: nur noch Torso erhalten (mit Teilen der Schultern mit einem Teil der Oberarme); mittlerer Teil des Rückenpfeilers stark abgerieben; nach Montierung auf moderner Basis mit Gips, sind die untereren Szenen des Rückenpfeilers abgebrochen nach Entfernung der Halterung (in 1982)"
+  },
+  {
+    "objectID": "objekte/Heilstatue__neapel1065.html#figuren",
+    "href": "objekte/Heilstatue__neapel1065.html#figuren",
+    "title": "Objektblatt: Neapel, 1065",
+    "section": "Figuren",
+    "text": "Figuren\n96 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:neapel1065:388\nVorderseite\n1\n1\n—\nPantheistischer Gott\n\n\n—\nheilstatue:neapel1065:389\nVorderseite\n1\n2\nNḥm.t-ꜥwꜣj\nNechmetawai\n\n\n—\nheilstatue:neapel1065:390\nVorderseite\n1\n3\nSḫm.t\nSachmet, die den Rebellen bändigt\n\n\n—\nheilstatue:neapel1065:391\nVorderseite\n2\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:392\nVorderseite\n2\n2\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:393\nVorderseite\n2\n3\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:394\nVorderseite\n2\n4\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:395\nVorderseite\n2\n5\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:396\nVorderseite\n2\n6\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:397\nVorderseite\n2\n7\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:398\nVorderseite\n2\n8\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:399\nVorderseite\n2\n9\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:neapel1065:400\nRückenpfeiler\n1\n1\nꜢs.t\nIsis von Achbit\n\n\n—\nheilstatue:neapel1065:401\nRückenpfeiler\n2\n1\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:neapel1065:402\nRückenpfeiler\n2\n2\nSbk\nKrokodil mit Falkenkopf\n\n\n—\nheilstatue:neapel1065:403\nRückenpfeiler\n3\n1\nꜢs.t\nIsis und Horus\n\n\n—\nheilstatue:neapel1065:404\nRückenpfeiler\n3\n2\nḤr.w\nTriumphierender Re-Osiris\n\n\n—\nheilstatue:neapel1065:405\nRückenpfeiler\n4\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:406\nRückenpfeiler\n4\n2\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:neapel1065:407\nRückenpfeiler\n5\n1\nJmn-rn⸗f\nImen-renef\n\n\n—\nheilstatue:neapel1065:408\nRückenpfeiler\n5\n2\nḤr.w\nFalke auf Nilpferd\n\n\n—\nheilstatue:neapel1065:409\nRückenpfeiler\n6\n1\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:neapel1065:410\nRückenpfeiler\n6\n2\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:neapel1065:411\nRückenpfeiler\n6\n3\n—\nChnum als Widder\n\n\n—\nheilstatue:neapel1065:412\nRückenpfeiler\n7\n1\nMꜣꜥ.t\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:neapel1065:413\nRückenpfeiler\n7\n2\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:neapel1065:414\nRückenpfeiler\n7\n3\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:neapel1065:415\nRückenpfeiler\n8\n1\nNj.t\nNeith zwei Krokodile säugend\n\n\n—\nheilstatue:neapel1065:416\nRückenpfeiler\n8\n2\nRꜥw-Ḥr.w-ꜣḫ.tj\nRe-Harachte\n\n\n—\nheilstatue:neapel1065:417\nRückenpfeiler\n8\n3\nḪr.t\nGöttin mit Skorpionkörper\n\n\n—\nheilstatue:neapel1065:418\nRückenpfeiler\n9\n1\nꜢs.t-Srq.t\nIsis-Selket\n\n\n—\nheilstatue:neapel1065:419\nRückenpfeiler\n9\n2\nNj.t\nNeith als Rind\n\n\n—\nheilstatue:neapel1065:420\nRückenpfeiler\n10\n1\nSḫm.t\nSachmet in Schlange\n\n\n—\nheilstatue:neapel1065:421\nRückenpfeiler\n10\n2\nꜢs.t\nIsis, die Krokodil säugt\n\n\n—\nheilstatue:neapel1065:422\nRückenpfeiler\n10\n3\nꜢs.t\nIsis und Horus\n\n\n—\nheilstatue:neapel1065:423\nRechte Seite\n1\n1\nNḫb.t\nNechbet\n\n\n—\nheilstatue:neapel1065:424\nRechte Seite\n1\n2\n—\n—\n\n\n—\nheilstatue:neapel1065:425\nRechte Seite\n1\n3\nꜢs.t\nIsis, die Kind auf Schlange säugt\n\n\n—\nheilstatue:neapel1065:426\nRechte Seite\n2\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:427\nRechte Seite\n2\n1\nḤr.w\nHorus als Falke\n\n\n—\nheilstatue:neapel1065:428\nRechte Seite\n3\n1\nSḫm.t\nSachmet in Schlange\n\n\n—\nheilstatue:neapel1065:429\nRechte Seite\n4\n1\n—\nGott mit 3 Schlangen als Kopf\n\n\n—\nheilstatue:neapel1065:430\nRechte Seite\n4\n2\n—\nkrokodilsköpfiger Gott mit Vierfederkrone\n\n\n—\nheilstatue:neapel1065:431\nRechte Seite\n5\n1\nSḫm.t\nithyphallische Sachmet\n\n\n—\nheilstatue:neapel1065:432\nRechte Seite\n5\n2\n—\n—\n\n\n—\nheilstatue:neapel1065:433\nRechte Seite\n6\n1\n—\nkrokodilsköpfiger Gott mit Schlange\n\n\n—\nheilstatue:neapel1065:434\nRechte Seite\n6\n2\n—\n—\n\n\n—\nheilstatue:neapel1065:435\nRechte Seite\n7\n1\nŠw\nSchu\n\n\n—\nheilstatue:neapel1065:436\nRechte Seite\n7\n2\nBn.w\nBenu\n\n\n—\nheilstatue:neapel1065:437\nRechte Seite\n8\n1\nWd\n—\n\n\n—\nheilstatue:neapel1065:438\nRechte Seite\n8\n2\n—\n—\n\n\n—\nheilstatue:neapel1065:439\nRechte Seite\n8\n3\n—\n—\n\n\n—\nheilstatue:neapel1065:440\nRechte Seite\n9\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:441\nRechte Seite\n9\n2\n—\n—\n\n\n—\nheilstatue:neapel1065:442\nRechte Seite\n10\n1\nSrq.t\n—\n\n\n—\nheilstatue:neapel1065:443\nRechte Seite\n10\n2\nJmn-rn⸗f\nImen-renef\n\n\n—\nheilstatue:neapel1065:444\nRechte Seite\n11\n1\nSḫm.t\nSachmet\n\n\n—\nheilstatue:neapel1065:445\nRechte Seite\n11\n2\nTfn.t\nTefnut\n\n\n—\nheilstatue:neapel1065:446\nRechte Seite\n1\n1\n—\nPantheistischer Gott\n\n\n—\nheilstatue:neapel1065:447\nRechte Seite\n1\n1\nPtḥ\nPtah, der Vater der Götter\n\n\n—\nheilstatue:neapel1065:448\nRechte Seite\n2\n1\nPtḥ\nPtah, der Vater der Götter\n\n\n—\nheilstatue:neapel1065:449\nRechte Seite\n3\n1\nJmn-Rꜥw\nAmun-Re als Krokodil\n\n\n—\nheilstatue:neapel1065:450\nRechte Seite\n3\n2\nTfn.t\nTefnut\n\n\n—\nheilstatue:neapel1065:451\nRechte Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:452\nRechte Seite\n4\n2\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:neapel1065:453\nRechte Seite\n5\n1\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:neapel1065:454\nRechte Seite\n5\n2\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:neapel1065:455\nRechte Seite\n6\n1\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:neapel1065:456\nRechte Seite\n6\n2\nSḫm.t-Bꜣs.tt-Tfn.t\nPavian und Kobra\n\n\n—\nheilstatue:neapel1065:457\nLinke Seite\n1\n1\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:neapel1065:458\nLinke Seite\n1\n2\nḤr.w\nHorus, Sohn der Wadjet\n\n\n—\nheilstatue:neapel1065:459\nLinke Seite\n1\n3\n—\n—\n\n\n—\nheilstatue:neapel1065:460\nLinke Seite\n1\n4\n—\n—\n\n\n—\nheilstatue:neapel1065:461\nLinke Seite\n2\n1\nSḫm.t\nliegender Löwe auf Podest\n\n\n—\nheilstatue:neapel1065:462\nLinke Seite\n3\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:463\nLinke Seite\n3\n1\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:neapel1065:464\nLinke Seite\n4\n1\nSbk\nmumienförmiger Sobek\n\n\n—\nheilstatue:neapel1065:465\nLinke Seite\n4\n2\nPtḥ-Skr-Wsjr\nPtah-Sokar-Osiris\n\n\n—\nheilstatue:neapel1065:466\nLinke Seite\n5\n1\nSrq.t\nSelket\n\n\n—\nheilstatue:neapel1065:467\nLinke Seite\n5\n2\nḤr.w\nHorus, Sohn des Osiris, gebohren von Isis, der Göttin\n\n\n—\nheilstatue:neapel1065:468\nLinke Seite\n6\n1\nMw.t\nMut\n\n\n—\nheilstatue:neapel1065:469\nLinke Seite\n6\n2\nḤr.w\nHorus, groß an Kraft\n\n\n—\nheilstatue:neapel1065:470\nLinke Seite\n7\n1\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:neapel1065:471\nLinke Seite\n7\n2\nNfr-tm\nNefertem, der herauskommt aus Memphis\n\n\n—\nheilstatue:neapel1065:472\nLinke Seite\n8\n1\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n—\nheilstatue:neapel1065:473\nLinke Seite\n8\n2\n—\nPtah-Sokar-Osiris\n\n\n—\nheilstatue:neapel1065:474\nLinke Seite\n9\n1\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:neapel1065:475\nLinke Seite\n9\n2\nNḫb.t\nNechbet\n\n\n—\nheilstatue:neapel1065:476\nLinke Seite\n10\n1\nSbk.t\nSobeket\n\n\n—\nheilstatue:neapel1065:477\nLinke Seite\n11\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:478\nLinke Seite\n1\n1\nSpd.w\nPantheistischer Gott\n\n\n—\nheilstatue:neapel1065:479\nLinke Seite\n1\n1\nWr.t-ḥkꜣ.w\nWeret-hekau auf Krokodil\n\n\n—\nheilstatue:neapel1065:480\nLinke Seite\n2\n1\n—\n—\n\n\n—\nheilstatue:neapel1065:481\nLinke Seite\n3\n1\nH̱nm.w\nmumienförmiger Chnum mit Feder\n\n\n—\nheilstatue:neapel1065:482\nLinke Seite\n3\n2\nḤr.w\nFalke auf Pylonen\n\n\n—\nheilstatue:neapel1065:483\nLinke Seite\n4\n1\nRw.tj\nRuti"
+  },
+  {
+    "objectID": "objekte/Heilstatue__neapel1065.html#texte",
+    "href": "objekte/Heilstatue__neapel1065.html#texte",
+    "title": "Objektblatt: Neapel, 1065",
+    "section": "Texte",
+    "text": "Texte\n\n\n\n\n\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\nSpruch 1 für das Herz eines Gebissenen\nVorderseite\nKákosy 1999: 120–121\n\n\nSpruch 2 für das Herz eines Gebissenen\nVorderseite\nKákosy 1999: 120–121\n\n\nBeschwörung von Gift\nVorderseite\nKákosy 1999: 123\n\n\nBeschwörung von Gift in einer Katze\nVorderseite\nKákosy 1999: 124–125\n\n\n„Die Hand des Atum“\nRechte Seite\nKákosy 1999: 126–128\n\n\nSprüche gegen Gift, I\nRechte Seite\nKákosy 1999: 126–128\n\n\nText B, P-L-Version (Zweite Hälfte)\nRechte Seite\nKákosy 1999: 131\n\n\nSprüche gegen Gift, II\nLinke Seite\nKákosy 1999: 129–130\n\n\nText A\nLinke Seite\nKákosy 1999: 132–133\n\n\n„Er ist Horus, der Beschwörer“\nLinke Seite\nKákosy 1999: 132–133"
+  },
+  {
+    "objectID": "objekte/Heilstatue__neapel1065.html#maße",
+    "href": "objekte/Heilstatue__neapel1065.html#maße",
+    "title": "Objektblatt: Neapel, 1065",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n28.4\n18.8\n13.4\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__neapel1065.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__neapel1065.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Neapel, 1065",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3030.html",
+    "href": "objekte/Heilstatue__turinCat3030.html",
+    "title": "Objektblatt: Turin, Cat. 3030",
+    "section": "",
+    "text": "Zum interaktiven Figurenkatalog"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3030.html#objektangaben",
+    "href": "objekte/Heilstatue__turinCat3030.html#objektangaben",
+    "title": "Objektblatt: Turin, Cat. 3030",
+    "section": "Objektangaben",
+    "text": "Objektangaben\nObjekttyp: Standschreitstatue mit Horusstele\nStandort: Museo Egizio, Turin\nInventarnummer: Cat. 3030\nMaterial: dunkler Granodiorit / Granit\nHerkunft: unbekannt\nProvenienz: 1824 Sammlung Drovetti\nDatierung: 4. Jh. v. u. Z.\nErhaltungszustand: bis auf den Kopf komplett erhalten"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3030.html#figuren",
+    "href": "objekte/Heilstatue__turinCat3030.html#figuren",
+    "title": "Objektblatt: Turin, Cat. 3030",
+    "section": "Figuren",
+    "text": "Figuren\n137 Figuren erfasst.\n\n\n\n\n\n\n\n\n\n\n\n\nZeichnung\nFigur-ID\nObjektseite\nRegister\nStelle\nGottheit\nSzene\n\n\n\n\n—\nheilstatue:turinCat3030:670\nVorderseite\n1\n1\nḤḥ.(w)t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:672\nVorderseite\n1\n2\nḤḥ\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:673\nVorderseite\n1\n3\nJmn.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:674\nVorderseite\n1\n4\nJmn\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:675\nVorderseite\n1\n5\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:676\nVorderseite\n1\n6\nKk\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:677\nVorderseite\n1\n7\nKk.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:678\nVorderseite\n1\n8\nNwn\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:679\nVorderseite\n1\n9\nNn.t\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:680\nRückenpfeiler\n1\n1\nꜢs.t\nIsis von Achbit\n\n\n—\nheilstatue:turinCat3030:681\nRückenpfeiler\n2\n1\nḤr.t\nHeret\n\n\n—\nheilstatue:turinCat3030:682\nRückenpfeiler\n2\n2\nNḫb.t\nNechbet\n\n\n—\nheilstatue:turinCat3030:683\nRückenpfeiler\n2\n3\nSbk.t\nSobeket\n\n\n—\nheilstatue:turinCat3030:684\nRückenpfeiler\n2\n4\nSrq.t\nSelket\n\n\n—\nheilstatue:turinCat3030:685\nRückenpfeiler\n3\n1\nSḫm.t\nSachmet als Nilpferd\n\n\n—\nheilstatue:turinCat3030:686\nRückenpfeiler\n3\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:687\nRückenpfeiler\n3\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:688\nRückenpfeiler\n4\n1\nḤr.w\nHorus auf Skorpion und Krokodil\n\n\n—\nheilstatue:turinCat3030:689\nRückenpfeiler\n4\n2\nḎḥw.tj\nThoth mit Udjat-Auge\n\n\n—\nheilstatue:turinCat3030:690\nRückenpfeiler\n4\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:691\nRückenpfeiler\n5\n1\nMꜣꜥ.t\nMaat und Ptah\n\n\n—\nheilstatue:turinCat3030:692\nRückenpfeiler\n5\n2\nPtḥ\nMaat und Ptah\n\n\n—\nheilstatue:turinCat3030:693\nRückenpfeiler\n5\n3\nḎḥw.tj\nIbis auf Standarte\n\n\n—\nheilstatue:turinCat3030:694\nRückenpfeiler\n5\n4\nSbk\nSobek mit Maat-Feder\n\n\n—\nheilstatue:turinCat3030:695\nRückenpfeiler\n6\n1\nḤr.w\nFalke auf Podest\n\n\n—\nheilstatue:turinCat3030:696\nRückenpfeiler\n6\n2\n—\nNilpferd mit Falke\n\n\n—\nheilstatue:turinCat3030:697\nRückenpfeiler\n6\n3\n—\nNilpferd\n\n\n—\nheilstatue:turinCat3030:698\nRückenpfeiler\n7\n1\n—\n—\n\n\n—\nheilstatue:turinCat3030:699\nRückenpfeiler\n7\n2\nꜢs.t\nIsis und Horus\n\n\n—\nheilstatue:turinCat3030:700\nRückenpfeiler\n7\n3\nḤr.j-š⸗f\n4-tierköpfiger Mensch\n\n\n—\nheilstatue:turinCat3030:701\nRückenpfeiler\n8\n1\n—\nPatäke in Sonnenscheibe auf gekreuzten Krokodilen\n\n\n—\nheilstatue:turinCat3030:702\nRückenpfeiler\n8\n2\nSrq.t\nSelket auf gewundener Schlange\n\n\n—\nheilstatue:turinCat3030:703\nRückenpfeiler\n8\n3\nJmn-rn⸗f\nZwei Krokodile übereinander, eines in Kapelle\n\n\n—\nheilstatue:turinCat3030:704\nRückenpfeiler\n9\n1\nJn-ḥr.t\nOnuris, der Schlange aufspießt\n\n\n—\nheilstatue:turinCat3030:705\nRückenpfeiler\n9\n2\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:turinCat3030:706\nRückenpfeiler\n9\n3\nḤr.w\nFalke auf Pylonen\n\n\n—\nheilstatue:turinCat3030:707\nRückenpfeiler\n10\n1\n—\n—\n\n\n—\nheilstatue:turinCat3030:708\nRückenpfeiler\n10\n2\nJmn\nBox\n\n\n—\nheilstatue:turinCat3030:709\nRückenpfeiler\n11\n1\nJmn-Rꜥw\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:710\nRückenpfeiler\n11;1–2\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:711\nRückenpfeiler\n11;1–2\n2\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:712\nRückenpfeiler\n11;1–2\n1\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:713\nRückenpfeiler\n11;1–2\n2\n—\nAnbetung des Amun-Re\n\n\n—\nheilstatue:turinCat3030:714\nRückenpfeiler\n12\n1\nSrq.t\nGöttin mit Skorpionkörper\n\n\n—\nheilstatue:turinCat3030:715\nRückenpfeiler\n12\n2\nḪns.w\npantheistischer Chons\n\n\n—\nheilstatue:turinCat3030:716\nRückenpfeiler\n12\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:717\nRückenpfeiler\n13\n1\nꜢs.t\nIsis, die Krokodil säugt\n\n\n—\nheilstatue:turinCat3030:718\nRückenpfeiler\n13\n2\nḤr.w\nHorus, der Große, der Herr der beiden Messer\n\n\n—\nheilstatue:turinCat3030:719\nRechte Seite\n1\n1\n—\nAdoration\n\n\n—\nheilstatue:turinCat3030:720\nRechte Seite\n2\n1\nḤr.w\nHorus-Sched in Schlange auf Krokodil hockend\n\n\n—\nheilstatue:turinCat3030:721\nRechte Seite\n2\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:722\nRechte Seite\n2\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:723\nRechte Seite\n2\n4\nḤr.w\nFalke auf Antilope\n\n\n—\nheilstatue:turinCat3030:724\nRechte Seite\n2\n5\nḎḥw.tj\nThoth, der Herr von Hermopolis, der Herr der Gottesworte\n\n\n—\nheilstatue:turinCat3030:725\nRechte Seite\n3\n1\nPtḥ-Tꜣ-tnn\nPtah-Tatennen\n\n\n—\nheilstatue:turinCat3030:726\nRechte Seite\n3\n2\nḤr.w\nHorus mit Atef-Krone\n\n\n—\nheilstatue:turinCat3030:727\nRechte Seite\n3\n3\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:turinCat3030:728\nRechte Seite\n3\n4\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:turinCat3030:729\nRechte Seite\n3\n5\nNj.t\nNeith zwei Krokodile säugend\n\n\n—\nheilstatue:turinCat3030:730\nRechte Seite\n3\n6\nNfr-tm\nNefertem als Lotos\n\n\n—\nheilstatue:turinCat3030:731\nRechte Seite\n4\n1\n—\n—\n\n\n—\nheilstatue:turinCat3030:732\nRechte Seite\n4\n2\n—\nChnum und Nut\n\n\n—\nheilstatue:turinCat3030:733\nRechte Seite\n4\n3\nH̱nm.w\nChnum und Nut\n\n\n—\nheilstatue:turinCat3030:734\nRechte Seite\n4\n4\nSrq.t\nSelket\n\n\n—\nheilstatue:turinCat3030:735\nRechte Seite\n4\n5\nḪns.w\nChons\n\n\n—\nheilstatue:turinCat3030:736\nRechte Seite\n5\n1\nḤr.w\nFalke auf Gold-Zeichen\n\n\n—\nheilstatue:turinCat3030:737\nRechte Seite\n5\n2\nPtḥ-Skr-Wsjr\nPtah-Sokar-Osiris als Patäke auf gekreuzten Krokodilen\n\n\n—\nheilstatue:turinCat3030:738\nRechte Seite\n5\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:739\nRechte Seite\n5\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:740\nRechte Seite\n5\n5\nḤr.w\nHarendotes mit Udjat-Auge\n\n\n—\nheilstatue:turinCat3030:741\nRechte Seite\n6\n1\nḎḥw.tj\nThoth\n\n\n—\nheilstatue:turinCat3030:742\nRechte Seite\n6\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:743\nRechte Seite\n6\n3\nNḫb.t\nNechbet\n\n\n—\nheilstatue:turinCat3030:744\nRechte Seite\n6\n4\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:turinCat3030:745\nRechte Seite\n6\n5\nḤr.w\nHorus-imi-Schenut\n\n\n—\nheilstatue:turinCat3030:746\nRechte Seite\n7\n1\n—\n—\n\n\n—\nheilstatue:turinCat3030:747\nRechte Seite\n7\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:748\nRechte Seite\n7\n3\nḤkꜣ\nHeka, Herr der Zauberkraft\n\n\n—\nheilstatue:turinCat3030:749\nRechte Seite\n7\n4\nḪns.w\nChons auf Tor\n\n\n—\nheilstatue:turinCat3030:750\nRechte Seite\n7\n5.0999999999999996\nḤr.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n—\nheilstatue:turinCat3030:751\nRechte Seite\n7\n5.2\nMnṯ.w\nZwei Krokodile (gebogener Schwanz) übereinander\n\n\n—\nheilstatue:turinCat3030:752\nRechte Seite\n8\n1\nḤr.w\nHorus auf Krokodil\n\n\n—\nheilstatue:turinCat3030:753\nRechte Seite\n8\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:754\nRechte Seite\n8\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:755\nRechte Seite\n8\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:756\nRechte Seite\n8\n5\n—\n—\n\n\n—\nheilstatue:turinCat3030:757\nRechte Seite\n8\n6\n—\n—\n\n\n—\nheilstatue:turinCat3030:758\nRechte Seite\n9\n1\n—\n—\n\n\n—\nheilstatue:turinCat3030:759\nRechte Seite\n9\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:760\nRechte Seite\n9\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:761\nRechte Seite\n9\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:762\nRechte Seite\n9\n5\n—\n—\n\n\n—\nheilstatue:turinCat3030:763\nRechte Seite\n9\n6\n—\n—\n\n\n—\nheilstatue:turinCat3030:764\nRechte Seite\n10\n1\n—\n—\n\n\n—\nheilstatue:turinCat3030:765\nRechte Seite\n10\n2\nḪns.w\nChons\n\n\n—\nheilstatue:turinCat3030:766\nRechte Seite\n10\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:767\nRechte Seite\n10\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:768\nRechte Seite\n10\n5\n—\nhockender krokodilsköpfiger Got\n\n\n—\nheilstatue:turinCat3030:769\nRechte Seite\n10\n6\nḪns.w\nChons\n\n\n—\nheilstatue:turinCat3030:770\nLinke Seite\n1\n1\n—\nAdoration(?)\n\n\n—\nheilstatue:turinCat3030:771\nLinke Seite\n2\n1\nḤr.w\nHarpokrates, der Verborgene\n\n\n—\nheilstatue:turinCat3030:772\nLinke Seite\n2\n2\nBꜣ\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:turinCat3030:773\nLinke Seite\n2\n3\nḤꜣ.t-mḥ.yt\nBanebdjedet mit Maat und Hatmehit\n\n\n—\nheilstatue:turinCat3030:774\nLinke Seite\n2\n4\nSḫm.t\nliegender Löwe auf Podest\n\n\n—\nheilstatue:turinCat3030:775\nLinke Seite\n3\n1\nḤr.w\nHorus auf liegendem Stier\n\n\n—\nheilstatue:turinCat3030:776\nLinke Seite\n3\n2\nḎḥw.tj\nThoth auf Stier\n\n\n—\nheilstatue:turinCat3030:777\nLinke Seite\n3\n3\nJn-ḥr.t\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:turinCat3030:778\nLinke Seite\n3\n4\nBꜣs.tt\nOnuris mit Katze auf Podest\n\n\n—\nheilstatue:turinCat3030:779\nLinke Seite\n3\n5\nḤꜥpj\nHapi auf Papyrusstängel\n\n\n—\nheilstatue:turinCat3030:780\nLinke Seite\n4\n1\nḤr.w\nFalke auf Nilpferd\n\n\n—\nheilstatue:turinCat3030:781\nLinke Seite\n4\n2\n—\n2 Katzen neben Sistrum\n\n\n—\nheilstatue:turinCat3030:782\nLinke Seite\n4\n3\n—\n—\n\n\n—\nheilstatue:turinCat3030:783\nLinke Seite\n4\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:784\nLinke Seite\n5\n1\nSḫm.t\nliegender Löwe auf Podest\n\n\n—\nheilstatue:turinCat3030:785\nLinke Seite\n5\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:786\nLinke Seite\n5\n3\n—\nPtah-Sokar-Osiris\n\n\n—\nheilstatue:turinCat3030:787\nLinke Seite\n5\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:788\nLinke Seite\n6\n1\nḪns.w\nKrokodil mit Falkenkopf\n\n\n—\nheilstatue:turinCat3030:789\nLinke Seite\n6\n2\nḤr.w\nFalke auf Papyrusstängel\n\n\n—\nheilstatue:turinCat3030:790\nLinke Seite\n6\n3\nḪns.w\nPavian und Kobra\n\n\n—\nheilstatue:turinCat3030:791\nLinke Seite\n6\n4\nSḫm.t\nPavian und Kobra\n\n\n—\nheilstatue:turinCat3030:792\nLinke Seite\n6\n5\nSbk\nSobek mit Schlange\n\n\n—\nheilstatue:turinCat3030:793\nLinke Seite\n7\n1\nꜢs.t\nbittende Isis\n\n\n—\nheilstatue:turinCat3030:794\nLinke Seite\n7\n2\nꜢs.t\nIsis, die Kind auf Schlange säugt\n\n\n—\nheilstatue:turinCat3030:795\nLinke Seite\n7\n3\nJtm\n—\n\n\n—\nheilstatue:turinCat3030:796\nLinke Seite\n7\n4\nMnw\nMin\n\n\n—\nheilstatue:turinCat3030:797\nLinke Seite\n7\n5\nkꜣ wr\nKa-wer\n\n\n—\nheilstatue:turinCat3030:798\nLinke Seite\n8\n1\nJmn-Sḫm.t\nAmun-Sachmet\n\n\n—\nheilstatue:turinCat3030:799\nLinke Seite\n8\n2\n—\n—\n\n\n—\nheilstatue:turinCat3030:800\nLinke Seite\n8\n3\nWꜣḏ.t\nWadjet\n\n\n—\nheilstatue:turinCat3030:801\nLinke Seite\n8\n4\nSrq.t\nGöttin mit Skorpionkörper\n\n\n—\nheilstatue:turinCat3030:802\nLinke Seite\n9\n1\nSḫm.t\nSachmet in Schlange\n\n\n—\nheilstatue:turinCat3030:803\nLinke Seite\n9\n2\nJmn-rn⸗f\nZwei Krokodile in Kapelle\n\n\n—\nheilstatue:turinCat3030:804\nLinke Seite\n9\n3\nḤr.w\nZwei Krokodile in Kapelle\n\n\n—\nheilstatue:turinCat3030:805\nLinke Seite\n9\n4\n—\n—\n\n\n—\nheilstatue:turinCat3030:806\nLinke Seite\n9\n5\n—\n—\n\n\n—\nheilstatue:turinCat3030:807\nLinke Seite\n9\n6\n—\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3030.html#texte",
+    "href": "objekte/Heilstatue__turinCat3030.html#texte",
+    "title": "Objektblatt: Turin, Cat. 3030",
+    "section": "Texte",
+    "text": "Texte\n\n\n\nTextart\nPosition (grob)\nLiteratur\n\n\n\n\n„Der Nagel des Atum“\nLinke Seite\nKákosy 1999: 75–77\n\n\n„Der Nagel des Atum“\nLinke Seite\nKákosy 1999: 75–77\n\n\n„Der Nagel des Ptah“\nLinke Seite\nKákosy 1999: 75–77\n\n\n„Die Elle des Heh“\nLinke Seite\nKákosy 1999: 75–77\n\n\n„Die Hand des Atum“\nRechte Seite\nKákosy 1999: 72–74\n\n\n„Die Hand des Atum“\nRechte Seite\nKákosy 1999: 72–74\n\n\nSchlangenbeschwörung\nLinke Seite\nKákosy 1999: 80–82\n\n\n„Die Flamme zum Himmel“\nVorderseite\nKákosy 1999: 69–71\n\n\nText A\nLinke Seite\nKákosy 1999: 75–77\n\n\nText B, P-L-Version (Anfang)\nRechte Seite\nKákosy 1999: 78–79\n\n\nText B, P-L-Version (Anfang)\nRechte Seite\nKákosy 1999: 78–79\n\n\nText B, P-L-Version (Anfang)\nRechte Seite\nKákosy 1999: 78–79\n\n\nText B, P-L-Version (Anfang)\nRechte Seite\nKákosy 1999: 78–79\n\n\nText B, P-L-Version (fortgesetzt)\nLinke Seite\nKákosy 1999: 80–82\n\n\nText B, P-L-Version (fortgesetzt)\nLinke Seite\nKákosy 1999: 80–82\n\n\nText B, P-L-Version (fortgesetzt)\nLinke Seite\nKákosy 1999: 80–82\n\n\n„Euer Gift“\nVorderseite\nKákosy 1999: 69–71\n\n\n„Dein Stock tötet Anubis“\nVorderseite\nKákosy 1999: 69–71"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3030.html#maße",
+    "href": "objekte/Heilstatue__turinCat3030.html#maße",
+    "title": "Objektblatt: Turin, Cat. 3030",
+    "section": "Maße",
+    "text": "Maße\n\n\n\nHöhe\nBreite\nTiefe\nBemerkungen\n\n\n\n\n50\n11.5\n24.8\n—"
+  },
+  {
+    "objectID": "objekte/Heilstatue__turinCat3030.html#ergänzende-anmerkungen",
+    "href": "objekte/Heilstatue__turinCat3030.html#ergänzende-anmerkungen",
+    "title": "Objektblatt: Turin, Cat. 3030",
+    "section": "Ergänzende Anmerkungen",
+    "text": "Ergänzende Anmerkungen\nEigene Ergänzungen zu diesem Objekt können hier eingetragen werden."
+  },
+  {
+    "objectID": "datenbank.html",
+    "href": "datenbank.html",
+    "title": "Interaktive Datenbank",
+    "section": "",
+    "text": "Die Anwendung wird mit Shinylive (R im Browser) ausgeführt. Beim ersten Aufruf können zusätzliche Browser-Ressourcen geladen werden. Datenbank als Vollbild öffnen."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "katalog.html",
+    "href": "katalog.html",
+    "title": "Figurenkatalog",
+    "section": "",
+    "text": "Die interaktive Datenbank öffnet standardmäßig den Figurenkatalog. Die Recherchefilter befinden sich links und können eingeklappt werden.\n\n\n\n\nFigurenkatalog als Vollbild öffnen."
+  }
+]
